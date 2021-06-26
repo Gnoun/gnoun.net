@@ -1,8 +1,13 @@
+head {
+  font-family: 'Inter', sans-serif;
+}
+
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   color: LightGray;
   background-color: #1E1C35;
+  font-family: 'Inter', sans-serif;
 }
 
 .graph {
@@ -12,6 +17,7 @@ body {
 .topnav {
   overflow: hidden;
   background-color: #996633; <! topnav color>
+  z-index: 1;
 }
 
 .topnav a {
@@ -23,10 +29,6 @@ body {
   font-size: 20px;
 }
 
-input {
-  width: 46px;
-}
-
 .topnav a:hover {
   background-color: #ac7339;
   text-decoration: none;
@@ -36,9 +38,38 @@ input {
   background-color: #663300;
 }
 
+.sidenav {
+  height: 886px;
+  width: 340px;
+  position: fixed;
+  z-index: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #171628;
+  overflow-x: hidden;
+  padding-left: 20px;
+}
+
+.iconlink {
+  display: flex;
+  flex-direction: row;
+}
+
+.sidenavr {
+  height: 886px;
+  width: 340px;
+  position: fixed;
+  z-index: 0;
+  bottom: 0;
+  right: 0;
+  background-color: #171628;
+  overflow-x: hidden;
+  padding-left: 20px;
+}
+
 .content {
-  margin-left: 4%;
-  margin-right: 4%;
+  margin-left: 22.5%;
+  margin-right: 22.5%;
   text-align: justify;
 }
 
@@ -52,6 +83,10 @@ input {
   content: "";
   clear: both;
   display: table;
+}
+
+input {
+  width: 46px;
 }
 
 table{
@@ -77,4 +112,12 @@ a {
 
 a:hover {
   text-decoration: underline;
+}
+
+h1 {
+  text-align: left;
+}
+
+p {
+  text-indent: 30px;
 }
