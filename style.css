@@ -18,6 +18,7 @@ body {
   overflow: hidden;
   background-color: #996633; <! topnav color>
   z-index: 1;
+  bottom: 0;
 }
 
 .topnav a {
