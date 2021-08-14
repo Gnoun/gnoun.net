@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+
+@layer base {
+	h1 {
+		@apply text-4xl font-bold my-4;
+	}
+	h2 {
+		@apply text-3xl font-semibold my-3;
+	}
+	h3 {
+		@apply text-2xl font-semibold my-1;
+	}
+	h4 {
+		@apply text-xl font-medium;
+	}
+	p {
+		@apply indent-8
+	}
+	ul, ol {
+		@apply list-disc list-inside
+	}
+	p a {
+		@apply text-link hover:underline
+	}
+	ul a {
+		@apply text-link hover:underline
+	}
+	hr {
+		@apply opacity-75
+	}
+}
+
+@tailwind components;
+
+@tailwind utilities;
