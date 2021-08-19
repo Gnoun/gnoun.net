@@ -1,0 +1,23 @@
+{
+  "name": "gnoun.net",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/content": "^1.14.0",
+    "@nuxtjs/i18n": "^7.0.1",
+    "core-js": "^3.15.1",
+    "nuxt": "^2.15.7",
+    "remark-strip-html": "^1.0.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^4.2.0",
+    "postcss": "^8.3.5",
+    "tailwindcss-text-indent": "^1.0.2"
+  }
+}

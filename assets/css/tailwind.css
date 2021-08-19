@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+
+@layer base {
+	h1 {
+		@apply text-4xl font-bold mb-4 pt-14 -mt-10 z-0;
+	}
+	h2 {
+		@apply text-3xl font-semibold mb-3 pt-14 -mt-11 z-0;
+	}
+	h3 {
+		@apply text-2xl font-semibold mb-1 pt-14 -mt-12 z-0;
+	}
+	h4 {
+		@apply text-xl font-medium pt-14 -mt-14 z-0;
+	}
+	p {
+		@apply indent-8;
+	}
+	html {
+		@apply z-10
+	}
+	ul, ol {
+		@apply list-inside;
+		list-style-type: revert;
+	}
+	li {
+		@apply pl-4;
+	}
+	a {
+		@apply text-link hover:underline;
+	}
+	hr {
+		@apply opacity-75 my-3;
+	}
+	button {
+		@apply border-4 px-2 py-1 m-2;
+		color: #ffffff;
+		background-color: #764320;
+	}
+	input {
+		@apply bg-sidenav border px-1 my-2 rounded-md text-white;
+	}
+}
+
+@tailwind components;
+
+@tailwind utilities;
