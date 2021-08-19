@@ -27,3 +27,9 @@ export default ({ $content, app }, inject) => {
 		return posts;
 	});
 }
+
+import Vue from 'vue';
+import MdImage from '~/components/MdImage.vue';
+Vue.component("MdImage", MdImage);
+import BackToOther from '~/components/BackToOther.vue';
+Vue.component("BackToOther", BackToOther);
