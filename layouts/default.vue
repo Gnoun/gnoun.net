@@ -1,6 +1,6 @@
 <template>
 	<div class="bg-main min-h-screen text-main font-main text-base leading-tight">
-		<div class="sticky top-0 h-14 bg-topbar z-10">
+		<div class="sticky top-0 h-14 bg-topbar z-50">
 			<nav class="flex flex-row min-h-full">
 				<div
 					v-for="tab in tabs"
@@ -59,7 +59,7 @@
 					<p class="mt-1">{{ $t(`common.see_also.${link.id}.summary`) }}</p>
 				</div>
 			</div>
-			<main class="max-w-screen-lg mx-auto pt-2 flex-grow px-2 overflow-x-scroll">
+			<main class="max-w-screen-lg mx-auto pt-2 flex-grow px-2 pb-4">
 				<Nuxt />
 			</main>
 			<div class="sticky top-14 right-0 w-1/5 bg-sidenav px-5 overflow-auto" style="min-width: 220px; height: calc(100vh - 56px)">

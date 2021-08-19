@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<Markdown id="other/other" />
+		<Markdown id="other/index" />
 	</div>
 </template>
 

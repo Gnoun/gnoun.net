@@ -1,0 +1,9 @@
+## What is the Secret Chamber?
+
+They say that the chamber is filled with mysterious things, unseen anywhere else. Those can range from visual to audible. The secrecy is kept quietly and cannot be seen, or heard, without opening the chamber gate first. The chamber is sealed with a password, words of uncertain content or numbers of uncertain meaning. Perhaps this password is never to be found, left in a place never to be seen.
+
+No one knows for sure what the chamber conceals, as no one is ever known to have entered it. Some say the chamber contains unheard music or other unseen art; others suggest it is a place for the cursed and exiled, chaotic by nature and, consequently, never to be let outside - a Pandora box. Perhaps one may be unwise to open the Secret Chamber.
+
+The conditions of the chamber's creation are uncertain as well. Some even suggest there were none as the chamber is nothing more but an artifice, a meaningless matter which does not take a physical shape. Some theorize the Chamber cannot be accessed by physical means, but by mental ones, or by other unknown ways. This, however, does not seem to be the truth, as the chamber's entrance, the Gateway, is a visible and interactive location. Thus, it is difficult to contradict about the physical existence of the Chamber itself, which is understood as whatever lies beyond the Gateway.
+
+A different theory states that the Secret Chamber is a site of experiments, a laboratory or machinery, and the secret code is either hidden or yet to be hidden. If the former is true, getting through the Gateway and opening the Chamber should be a matter of time. If not, however, looking for the code may be nothing more but a loss of time. One should not reveal this information to another, though. It is not believed to be safe.

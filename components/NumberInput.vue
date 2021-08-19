@@ -1,5 +1,5 @@
 <template>
-	<input type="number" @input="update($event)" class="w-12 text-black">
+	<input type="number" @input="update($event)" class="w-16">
 </template>
 
 <script>

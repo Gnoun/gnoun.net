@@ -1,0 +1,9 @@
+## Czym jest Tajemna Komnata?
+
+Mawiają, że komnata jest pełna tajemniczych rzeczy, niewidzianych nigdzie indziej. Rzeczy te mogą przyjąć postać zarówno wizualną, jak i dźwiękową. Tajemnica ta jest po cichu skrywana i nie może być ujrzana, ani usłyszana, bez uprzedniego otwarcia bramy do komnaty. Komnata jest zamknięta hasłem, słowami niepewnej treści lub liczbami niepewnego znaczenia. Być może to hasło ma nigdy nie zostać znalezione, zostawione w miejscu, które nigdy nie zostanie ujrzane.
+
+Nikt nie ma pewności, co kryje komnata, bowiem nie jest znany nikt, kto by do niej wkroczył. Niektórzy mawiają, że komnata zawiera niesłyszaną muzykę lub inną niewidzianą sztukę; inni zaś sugerują, że jest to miejsce dla przeklętych i wygnanych, chaotycznych z natury i, co za tym idzie, nigdy nie mającymi być wypuszczonym - puszka Pandory. Być może byłoby niemądrze otwierać Tajemną Komnatę.
+
+Warunki powstania komnaty są również wątpliwe. Nieliczni sugerują nawet, że nie ma żadnych, bowiem komnata jest niczym więcej, a podstępem, nic nie znaczącą sztuczką, która nie przyjmuje fizycznej postaci. Niektórzy teoretyzują, iż do Komnaty nie można się dostać sposobem fizycznym, a psychicznym, czy też innymi nieznanymi sposobami. To, jednakże, nie wydaje się być prawdą, bowiem wejście do komnaty, Brama, jest widzialnym i interaktywnym miejscem. Stąd trudno przeczyć o fizycznym istnieniu samej Komnaty, którą rozumie się jako cokolwiek, co kryje się za Bramą.
+
+Inna teoria wskazuje na to, że Tajemna Komnata to miejsce eksperymentów, laboratorium lub maszyneria, a sekretny kod jest albo ukryty, albo ma wkrótce zostać ukryty. Jeśli to pierwsze jest prawdziwe, przedostanie się przez Bramę i otwarcie Komnaty powinno być kwestią czasu. Jednakże jeśli nie, szukanie kodu może być niczym więcej, a stratą czasu. Jednak nikomu nie powinno się zdradzać tych informacji. Nie uważa się je za bezpieczne.

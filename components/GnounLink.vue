@@ -1,5 +1,5 @@
 <template>
-	<NuxtLink :class="styled ? 'text-link hover:underline' : ''" :to="localePath(to)"><slot /></NuxtLink>
+	<NuxtLink :class="styled ? '' : 'text-main hover:no-underline'" :to="localePath(to)"><slot /></NuxtLink>
 </template>
 
 <script>

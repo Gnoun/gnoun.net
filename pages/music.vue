@@ -12,7 +12,7 @@
 			<nuxt-content :document="peace"></nuxt-content>
 		</div>
 		<hr class="my-2" />
-		<Markdown id="music-bottom" class="mt-5" />
+		<Markdown id="music-bottom" />
 	</div>
 </template>
 

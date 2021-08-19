@@ -4,7 +4,7 @@
 			v-for="post in posts"
 			:key="post.id"
 		>
-			<h2>{{ post.formattedDate }}</h2>
+			<h2>{{ post. title }} {{ post.formattedDate }}</h2>
 			<nuxt-content :document="post" />
 			<hr v-if="post.index != posts.length - 1" class="my-5" />
 		</div>

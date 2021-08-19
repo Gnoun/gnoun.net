@@ -13,7 +13,8 @@
 					<nuxt-content :document="graph"></nuxt-content>
 				</div>
 				<div>
-					<iframe :src="`https://www.desmos.com/calculator/${graph.graph}?embed`" frameborder="0" class="border my-2" style="width: 500px; height: 500px;" />
+					<iframe v-if="graph.graph" :src="`https://www.desmos.com/calculator/${graph.graph}?embed`" frameborder="0" class="border my-2" style="width: 512px; height: 512px;" />
+					<iframe v-if="graph.video" :src="`https://www.youtube.com/embed/${graph.video}`" frameborder="0" style="width: 512px; height: 288px;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
 			</div>
 		</div>

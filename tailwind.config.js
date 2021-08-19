@@ -18,7 +18,8 @@ module.exports = {
       main: '#D3D3D3',
       topbar: '#F2F2F2',
       link: '#ADD8E6',
-      black: '#000000'
+      black: '#000000',
+      white: '#ffffff',
     },
     fontFamily: {
       main: ['Inter']

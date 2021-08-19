@@ -1,0 +1,1 @@
+Każde narzędzie zawiera pod sobą wyjaśnienie i więcej informacji w linku. Zawsze możesz powrócić na samą górę strony, klikając w mały przycisk "powrót na górę" znajdujący się pod każdym z narzędzi. 
