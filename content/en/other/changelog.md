@@ -3,6 +3,16 @@
 ## Full Website Changelog
 
 ---
+### release 3.0.1 "Insect Patch"
+#### October 9th, 2021
+
+<br />
+
+- Updated Other section
+  - Updated Photos of Insects: added 3 photos of moths and 2 photos of other insects
+- Updated Home section: Patched the general description
+
+---
 ### release 3.0.0 "Other Update"
 #### August 18th, 2021
 

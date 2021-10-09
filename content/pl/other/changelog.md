@@ -3,6 +3,16 @@
 ## Pełna Lista Zmian
 
 ---
+### wersja 3.0.1 "Patch Owadów"
+#### 9 października 2021
+
+<br />
+
+- Zaktualizowano sekcję Inne
+  - Zaktualizowano Zdjęcia Owadów:  dodano 3 zdjęcia ciem i 2 zdjęcia innych owadów
+- Zaktualizowano sekcję Start: Poprawiono ogólny opis
+
+---
 
 ### wersja 3.0.0 "Aktualizacja «Inne»"
 #### 18 sierpnia 2021

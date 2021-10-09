@@ -45,10 +45,13 @@ Możesz otworzyć zdjęcia w nowej karcie dla większych szczegółów.
 <MdImage img="insects/17.jpg" height="140"></MdImage>
 <MdImage img="insects/18.jpg" height="140"></MdImage>
 <MdImage img="insects/19.jpg" height="140"></MdImage>
+<MdImage img="insects/22.jpg" height="140"></MdImage>
+<MdImage img="insects/23.jpg" height="140"></MdImage>
+<MdImage img="insects/24.jpg" height="140"></MdImage>
 
 </div>
 
-### Inne insekty
+### Inne owady
 
 <div class="flex flex-row space-x-1">
 
@@ -57,5 +60,7 @@ Możesz otworzyć zdjęcia w nowej karcie dla większych szczegółów.
 <MdImage img="insects/13.jpg" height="140"></MdImage>
 <MdImage img="insects/14.jpg" height="140"></MdImage>
 <MdImage img="insects/15.jpg" height="140"></MdImage>
+<MdImage img="insects/20.jpg" height="140"></MdImage>
+<MdImage img="insects/21.jpg" height="140"></MdImage>
 
 </div>
