@@ -3,6 +3,13 @@
 ## Full Website Changelog
 
 ---
+### release 3.0.2 "Icon Patch"
+#### October 15th, 2021
+
+<br />
+- Updated website icon
+
+---
 ### release 3.0.1 "Insect Patch"
 #### October 9th, 2021
 
