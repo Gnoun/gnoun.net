@@ -3,10 +3,20 @@
 ## Pełna Lista Zmian
 
 ---
+### release 3.0.3 "Patch Ikon Pasku Bocznego"
+#### November 11th, 2021
+
+<br />
+
+- Zaktualizownao ikonę Kubagliko_PL na lewym pasku bocznym
+- Zaktualizownao ikonę BeetMacol na lewym pasku bocznym
+
+---
 ### wersja 3.0.2 "Patch Ikony"
 #### 15 października 2021
 
 <br />
+
 - Zaktualizowano ikonę strony
 
 ---

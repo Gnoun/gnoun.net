@@ -3,10 +3,20 @@
 ## Full Website Changelog
 
 ---
+### release 3.0.3 "Sidebar Icons Patch"
+#### November 11th, 2021
+
+<br />
+
+- Updated Kubagliko_PL's icon on the left sidebar
+- Updated BeetMacol's icon on the left sidebar
+
+---
 ### release 3.0.2 "Icon Patch"
 #### October 15th, 2021
 
 <br />
+
 - Updated website icon
 
 ---
