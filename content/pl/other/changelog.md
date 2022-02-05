@@ -3,8 +3,17 @@
 ## Pełna Lista Zmian
 
 ---
-### release 3.0.3 "Patch Ikon Pasku Bocznego"
-#### November 11th, 2021
+### wersja 3.0.4
+#### 5 lutego 2022
+
+<br />
+
+- Zaktualizowano opis sekcji Start
+- Zaktualizowano opis sekcji Muzyka
+
+---
+### wersja 3.0.3 "Patch Ikon Pasku Bocznego"
+#### 11 listopada 2021
 
 <br />
 

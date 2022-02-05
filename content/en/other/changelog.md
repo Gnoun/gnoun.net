@@ -3,6 +3,15 @@
 ## Full Website Changelog
 
 ---
+### release 3.0.4
+#### February 5th, 2022
+
+<br />
+
+- Patched Home section
+- Patched Music section
+
+---
 ### release 3.0.3 "Sidebar Icons Patch"
 #### November 11th, 2021
 
