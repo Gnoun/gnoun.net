@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/dkv/other/other/other", {data:[{}],fetch:{},mutations:[["setPageTitle","Other Other Other"],["setCurrentTab","other"]]});
