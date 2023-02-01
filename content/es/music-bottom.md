@@ -1,0 +1,3 @@
+### Empecé a hacer música a finales de marzo de 2019.
+
+Al principio, no era una actividad serio. Había trabajado en un proyecto una vez a la semana, dos semanas, o a lo mejor aún un mes. A finales de abril había empezado a hacerla con más frequencia y pronto empezé a crear mis primeras piezas. Los proyectos en cuales había trabajado más temprano no eran serio en absoluto y en su mayoría eran experimentos como estaba descubriendo como funciona el program (FL Studio).

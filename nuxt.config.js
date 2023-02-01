@@ -54,10 +54,28 @@ export default {
         name: 'English',
       },
       {
+        code: 'es',
+        iso: 'es-ES',
+        file: 'es.js',
+        name: 'Spanish',
+      },
+      {
+        code: 'ru',
+        iso: 'ru-RU',
+        file: 'ru.js',
+        name: 'Russian',
+      },
+      {
         code: 'pl',
         iso: 'pl-PL',
         file: 'pl.js',
         name: 'Polish',
+      },
+      {
+        code: 'dkv',
+        iso: 'dkv-NN',
+        file: 'dkv.js',
+        name: 'Daikova',
       },
     ],
     defaultLocale: 'en',

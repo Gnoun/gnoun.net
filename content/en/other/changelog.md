@@ -2,6 +2,44 @@
 
 ## Full Website Changelog
 
+<MdImage img="changelog-timeline.png" ></MdImage>
+
+---
+### release 4.0.0 "The Creative Update"
+#### February 1st, 2023
+
+<br />
+
+- Updated What's up: Wrote the 1 February 2023 entry
+- Updated Music
+  - Replaced the old versions of most early music with new ones
+  - Uploaded "Yarn of the Universe"
+  - Uploaded "Lost Spirit"
+  - Uploaded "A Faceoff with the Past"
+  - Uploaded "Yet Another Elevator Music"
+  - Uploaded "Depths of Shallow"
+  - Uploaded "Woodland Explorers"
+  - Separated the music into three albums using more horizontal lines
+- Updated Other
+  - Updated Changelog: Added a timeline of changes
+  - Updated Stories
+    - Uploaded "Absurd w Samolocie" and described the Absurd Series
+    - Uploaded "Doktor Prund i Niemożliwe Żniwo" and described the Prund Cycle
+    - Uploaded and described "Klątwa Aghroru"
+  - Removed Gon Guon (coming soon)
+  - Added The Livuluria Universe (coming soon)
+  - Added Łowcy Niebios, containing a detailed decription of my board game
+  - Moved "My organization & planning system" article to the Archive in Other Other
+  - Updated Other Other
+    - Updated List of things coming soon
+    - Updated Photos of Insects: added 1 photo of a hornet and 1 photo of another insect
+    - Updated Archive: added "My organization & planning system" article
+- Updated copyright
+- Improved the Polish translation a bit
+- Translated the entire website to Spanish and added that language to the language selection
+- Translated the entire website to Russian and added that language to the language selection
+- Created an experimental translation of the entire website in Daikova and made it accessible in the language selection
+
 ---
 ### release 3.0.4
 #### February 5th, 2022

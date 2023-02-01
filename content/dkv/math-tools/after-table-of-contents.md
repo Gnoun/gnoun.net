@@ -1,0 +1,1 @@
+Owtes cepkritak pjek gnamseka kosku loni sondartkok snokman. Owhia ilsek emorlek beluontar bliktekjik lamni "emorlek beluontar" blik owtes cepkritsku.

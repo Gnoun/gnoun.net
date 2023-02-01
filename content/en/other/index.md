@@ -3,9 +3,9 @@
 <div class="text-2xl">
 
 - [Changelog](/other/changelog)
-- Stories (coming soon)
-- Gon Guon (coming soon)
-- [My organization & planning system](/other/planning)
+- [Stories](/other/stories) (only in Polish)
+- The Livuluria universe (coming soon)
+- ["Łowcy Niebios" ("Heavens Hunters") board game](/other/łowcy-niebios)
 - [Other Other](/other/other)
 
 </div>

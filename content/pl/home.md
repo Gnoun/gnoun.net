@@ -9,7 +9,7 @@ Q: **Kim jest Gnoun?**
 A: Zobacz "[Kim jest Gnoun?](#about-gnoun)"
 <br/><br/>
 
-Q: **Czy zrobiłeś tę stronę samemu?**
+Q: **Czy zrobiłeś tę stronę sam?**
 
 A: W większości. Własnoręcznie zaprojektowałem i zaprogramowałem większość strony, lecz w krytycznych sytuacjach, otrzymywałem pomoc od [BeetMacol](https://beetmacol.com/).
 <br/><br/>

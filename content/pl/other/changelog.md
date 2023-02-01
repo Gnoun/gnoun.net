@@ -2,6 +2,52 @@
 
 ## Pełna Lista Zmian
 
+<MdImage img="changelog-timeline.png" ></MdImage>
+
+---
+### wersja 4.0.0 "Aktualizacja Kreatywna"
+#### 1 lutego 2023
+
+<br />
+
+- Zaktualizowano sekcję Co nowego: Napisano wpis z 1 lutego
+- Zaktualizowano sekcję Muzyka
+  - Zamieniono stare wersje większości wczesnych utworów na nowe
+  - Wysłano "Yarn of the Universe"
+  - Wysłano "Lost Spirit"
+  - Wysłano "A Faceoff with the Past"
+  - Wysłano "Yet Another Elevator Music"
+  - Wysłano "Depths of Shallow"
+  - Wysłano "Woodland Explorers"
+  - Rozdzielono utwory na trzy albumy używając więcej poziomych linii
+- Zaktualizowano sekcję Inne
+  - Zaktualizowano Listę Zmian: Dodano oś czasu ze zmianami
+  - Zaktualizowano Opowiadania
+    - Wysłano "Absurd w Samolocie" i opisano Serię Absurdów
+    - Wysłano "Doktor Prund i Niemożliwe Żniwo" i opisano Cykl Prunda
+    - Wysłano i opisano "Klątwa Aghroru"
+  - Usunięto Gon Guon (wkrótce)
+  - Dodano Uniwersum Livuluria (wkrótce)
+  - Dodano podstronę Łowcy Niebios, zawierającą szczegółowy opis mojej gry planszowej
+  - Przemieszczono artykuł "Moja organizacja i system planowania" do Archiwum w Inne Inne
+  - Zaktualizowano Inne Inne
+    - Zaktualizowano Listę przyszłych rzeczy na stronie
+    - Zaktualizowano Zdjęcia Owadów: dodano 1 zdjęcie szerszenia i 1 zdjęcie innego owada
+    - Zaktualizowano Archuwum: dodano artykuł "Moja organizacja i system planowania"
+- Zaktualizowano prawa autorskie
+- Ulepszono odrobinę polskie tłumaczenie
+- Przetłumaczono całą stronę na język hiszpański i dodano ten język do wyboru języków
+- Przetłumaczono całą stronę na język rosyjski i dodano ten język do wyboru języków
+- Utworzono eksperymentalne tłumaczenie całej strony na język Daikova i udostępniono je w wyborze języków
+
+---
+### wersja 3.1.0
+#### 30 marca 2022
+
+<br />
+
+- 
+
 ---
 ### wersja 3.0.4
 #### 5 lutego 2022
@@ -17,8 +63,8 @@
 
 <br />
 
-- Zaktualizownao ikonę Kubagliko_PL na lewym pasku bocznym
-- Zaktualizownao ikonę BeetMacol na lewym pasku bocznym
+- Zaktualizownano ikonę Kubagliko_PL na lewym pasku bocznym
+- Zaktualizownano ikonę BeetMacol na lewym pasku bocznym
 
 ---
 ### wersja 3.0.2 "Patch Ikony"
@@ -212,7 +258,7 @@
   - Dodano wybór języka
   - Dodano akapit "Opis strony"
   - Dodano akapit "Kim jest Gnoun?"
-  - Dodano akapit "Jak przeczytać «Gnoun»?" (dostępny tylko w języku angielskim)
+  - Dodano akapit "Jak wymówić «Gnoun»?" (dostępny tylko w języku angielskim)
 - Zaktualizowano sekcję Co nowego: Napisano wpis z 12 grudnia
   - Przetłumaczono wszystko powyżej, a także nieusunięte rzeczy z poprzednich aktualizacji, na język polski, z wyjątkiem akapitu "Jak przeczytać «Gnoun»?", i dodano ten język do wyboru języków
   - Upubliczniono stronę

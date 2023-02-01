@@ -26,7 +26,7 @@
 						{
 							id: 'discord',
 							icon: { name: 'discord.png', size: 50 },
-							url: 'https://discord.gg/AgPcd4w',
+							url: 'https://discord.gg/S3hwYzCp8v',
 						},
 						/*{
 							id: 'bitrium',
@@ -65,7 +65,7 @@
 			<div class="sticky top-14 right-0 w-1/5 bg-sidenav px-5 overflow-auto" style="min-width: 220px; height: calc(100vh - 56px)">
 				<h2>{{ $t('common.settings.title') }}</h2>
 				<h3>{{ $t('common.settings.languages.title') }}</h3>
-				<div class="flex flex-row mt-2 mb-4">
+				<div class="grid grid-cols-3 mt-2 mb-4">
 					<div
 						v-for="language in [
 							{
@@ -74,20 +74,35 @@
 								locale: 'en',
 							},
 							{
+								name: 'Spanish',
+								flag: 'es.png',
+								locale: 'es',
+							},
+							{
+								name: 'Russian',
+								flag: 'ru.png',
+								locale: 'ru',
+							},
+							{
 								name: 'Polish',
 								flag: 'pl.png',
 								locale: 'pl',
+							},
+							{
+								name: 'Daikova',
+								flag: 'skri-pruk.png',
+								locale: 'dkv',
 							},
 						]"
 						:key="language.id"
 					>
 						<NuxtLink :to="switchLocalePath(language.locale)">
-							<img :src="require(`~/assets/images/${language.flag}`)" :alt="language.name" style="width: 100px; height: 50px" class="border m-1" />
+							<img :src="require(`~/assets/images/${language.flag}`)" :alt="language.name" style="width: 100px; height: 50px" class="border mx-1 mb-3" />
 						</NuxtLink>
 					</div>
 				</div>
 				<h3>{{ $t('common.settings.soontm') }}</h3>
-				<div class="absolute bottom-2">Copyright © 2020-2021 by Gnoun</div>
+				<div class="absolute bottom-2">Copyright © 2020-2023 by Gnoun</div>
 			</div>
 		</div>
 	</div>

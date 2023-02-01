@@ -51,6 +51,14 @@ You can open the images in a new tab for more detail.
 
 </div>
 
+### Hornets
+
+<div class="flex flex-row space-x-1">
+
+<MdImage img="insects/26.jpg" height="140"></MdImage>
+
+</div>
+
 ### Other insects
 
 <div class="flex flex-row space-x-1">
@@ -60,7 +68,13 @@ You can open the images in a new tab for more detail.
 <MdImage img="insects/13.jpg" height="140"></MdImage>
 <MdImage img="insects/14.jpg" height="140"></MdImage>
 <MdImage img="insects/15.jpg" height="140"></MdImage>
+
+</div>
+
+<div class="flex flex-row space-x-1">
+
 <MdImage img="insects/20.jpg" height="140"></MdImage>
 <MdImage img="insects/21.jpg" height="140"></MdImage>
+<MdImage img="insects/25.jpg" height="140"></MdImage>
 
 </div>

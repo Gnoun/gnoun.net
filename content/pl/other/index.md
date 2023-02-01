@@ -3,9 +3,9 @@
 <div class="text-2xl">
 
 - [Lista Zmian](other/changelog)
-- Opowieści (już wkrótce)
-- Gon Guon (już wkrótce)
-- [Moja organizacja i system planowania](/other/planning) (dostępne tylko w języku angielskim)
+- [Opowiadania](other/stories)
+- Uniwersum Livuluria (już wkrótce)
+- [Gra planszowa "Łowcy Niebios"](other/łowcy-niebios)
 - [Inne Inne](other/other)
 
 </div>

@@ -8,7 +8,7 @@ Here's a few great math tools made by different people which I highly recommend.
 
 ### [Desmos Graphing Calculator](https://desmos.com/calculator)
 
-Desmos is a great graphing site which offers graphing functions, equations, inequalities, plotting tables of data, evaluating equations, exploring changes with parameters and more. You can sign up to save and share your graphs. I've been using it for more than a year now and you can see my creations in the [Graphs](/graphs) section.
+Desmos is a great graphing site which offers graphing functions, equations, inequalities, plotting tables of data, evaluating equations, exploring changes with parameters and more. You can sign up to save and share your graphs. I've been using it for many years and you can see my creations in the [Graphs](/graphs) section.
 
 <br/>
 

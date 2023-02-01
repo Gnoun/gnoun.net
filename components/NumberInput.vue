@@ -9,6 +9,11 @@ export default {
 			this.onUpdate(event.target.value);
 		}
 	},
-	props: [ 'onUpdate' ],
+	props: {
+		onUpdate: {
+			type: Function,
+			required: false,
+		},
+	},
 }
 </script>

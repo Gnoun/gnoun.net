@@ -51,6 +51,14 @@ Możesz otworzyć zdjęcia w nowej karcie dla większych szczegółów.
 
 </div>
 
+### Szerszenie
+
+<div class="flex flex-row space-x-1">
+
+<MdImage img="insects/26.jpg" height="140"></MdImage>
+
+</div>
+
 ### Inne owady
 
 <div class="flex flex-row space-x-1">
@@ -60,7 +68,13 @@ Możesz otworzyć zdjęcia w nowej karcie dla większych szczegółów.
 <MdImage img="insects/13.jpg" height="140"></MdImage>
 <MdImage img="insects/14.jpg" height="140"></MdImage>
 <MdImage img="insects/15.jpg" height="140"></MdImage>
+
+</div>
+
+<div class="flex flex-row space-x-1">
+
 <MdImage img="insects/20.jpg" height="140"></MdImage>
 <MdImage img="insects/21.jpg" height="140"></MdImage>
+<MdImage img="insects/25.jpg" height="140"></MdImage>
 
 </div>

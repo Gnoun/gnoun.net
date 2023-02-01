@@ -1,0 +1,1 @@
+Cada herramienta tiene una explicación debajo con más información en un enlace. Siempre se puede volver arriba por hacer clic en el pequeño botón que dice "volver arriba" debajo de cada herramienta.

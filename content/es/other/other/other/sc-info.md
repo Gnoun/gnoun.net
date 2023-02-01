@@ -1,0 +1,9 @@
+## ¿Qué es el Aposento Secreto?
+
+Se dice que el aposento es llenado con cosas misteriosas, que no se puede ver en otros lugares. Esos pueden ser visuales o audibles. El secreto es guardado en silencio y no se puede verlo, o oírlo, sin abrir el portón del aposento antes. El aposento es sellado con una contraseña, palabras de origen incierto o números de significado incierto. A lo mejor esta contraseña nunca se va a encontrar, dejado en un lugar que nunca se va a ver.
+
+Nadie sabe con seguridad que oculta el aposento, porque no se sabe a nadie que lo enteró. Algunos dicen que el aposento contiene música inédita o otro arte que no era visto; otros sugieren que es un lugar para los embrujados y los exiliados, caótico de carácter y, por consiguiente, nunca para ser soltado – una caja de Pandora. Quizás es imprudente abrir el Aposento Secreto.
+
+Las circunstancias de la creación del aposento también no están seguras. Algunos aún sugieren que no era nada porque el aposento es nada más que un artificio, una materia sin sentido que no puede tomar una forma física. Algunos teorizen que no se puede accerder al Aposento por medios físicos, pero por mentales, o otras maneras desconocidos. Eso, sin embargo, no parece verdad, porque la entrada del Aposento, el Portón, es una localización visible y interactiva. Por eso, es dificil contradecir sobre la existencia físical del Aposento en sí, que se entiende como lo que está situado fuera del Portón.
+
+Una teoría diferente dice que el Aposento Secreto es un sitio de experimientos, un laboratorio o maquinería, y el código secreto es oculto o va a estar oculto. Si el primero es verdad, pasar por el Portón y abrir el Aposento debe ser una cuestión de tiempo. Si no, sin embargo, buscar el código puede ser nada más que pérdida de tiempo. Sin embargo, no es recomendable revelar esta información a otros. Ese no parece seguro.
