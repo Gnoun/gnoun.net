@@ -8,4 +8,4 @@ Además, por favor no juzgue los nombres. A veces no tengo buenas ideas con ello
 
 ---
 
-## [?] Means of Reflection (trabajo en elaboración)
+## [?] (trabajo en elaboración)

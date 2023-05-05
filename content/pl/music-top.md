@@ -8,4 +8,4 @@ A, i proszę nie oceniać nazw. Czasami nie mam na nie dobrych pomysłów.
 
 ---
 
-## [?] Means of Reflection (praca w toku)
+## [?] (praca w toku)

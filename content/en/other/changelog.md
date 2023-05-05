@@ -5,6 +5,23 @@
 <MdImage img="changelog-timeline.png" ></MdImage>
 
 ---
+### release 4.1.1 "The Worldbuilding Update"
+#### May 5th, 2023
+
+- Updated Other section
+  - Updated the Livuluria universe:
+    - Wrote the general description
+    - Uploaded the map of Omakea
+    - Described Omakea's creation process and inspirations
+    - Described future plans regarding the section
+- Updated What's up section: Wrote the 5 May 2023 entry
+- Fix in Math tools secion
+- Updated Music section
+  - Fixed the problem with "New Beginning" and "Espape of the Bits" not playing
+  - Minor description fixes
+- Minor translation fixes
+
+---
 ### release 4.0.0 "The Creative Update"
 #### February 1st, 2023
 

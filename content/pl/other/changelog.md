@@ -5,12 +5,29 @@
 <MdImage img="changelog-timeline.png" ></MdImage>
 
 ---
+### wersja 4.1.1 "Aktualizacja Worldbuildingowa"
+#### 5 maja 2023
+
+- Zaktualizowano sekcję Inne
+  - Zaktualizowano Uniwersum Livuluria:
+    - Napisano ogólny opis
+    - Wysłano mapę Omakei
+    - Opisano proces tworzenia i inspiracje Omakei
+    - Opisano przyszłe plany dotyczące sekcji
+- Poprawka w sekcji Matematyczne Narzędzia
+- Zaktalizowano sekcję Muzyka
+  - Naprawiono problem z niedziałającymi "New Beginning" i "Escape of the Bits"
+  - Pomniejsze poprawki opisowe
+- Zaktualizowano sekcję Co nowego: Napisano wpis z 5 maja 2023
+- Pomniejsze poprawki w tłumaczeniach
+
+---
 ### wersja 4.0.0 "Aktualizacja Kreatywna"
 #### 1 lutego 2023
 
 <br />
 
-- Zaktualizowano sekcję Co nowego: Napisano wpis z 1 lutego
+- Zaktualizowano sekcję Co nowego: Napisano wpis z 1 lutego 2023
 - Zaktualizowano sekcję Muzyka
   - Zamieniono stare wersje większości wczesnych utworów na nowe
   - Wysłano "Yarn of the Universe"
@@ -39,14 +56,6 @@
 - Przetłumaczono całą stronę na język hiszpański i dodano ten język do wyboru języków
 - Przetłumaczono całą stronę na język rosyjski i dodano ten język do wyboru języków
 - Utworzono eksperymentalne tłumaczenie całej strony na język Daikova i udostępniono je w wyborze języków
-
----
-### wersja 3.1.0
-#### 30 marca 2022
-
-<br />
-
-- 
 
 ---
 ### wersja 3.0.4

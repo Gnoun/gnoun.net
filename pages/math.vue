@@ -8,12 +8,11 @@
 				<div>
 					1. <b>{{ $t('math.table.group1') }}</b>
 					<div class="indent-4">
-						<div>a. <GnounLink to="/math#numeral-systems">{{ $t('math.table.tool1a') }}</GnounLink></div>
-						<div>b. <GnounLink to="/math#fractions" >{{ $t('math.table.tool1b') }}</GnounLink></div>
-						<div>c. <GnounLink to="/math#gcf" >{{ $t('math.table.tool1c') }}</GnounLink></div>
-						<div>d. <GnounLink to="/math#lcm" >{{ $t('math.table.tool1d') }}</GnounLink></div>
-						<div>e. <GnounLink to="/math#degree_to_radian" >{{ $t('math.table.tool1e') }}</GnounLink></div>
-						<div>f. <GnounLink to="/math#radian_to_degree" >{{ $t('math.table.tool1f') }}</GnounLink></div>
+						<div>a. <GnounLink to="/math#fractions">{{ $t('math.table.tool1a') }}</GnounLink></div>
+						<div>b. <GnounLink to="/math#gcf" >{{ $t('math.table.tool1b') }}</GnounLink></div>
+						<div>c. <GnounLink to="/math#lcm" >{{ $t('math.table.tool1c') }}</GnounLink></div>
+						<div>d. <GnounLink to="/math#degree_to_radian" >{{ $t('math.table.tool1d') }}</GnounLink></div>
+						<div>e. <GnounLink to="/math#radian_to_degree" >{{ $t('math.table.tool1e') }}</GnounLink></div>
 					</div>
 				</div>
 				<div>
@@ -52,14 +51,6 @@
 		</div>
 		<Markdown id="math-tools/after-table-of-contents" />
 		<ReturnToTop class="my-2" />
-		<MathTool :tool="tools.numeral-systems">
-			{{ $t('math.ns.binary') }}<div><NumberInput :onUpdate="ns2" /> </div>
-			{{ $t('math.ns.octal') }}<div><NumberInput :onUpdate="ns8" /> </div>
-			{{ $t('math.ns.decimal') }}<div><NumberInput :onUpdate="ns10" /> </div>
-			{{ $t('math.ns.hexadecimal') }}<div><NumberInput :onUpdate="ns16" /> </div>
-			<!--{{ $t('math.ns.rgb') }}<div><NumberInput :onUpdate="ns" /> </div>-->
-				
-		</MathTool>
 		<MathTool :tool="tools.fractions">
 			{{ $t('math.frac.input') }}:
 			<div><NumberInput :onUpdate="frac1" /> <span class="text-xs">{{ $t('math.frac.com1') }}</span></div>

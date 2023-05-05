@@ -8,4 +8,4 @@ Hejon, (also) bukmi ha JUDGE swarjana. Argukmakaj ha pjek buki eskilak zanaok.
 
 ---
 
-## [?] Means of Reflection (vyseka gozkada)
+## [?] (vyseka gozkada)

@@ -5,12 +5,29 @@
 <MdImage img="changelog-timeline.png" ></MdImage>
 
 ---
-### release 4.0.0 "The Creative Update"
-#### February 1st, 2023
+### lanzamiento 4.1.1 "La Actualización del Worldbuilding"
+#### 5 de mayo de 2023
+
+- Actualizado la sección Otros
+  - Actualizado el universo de Livuluria:
+    - Escribido la descripción general
+    - Cargado el mapa de Omakea
+    - Describido el proceso de creación y inspiraciones de Omakea
+    - Describido planos futuros con respecto a la sección
+- Actualizado la sección Que pasa: Escribido la entrada del 5 de mayo de 2023
+- Un parche en la sección Herramientas de Mates
+- Actualizado la sección Música
+  - Arreglado el problema con "New Beginning" y "Espape of the Bits" que no sonaban
+  - Menores parches de descripción
+- Menores parches de traducción
+
+---
+### lanzamiento 4.0.0 "La Acutalización "
+#### 1 de febrero de 2023
 
 <br />
 
-- Actualizaco la sección Qué pasa: Escribido la entrada del 1 de febrero de 2023
+- Actualizado la sección Qué pasa: Escribido la entrada del 1 de febrero de 2023
 - Actualizado la sección Música
   - Reemplazado versiones viejos de la mayoría de mi música temprana con nuevos
   - Cargado "Yarn of the Universe"

@@ -2,7 +2,7 @@
 
 Buki (nice) wigek konu koskja! Ko warlgnapada, owtes soek murtarani ozjik [Gnoun](#about-gnoun)jik. Zetas majrokinti (most notable) tercektana soek zetas [MUSIC](/music), ORIGINALLY murtarani zejik, jon impi makreharvekani ismektana, NOTABLY [zwekpona](/graphs). Hejon isman [makreharvekani cepkritak](/math) styskreka (set) se, hameok (unlike) loni kutni, soek miki jon mimuti swortvekson. [Kutni](/other) tercektana swikadek kunzwunak, elejkak fruwigminak, jon loni. Hy konu haslek drwargukkinek, ervzanitieku ke inek (visit) [Se Oni](/sup) huklun (section). Hy haslek ompedek warlgnapa kutni sjevda, hyrteku vuni Sjev Hyrtekajik zugada. Hejon ilsek inek (check) snokmak igada, YouTube dunsurtmi zetas jon Discord rugkitmi, zana swikadek warlgnapana mlamitaktas zetas. Pjeku wamki kwiseka!
 
-## Rekvi ASKED QUESTIONS
+## Rekvi Orzektana
 
 Q: **Sesme soek Gnoun?**
 

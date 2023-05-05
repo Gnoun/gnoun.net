@@ -4,7 +4,7 @@
 
 - [Kunsun Voks](/other/changelog)
 - [Kunzwunak](/other/stories) (seli Polovada)
-- Livuluria owtesjalun (tarmon jani)
+- [Livuluria owtesjalun](/other/livuluria)
 - ["Łowcy Niebios" ("Glosmak Gnastkitak")](/other/łowcy-niebios)
 - [Kutni Kutni](/other/other)
 

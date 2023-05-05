@@ -5,6 +5,23 @@
 <MdImage img="changelog-timeline.png" ></MdImage>
 
 ---
+### drimet 4.1.1 "Jalunismekani Ekkutreka"
+#### 5 MAY 2023
+
+- Ekkutaran Kutni huklun
+  - Ekkutaran Livuluria owtesjalun
+    - Iwedan sowdani lweda
+    - Mijran Omakea zdepa
+    - Lwedan Omakea ismeka PROCESS jon daneshdanak
+    - Lwedan eonuki knykunak ornijseki huklun
+- Ekkutaran Se oni huklun: Iwedan 5 MAY 2023 wedan
+- Pon Makharvani Cepkritak huklunda
+- Ekkutaran MUSIC huklun
+  - Ponan urlun havyseki "New Beginning"-ok jon "Espape of the Bits"-ok
+  - Lamniti lweda ponak
+- Lamniti gnamsysekana ponak
+
+---
 ### drimet 4.0.0 "Ismi Ekkutreka"
 #### 1 FEBRUARY 2023
 

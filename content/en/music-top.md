@@ -8,4 +8,4 @@ Also, please don't judge the names. Sometimes I don't have good ideas with them.
 
 ---
 
-## [?] Means of Reflection (work in progress)
+## [?] (work in progress)
