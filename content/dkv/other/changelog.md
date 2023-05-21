@@ -5,7 +5,17 @@
 <MdImage img="changelog-timeline.png" ></MdImage>
 
 ---
-### drimet 4.1.1 "Jalunismekani Ekkutreka"
+### drimet 4.1.1
+#### 21 MAY 2023
+
+- Ponitian MUSIC huklun: ekkutaran sowdani lweda
+- Ponitian Kutni huklun:
+  - Van Livuluria Owtesjalun snokm veki (working) owtes gnamsysektadak
+  - Gnamsysan Livuluria Owtesjalun Polovatar
+- Lamniti gnamsysektana ponak
+
+---
+### drimet 4.1.0 "Jalunismekani Ekkutreka"
 #### 5 MAY 2023
 
 - Ekkutaran Kutni huklun
@@ -19,7 +29,7 @@
 - Ekkutaran MUSIC huklun
   - Ponan urlun havyseki "New Beginning"-ok jon "Espape of the Bits"-ok
   - Lamniti lweda ponak
-- Lamniti gnamsysekana ponak
+- Lamniti gnamsysektana ponak
 
 ---
 ### drimet 4.0.0 "Ismi Ekkutreka"
@@ -139,7 +149,7 @@
 - Ponitian vinesmak systreka
 - Kunsunan warlgnapa FONT
 - Ponitian DATE FORMAT
-- Van impi lamni kunsunak gnamsysekada
+- Van impi lamni kunsunak gnamsysektada
 - Gnamsyskan oni ruan pshakdan
 - Gnamsyskan MUSIC lwedana MUSIC huklunda
   

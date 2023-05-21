@@ -5,7 +5,17 @@
 <MdImage img="changelog-timeline.png" ></MdImage>
 
 ---
-### lanzamiento 4.1.1 "La Actualización del Worldbuilding"
+### lanzamiento 4.1.1
+#### 21 de mayo de 2023
+
+- Arreglado la sección Música: actualizado la descripción general
+- Arreglado la sección Otros:
+  - El enlace al Universo de Livuluria ahora funciona en todos traducciones
+  - Traducido el Universo de Livuluria a polaco
+- Menores parches de traducción
+
+---
+### lanzamiento 4.1.0 "La Actualización del Worldbuilding"
 #### 5 de mayo de 2023
 
 - Actualizado la sección Otros

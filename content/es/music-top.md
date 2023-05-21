@@ -1,6 +1,6 @@
 # Mis Composiciones Músicales
 
-Here's all the music I made in 2019 and 2020. Music from 2021 isn't here because so far all of it belongs to a soundtrack which I plan to release later. Sorry.
+Aquí hay toda la música se creí en 2019-2020 y en 2022. La música de 2021 no está aquí porque todo de esa pertenece a una banda sonora que planeo lanzar luego. Lo siento.
 
 **La música es gratis para usar en proyectos no comerciales tan con tal de que yo consiga un mérito visible** en el lugar donde será usado. Si no es posible, contáctame para más información. En el caso de proyectos comerciales, el precio es discutible (pero bastante bajo).
 
@@ -8,4 +8,4 @@ Además, por favor no juzgue los nombres. A veces no tengo buenas ideas con ello
 
 ---
 
-## [?] (trabajo en elaboración)
+## [?] (trabajo en elaboración; estará refinado)

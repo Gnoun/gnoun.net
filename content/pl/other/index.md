@@ -4,7 +4,7 @@
 
 - [Lista Zmian](other/changelog)
 - [Opowiadania](other/stories)
-- Uniwersum Livuluria (już wkrótce)
+- [Uniwersum Livuluria](/other/livuluria)
 - [Gra planszowa "Łowcy Niebios"](other/łowcy-niebios)
 - [Inne Inne](other/other)
 

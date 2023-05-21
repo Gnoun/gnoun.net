@@ -5,7 +5,17 @@
 <MdImage img="changelog-timeline.png" ></MdImage>
 
 ---
-### release 4.1.1 "The Worldbuilding Update"
+### release 4.1.1
+#### May 21st, 2023
+
+- Patched Music section: updated the general description
+- Patched Other section:
+  - Made the Livuluria universe subpage link work on all translations
+  - Translated the Livuluria universe to Polish
+- Minor translation fixes
+
+---
+### release 4.1.0 "The Worldbuilding Update"
 #### May 5th, 2023
 
 - Updated Other section

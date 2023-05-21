@@ -5,7 +5,17 @@
 <MdImage img="changelog-timeline.png" ></MdImage>
 
 ---
-### wersja 4.1.1 "Aktualizacja Worldbuildingowa"
+### wersja 4.1.1
+#### 21 maja 2023
+
+- Poprawiono sekcję Muzyka: zaktualizowano ogólny opis
+- Poprawiono sekcję Inne:
+  - Link do podstrony Uniwersum Livuluria działa teraz na wszystkich tłumaczeniach
+  - Przetłumaczono Uniwersum Livuluria na język polski
+- Pomniejsze poprawki w tłumaczeniach
+
+---
+### wersja 4.1.0 "Aktualizacja Worldbuildingowa"
 #### 5 maja 2023
 
 - Zaktualizowano sekcję Inne
