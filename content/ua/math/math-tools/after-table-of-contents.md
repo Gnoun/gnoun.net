@@ -1,0 +1,1 @@
+Every tool has an explanation below it with more information linked. You can always return to the top by clicking on the small "return to top" button under each tool.

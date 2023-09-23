@@ -41,7 +41,7 @@
 						{
 							id: 'kubagliko',
 							icon: { name: 'kubagliko_pl.png', size: 40 },
-							url: 'https://kubaglikopl.github.io/',
+							url: 'https://glikopl.github.io/',
 						},
 						{
 							id: 'github',
@@ -70,27 +70,44 @@
 						v-for="language in [
 							{
 								name: 'English',
-								flag: 'en.png',
+								flag: 'lang/en.png',
 								locale: 'en',
 							},
 							{
 								name: 'Spanish',
-								flag: 'es.png',
+								flag: 'lang/es.png',
 								locale: 'es',
 							},
 							{
 								name: 'Russian',
-								flag: 'ru.png',
+								flag: 'lang/ru.png',
 								locale: 'ru',
 							},
 							{
 								name: 'Polish',
-								flag: 'pl.png',
+								flag: 'lang/pl.png',
 								locale: 'pl',
+							},
+						]"
+						:key="language.id"
+					>
+						<NuxtLink :to="switchLocalePath(language.locale)">
+							<img :src="require(`~/assets/images/${language.flag}`)" :alt="language.name" style="width: 100px; height: 50px" class="border mx-1 mb-3" />
+						</NuxtLink>
+					</div>
+				</div>
+				<h4>{{ $t('common.settings.languages.unfinished') }}</h4>
+				<div class="grid grid-cols-3 mt-2 mb-4">
+					<div
+						v-for="language in [
+							{
+								name: 'Ukrainian',
+								flag: 'lang/ua.png',
+								locale: 'ua',
 							},
 							{
 								name: 'Daikova',
-								flag: 'skri-pruk.png',
+								flag: 'lang/skri-pruk.png',
 								locale: 'dkv',
 							},
 						]"
@@ -125,7 +142,6 @@ export default {
 		let tabs = [
 			{ id: 'home', url: '/' },
 			{ id: 'sup', url: '/sup' },
-			{ id: 'graphs', url: '/graphs' },
 			{ id: 'math', url: '/math' },
 			{ id: 'music', url: '/music' },
 			{ id: 'other', url: '/other' },
@@ -137,7 +153,7 @@ export default {
 	},
 	head() {
 		return {
-			title: (this.getPageTitle() ? this.getPageTitle() + " - " : "") + "Gnoun's Website",
+			title: (this.getPageTitle() ? this.getPageTitle() + " | " : "") + this.$t('common.info'),
 		}
 	},
 }

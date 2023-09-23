@@ -2,11 +2,11 @@
 
 ## Łowcy Niebios
 
-Łowcy Niebios to gra planszowa stworzona przez Gnouna jesienią 2021 roku.
+Łowcy Niebios to gra planszowa, którą stworzyłem jesienią 2021 roku.
 
 <br>
 
-Obecnie, gra nie posiada żadnych kopii, a oryginał przebywa w pokoju Gnouna.
+Obecnie gra nie posiada żadnych kopii, a oryginał przebywa w moim pokoju.
 
 <br>
 
@@ -37,21 +37,21 @@ Gra jest przeznaczona dla 2-8 graczy, lecz według odbytych rozgrywek rozgrywka 
 
 #### Wpływy
 
-Gnoun miał trzy główne wpływy, kiedy tworzył grę: jego poprzednia gra "Wyścig po Skarb" z lutego 2018 roku, [Blood Rage](https://en.wikipedia.org/wiki/Blood_Rage_(board_game)) i [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)). "Wyścig po Skarb" zawierał już karty, choć mniej zróżnicowane, a także dwa sklepy, specjalne obszary oraz plansze graczy, lecz ruch nadal był losowy. Koncepcje takie jak wielokrotność jednostek, siła klanu czy karty bitwy były silnie zainspirowane grą Blood Rage. Było to również główne źródło inspiracji dla systemu walki i mogło wpłynąć na chronologię gry. O ile Gnoun wymienia Monopoly w swoich głównych inspiracjach, trudno jest stwierdzić, które elementy gry mogło zainspirować. Elementy takie jak system ekonomii i koncepcja wrogiego klanu pojawiającego się jako gracz sam w sobie nie były zainspirowane niczym konkretnym i rozwinęły się głównie w fazie produkcji.
+Miałem trzy główne wpływy, kiedy tworzyłem grę: moja poprzednia gra "Wyścig po Skarb" z lutego 2018 roku, [Blood Rage](https://en.wikipedia.org/wiki/Blood_Rage_(board_game)) i [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)). "Wyścig po Skarb" zawierał już karty, choć mniej zróżnicowane, a także dwa sklepy, specjalne obszary oraz plansze graczy, lecz ruch nadal był losowy. Koncepcje takie jak wielokrotność jednostek, siła klanu czy karty bitwy były silnie zainspirowane grą Blood Rage. Było to również główne źródło inspiracji dla systemu walki i mogło wpłynąć na chronologię gry. O ila wymieniam Monopoly w swoich głównych inspiracjach, trudno jest stwierdzić, które elementy gry mogło zainspirować. Elementy takie jak system ekonomii i koncepcja wrogiego klanu pojawiającego się jako gracz sam w sobie nie były zainspirowane niczym konkretnym i rozwinęły się głównie w fazie produkcji.
 
 #### Pre-produkcja i produkcja
 
-Gnoun pierwszy raz pomyślał o grze 1 stycznia 2021 po grze w [Brass: Lancashire](https://boardgamegeek.com/boardgame/28720/brass-lancashire) z rodziną. Potem, 2-3 stycznia zagrano w "Wyścig po Skarb", lecz gra zakończyła się nierozstrzygnięta. Po zauważeniu wielu błędów, Gnoun wpadł na wiele pomysłów związanych z nową grą i zaczął je zbierać. Z czasem pojawiło się ich więcej, zwłaszcza w marcu i kwietniu. W kwietniu Gnoun miał wystarczająco pomysłów, aby zastanowić się nad rozpoczęciem gry w lipcu, lecz produkcja ostatecznie została opóźniona do września po części dlatego, że niektórym elementom brakowało wyrazistości, a także z powodu niespodziewanej ilości nierozstrzygniętych projektów w lipcu.
+Pierwszy raz pomyślałem o grze 1 stycznia 2021 po grze w [Brass: Lancashire](https://boardgamegeek.com/boardgame/28720/brass-lancashire) z rodziną. Potem, 2-3 stycznia zagrano w "Wyścig po Skarb", lecz gra zakończyła się nierozstrzygnięta. Po zauważeniu wielu błędów, wpadłem na wiele pomysłów związanych z nową grą i zacząłem je zbierać. Z czasem pojawiło się ich więcej, zwłaszcza w marcu i kwietniu. W kwietniu miałem wystarczająco pomysłów, aby zastanowić się nad rozpoczęciem gry w lipcu, lecz produkcja ostatecznie została opóźniona do września po części dlatego, że niektórym elementom brakowało wyrazistości, a także z powodu niespodziewanej ilości nierozstrzygniętych projektów w lipcu.
 
-Produkcja rozpoczęła się 2 września i zakończyła 9 grudnia. We wczesnym 2021, Gnoun spodziewał się, że potrwa 2 tygodnie, około 2 razy dłużej niż poprzednia gra, "Wyścig po Skarb", a gdy produkcja się zaczęła, miał nadzieję ją skończyć w ciągu września, lecz gra okazała się bardziej wymagająca. Samo skończenie planszy głównej zajęło 2 tygodnie. Intstrukcja okazała się być długa na 20 stron, z czego 6 opisywało wyłącznie akcje graczy. 155 kart również okazało się bardziej czasochłonnymi, jako że każda z nich zawierała szczegółowy wzór i ostatecznie karty okazały się najbardziej wymagającym elementem gry. Zarowno karty, jak i instrukcja zostały zakończone dopiero w połowie listopada. Żetony, których razem było 271, zostały rozpoczęte po kartach i zajęły około 2 tygodnie. Na koniec zebrano plansze klanów i pionki reprezentujące jednostki graczy, i gra została ostatecznie zakończona 9 grudnia.
+Produkcja rozpoczęła się 2 września i zakończyła 9 grudnia. We wczesnym 2021, spodziewałem się, że potrwa 2 tygodnie, około 2 razy dłużej niż poprzednia gra, "Wyścig po Skarb", a gdy produkcja się zaczęła, miałem nadzieję ją skończyć w ciągu września, lecz gra okazała się bardziej wymagająca. Samo skończenie planszy głównej zajęło 2 tygodnie. Intstrukcja okazała się być długa na 20 stron, z czego 6 opisywało wyłącznie akcje graczy. 155 kart również okazało się bardziej czasochłonnymi, jako że każda z nich zawierała szczegółowy wzór i ostatecznie karty okazały się najbardziej wymagającym elementem gry. Zarowno karty, jak i instrukcja zostały zakończone dopiero w połowie listopada. Żetony, których razem było 271, zostały rozpoczęte po kartach i zajęły około 2 tygodnie. Na koniec zebrano plansze klanów i pionki reprezentujące jednostki graczy, i gra została ostatecznie zakończona 9 grudnia.
 
 #### Post-produkcja i patche
 
-11 grudnia zaczęła się pierwsza gra testowa, z BeetMacol i Myoko. Grali przez 4 godziny prawie do północy. W jego "Trivia log", Gnoun wspomina, że gra okazała się być "bardzo zrównoważona, lecz odrobinę powolna na początku (przynajmniej dla mnie), prawdopodobnie dlatego, że brakowało nam wyraźnych strategii". Gra testowa zakończyła się 18 grudnia. Gnoun wspomniał, że zajęła "trzy razy dłużej, niż było spodziewane", choć nie jest znane, jak długo dokładnie trwała. Gnoun najpawdopodobniej liczył, że gra zajmie 2-3 godziny.
+11 grudnia zaczęła się pierwsza gra testowa, z BeetMacol i Myoko. Grali przez 4 godziny prawie do północy. (W swoim "Trivia log" wspominam, że gra okazała się być "bardzo zrównoważona, lecz odrobinę powolna na początku (przynajmniej dla mnie), prawdopodobnie dlatego, że brakowało nam wyraźnych strategii".) Gra testowa zakończyła się 18 grudnia. Wspomniałem, że zajęła "trzy razy dłużej, niż było spodziewane", choć nie jest znane, jak długo dokładnie trwała. Najpawdopodobniej liczyłem, że gra zajmie 2-3 godziny.
 
-9 stycznia 2022, miesiąc po zakończeniu produkcji, gra otrzymała odpowiednie dla niej pudło, które pozwoliło Gnounowi wreszcie uwolnić miejsce z jego biurka. Od tamtego czasu, gra przebywa na jego szafce.
+9 stycznia 2022, miesiąc po zakończeniu produkcji, gra otrzymała odpowiednie dla niej pudło, które pozwoliło mi wreszcie uwolnić miejsce z mojego biurka. Od tamtego czasu, gra przebywa na mojej szafce.
 
-Początkowo, Gnoun pozostawił grę w większości niezmienioną, mimo że niektórym mniejszym kwestiom brakowało klarowności, i w 2022 zagrano przynajmniej jeszcze jedną grę. 6-7 stycznia 2023, podczas gdy Florik, znajomy z Krakowa, przybył do Łomianek na 3 dni do 8 stycznia, rozegrano pierwszą skończoną 4-osobową grę (grali Gnoun, BeetMacol, Myoko i Florik), i okazała się idealnie zrównoważona i trwała około 10 godzin. Po tej rozgrywce, Gnoun utworzył listę 15 rzeczy do przemyślenia w nowym patchu, którego dokonał 26 stycznia.
+Początkowo, pozostawiłem grę w większości niezmienioną, mimo że niektórym mniejszym kwestiom brakowało klarowności, i w 2022 zagrano przynajmniej jeszcze jedną grę. 6-7 stycznia 2023, podczas gdy Florik, znajomy z Krakowa, przybył do Łomianek na 3 dni do 8 stycznia, rozegrano pierwszą skończoną 4-osobową grę (grali BeetMacol, Myoko, Florik i ja), i okazała się idealnie zrównoważona i trwała około 10 godzin. Po tej rozgrywce, utworzyłem listę 15 rzeczy do przemyślenia w nowym patchu, którego dokonałem 26 stycznia.
 
 ### Lista Zmian
 

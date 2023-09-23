@@ -2,7 +2,89 @@
 
 ## El Completo Registro de Cambios
 
-<MdImage img="changelog-timeline.png" ></MdImage>
+<!-- <MdImage img="changelog-timeline.png" ></MdImage> -->
+
+### lanzamiento 5.0.0 "La Actualización de Información"
+#### 22 de septiembre de 2023
+
+- Actualizado la sección Inicio
+  - Eliminado la mitad del párrafo inicial para reescribir debajo
+  - Añadido el párrafo "¿De qué es este sitio?"
+    - Añadido información sobre música
+    - Añadido información sobre mates
+    - Añadido información sobre autosuperación
+    - Añadido información sobre cuentos
+  - Eliminado Preguntas Frecuentes
+  - Añadido el párrafo "¿Como hábias creído este sitio?"
+  - Rewrote el párrafo "¿Quién es Gnoun?"
+- Actualizado la sección Qué pasa
+  - Arreglado el enlace a la plantilla de gráficos en la entrada de 29 de marzo de 2021
+  - Escribido la entrada de 23 de septiembre de 2023
+- Eliminado la sección Gráficos
+- Eliminado la sección Herramientas de Mates
+- Añadido la sección Mats
+  - Añadido la subsección Gráficos (conteniendo la antiguo sección Gráficos) con una descripción corta
+  - Añadido la subsección Herramientas (conteniendo la antiguo sección Herramientas de Mates) con una descripción corta
+  - Añadido la subsección Gráficos de datas (próximamente)
+  - Añadido ??? (próximamente)
+- Actualizado la sección Música
+  - Actualizado la descripción general
+  - Añadido la vista de albumos
+    - Añadido Early works (con la mayoría de composiciones antes cargados)
+      - Escribido la descripción general
+    - Añadido MPD
+      - Cargado 12 nuevas composiciones
+    - Añadido Gon Guon
+      - Cargado 4 nuevas composiciones
+    - Añadido ???
+      - Añadido 6 composiciones antes disponibles (cargados en [4.0.0](#lanzamiento-400-la-acutalización))
+      - Cargado 4 nuevas composiciones
+- Actualizado la sección Otros
+  - Cambiado la vista de lista a la vista de rejílla con imagenes y descripciones cortas de cada proyecto
+  - Actualizado Cuentos
+    - Añadido datas de empiezo y fin en corchetes al lado de cada serie
+    - Cargado "Spontagun II Nieuchwytny" y describido la serie de Spontagunes
+    - Actualizado la serie de Prund: Añadido "3. ???" (próximamente)
+  - Añadido El idioma Daikova (próximamente)
+  - Actualizado Łowcy Niebios: cambiádo la narración de tercera persona a primera persona
+  - Añadido Danaikor ("Oasis"):
+    - Escribido la descripción general
+    - Describido el Parkour Diabólico
+    - Describido la Isla Baja
+    - Describido el Pozo de los Perforadores
+    - Describido la Fortaleza
+  - Añadido Autosuperación:
+    - Cargado el proyecto de TBP en su estado de 22 de septiembre de 2023
+  - Añadido Mi sistema de organización (próximamente)
+  - Añadido El juego de Cuatras Puertas (próximamente)
+  - Actualizado Registro de Cambios: (temporalmente) eliminado la cronologia de cambios
+  - Añadido Sobre mí
+    - Cargado el plan de acciónes de junio de 2023
+    - Añadido la lista de terminos
+    - Añadido Estatisticos genials
+    - Añadido el párrafo Mi aventura con la música
+    - Añadido el párrafo Porque escribo
+    - Añadido el párrafo La programación, diseña de niveles, juegos de mesa, y otras cosas
+    - Cargado un imagen del sistema nueva en su estado de 19 de septiembre de 2023
+  - Actualizado Otros Otros
+    - Actualizado Lista de próximas cosas: cortado la lista
+    - Actualizado Otros Otros Otros
+      - Actualizado ???
+- Actualizado la raya izquierda
+  - Actualizado el enlaze al sitio de KubaglikoPL
+- Actualizado la raya derecha
+  - Actualizado la Selección de idioma
+    - Añadido Incompleto/experimental
+      - Añadido Ucraniano
+      - Movido Daikova del resto de los idiomas
+- Traducido todo el contento nuevo a polaco, español y ruso
+- Partialmente traducido el contento a ucraniano
+- Parches minores en traducciónes que exisiteran antes
+- Actualizado el título del sitio:
+  - Reemplezado "-" con "|"
+  - Traducido los títulos para todos los idiomas (antes no traducido)
+- Traducido los títulos de páginas individuos
+- Menores mejoras de backend y pedido assets de nuevo
 
 ---
 ### lanzamiento 4.1.1

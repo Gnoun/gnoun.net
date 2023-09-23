@@ -2,7 +2,7 @@
 
 ## Sowi Kunsun Voks
 
-<MdImage img="changelog-timeline.png" ></MdImage>
+<!-- <MdImage img="changelog-timeline.png" ></MdImage> -->
 
 ---
 ### drimet 4.1.1

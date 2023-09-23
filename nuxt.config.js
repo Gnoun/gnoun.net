@@ -72,6 +72,12 @@ export default {
         name: 'Polish',
       },
       {
+        code: 'ua',
+        iso: 'ua-UA',
+        file: 'ua.js',
+        name: 'Ukrainian',
+      },
+      {
         code: 'dkv',
         iso: 'dkv-NN',
         file: 'dkv.js',

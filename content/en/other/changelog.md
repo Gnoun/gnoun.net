@@ -2,7 +2,89 @@
 
 ## Full Website Changelog
 
-<MdImage img="changelog-timeline.png" ></MdImage>
+<!-- <MdImage img="changelog-timeline.png" ></MdImage> -->
+
+### release 5.0.0 "The Information Update"
+#### September 22nd, 2023
+
+- Updated Home
+  - Removed half of the welcome paragraph to rewrite below
+  - Added paragraph "What is this website about?"
+    - Added information about music
+    - Added information about math
+    - Added information about self-improvement
+    - Added information about writing
+  - Removed FAQ
+  - Added paragraph "How was this website created?"
+  - Rewrote paragraph "Who is Gnoun?"
+- Updated What's up
+  - Fixed the graph template link in 29 March 2021 entry
+  - Wrote the 22 September 2023 entry
+- Removed Graphs section
+- Removed Math tools section
+- Added Math section
+  - Added Graphs subsection (containing the former Graphs section) with a short description
+  - Added Math tools subsection (containing the former Math tools section) with a short description
+  - Added Data graphs (coming soon) subsection
+  - Added ??? (coming soon) subsection
+- Updated Music section
+  - Updated the general description
+  - Added album view
+    - Added Early works (with most previously uploaded compositions inside)
+      - Wrote the general description
+    - Added MPD
+      - Uploaded 12 new compositions
+    - Added Gon Guon
+      - Uploaded 4 new compositions
+    - Added ???
+      - Added 6 previously available compositions (uploaded in [4.0.0](#release-400-the-creative-update))
+      - Uploaded 4 new compositions
+- Updated Other section
+  - Changed the list view into grid view with images and short descriptions of each project
+  - Updated Stories
+    - Added start & end dates in brackets next to each series
+    - Uploaded "Spontagun II Nieuchwytny" and described the Spontagun series
+    - Updated Prund series: Added "3. ???" (coming soon)
+  - Added The Daikova language (coming soon)
+  - Updated Łowcy Niebios: changed narration from 3rd person to 1st person
+  - Added Danaikor ("Oasis"):
+    - Wrote the general description
+    - Described the Devilish Parkour
+    - Described the Nether Island
+    - Described the Burrowers' Shaft
+    - Described the Fort
+  - Added Self-improvement:
+    - Uploaded the TBP project in its state as of 22 September 2023
+  - Added My organization system (coming soon)
+  - Added The Four Doors game (coming soon)
+  - Updated Changelog: (temporarily) removed the timeline
+  - Added About
+    - Uploaded plan of actions from June 2023
+    - Added the list of terms
+    - Added Cool stats
+    - Added My adventure with music paragraph
+    - Added Why I write paragraph
+    - Added Programming, designing levels, board games, and all that stuff paragraph
+    - Uploaded image of the new system in its state as of 19 September 2023
+  - Updated Other Other
+    - Updated List of things coming soon: shortened the list
+    - Updated Other Other Other
+      - Updated ???
+- Updated the left sidebar
+  - Updated KubaglikoPL's website link
+- Updated the right sidebar
+  - Updated Language selection
+    - Added Unfinished/experimental
+      - Added Ukrainian
+      - Moved Daikova from the rest of the languages
+- Translated all new content to Polish, Spanish and Russian
+- Partially translated the content to Ukrainian
+- Minor patches in previously existing translations
+- Updated website title:
+  - Replaced "-" with "|"
+  - Translated titles for all languages (previously not translated)
+- Translated individual pages' titles
+- Minor backend improvements and assets reorder
 
 ---
 ### release 4.1.1

@@ -3,8 +3,7 @@ module.exports = {
 		tabs: {
 			home: 'Start',
 			sup: 'Co nowego',
-			graphs: 'Wykresy',
-			math: 'Matematyczne Narzędzia',
+			math: 'Matematyka',
 			music: 'Muzyka',
 			other: 'Inne',
 		},
@@ -34,15 +33,12 @@ module.exports = {
 		settings: {
 			title: 'Ustawienia',
 			languages: {
-				title: 'Wybór języka'
+				title: 'Wybór języka',
+				unfinished: 'Niedokończone/eksperymentalne',
 			},
 			soontm: 'Wkrótce więcej ustawień...',
 		},
-	},
-	other: {
-		backto: 'Powrót do',
-		other: 'Inne',
-		otter: 'Inne',
+		info: 'Strona Gnouna'
 	},
 	sc: {
 		enter: 'Wprowadź prawidłowe hasło',
@@ -62,6 +58,19 @@ module.exports = {
 		scinfo: '... Czy poszukiwałeś/aś Tajemnej Komnaty? Jeśli tak, szukaj dalej! Możesz okazać się jedyną osobą, która ją znajdzie.',
 	},
 	math: {
+		math: 'Matematyczne projekty',
+		titles: {
+			graphs: 'Wykresy',
+			tools: 'Narzędzia',
+			data_graphs: 'Wykresy danych',
+			unknown: '???',
+		},
+		desc: {
+			graphs: 'Moje stare wykresy stworzone w Kalkulatorze Graficznym Desmos',
+			tools: 'Zestaw łatwych w użyciu narzędzi matematycznych (takich jak NWD, NWW, odległość między prostymi, konwertery biegunowych form na kartezjańskie, itp.)',
+			data_graphs: 'już wkrótce',
+			unknown: '',
+		},
 		table: {
 			title: 'Spis Treści',
 			group1: 'Liczby ogólnie',
@@ -143,5 +152,55 @@ module.exports = {
 			also: 'Zobacz też',
 			return: 'Powrót na górę',
 		},
+	},
+	music: {
+		titles: {
+			early_works: 'Early works',
+			mpd: 'MPD',
+			gon_guon: 'Gon Guon',
+			unknown: '???',
+		},
+		desc: {
+			early_works: '2019-2020',
+			mpd: '2021-2022',
+			gon_guon: '2022-2023',
+			unknown: '2022-2023',
+		},
+		chronological: 'Chronologicznie',
+	},
+	other: {
+		self_improvement: 'Samodoskonalenie',
+		stories: 'Opowiadania',
+		livuluria: 'Livuluria',
+		łowcy_niebios: 'Łowcy Niebios',
+		danaikor: 'Danaikor ("Oaza")',
+		system: 'Mój system organizacji',
+		daikova: 'Język Daikova',
+		fourdoors: 'Gra Czterech Drzwi',
+		changelog: 'Lista Zmian',
+		about: 'O mnie',
+
+		backto: 'Powrót do',
+		other: 'Inne',
+		otter: 'Inne',
+		desc: {
+			self_improvement: 'Zobacz szerszą perspektywę dzięki moim zwięzłym notatkom',
+			stories: 'Moje opowiadania; obecnie tylko po polsku',
+			livuluria: 'Mój mały lecz spójny projekt worldbuildingowy',
+			łowcy_niebios: 'Moja ogromna gra planszowa z 2021 r.',
+			danaikor: 'Duża Minecraftowa mapa Parkour+PvE',
+			system: 'Już wkrótce',
+			daikova: 'Już wkrótce',
+			fourdoors: 'Już wkrótce',
+			changelog: 'Każda mała zmiana jest tu spisana',
+			about: 'Kim jest Gnoun?',
+		},
+	},
+	about: {
+		start: "Start",
+		year: "1 rok",
+		month: "30 dni",
+		week: "1 tydzień",
+		day: "1 dzień",
 	},
 }

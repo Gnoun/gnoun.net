@@ -19,7 +19,7 @@ export default {
 		}
 	},
 	created() {
-		this.$pageInfo(this, 'What\'s up', 'sup');
+		this.$pageInfo(this, this.$t('common.tabs.sup'), 'sup');
 	},
 	destroyed() {
 		this.$resetPageInfo(this);

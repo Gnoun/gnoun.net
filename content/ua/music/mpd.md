@@ -1,0 +1,1 @@
+This is half of a soundtrack I intended to create for a canceled ambitious survival game project by Bitrium. Initially the pieces had no actual names and were simply called "Forest", "Pyramid", "Tundra", etc. and may be referred to as such.

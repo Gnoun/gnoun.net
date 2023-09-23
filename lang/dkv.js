@@ -38,6 +38,7 @@ module.exports = {
 			},
 			soontm: 'Loni tashana tarmon jani...',
 		},
+		info: 'Gnoun Warlgnapa'
 	},
 	other: {
 		backto: '',

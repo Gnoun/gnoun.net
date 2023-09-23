@@ -4,7 +4,7 @@ export default ({ $content, app }, inject) => {
 		const options = { year: 'numeric', month: 'long', day: 'numeric' };
 		return new Date(date).toLocaleString(currentLocale, options);
 	});
-	inject('allContentInDirectory', async (directory) => {
+	inject('allContentInDirectory', async (directory, sieve = (item) => true) => {
 		let posts = await $content(app.i18n.defaultLocale, directory).sortBy('date', 'desc').fetch().catch(err => { return [] });
 		if (app.i18n.defaultLocale !== app.i18n.locale) {
 			try {
@@ -24,7 +24,7 @@ export default ({ $content, app }, inject) => {
 			}
 			i++;
 		}
-		return posts;
+		return posts.filter(sieve);
 	});
 }
 

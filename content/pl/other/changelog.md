@@ -2,7 +2,89 @@
 
 ## Pełna Lista Zmian
 
-<MdImage img="changelog-timeline.png" ></MdImage>
+<!-- <MdImage img="changelog-timeline.png" ></MdImage> -->
+
+### wersja 5.0.0 "Aktualizacja Informacyjna"
+#### 22 września 2023
+
+- Zaktualizowano Start
+  - Usunięto połowę wstępnego akapitu, aby przepisać niżej
+  - Dodano akapit "O czym jest ta strona?"
+    - Dodano informacje o muzyce
+    - Dodano informacje o matematyce
+    - Dodano informacje o samodoskonaleniu
+    - Dodano informacje o opowiadaniach
+  - Usunięto FAQ
+  - Dodano akapit "Jak powstała ta strona?"
+  - Napisano na nowo akapit "Kim jest Gnoun?"
+- Zaktualizowano Co nowego
+  - Naprawiono wzór wykresów z wpisu z 29 marca 2021
+  - Napisano wpis z 22 września 2023
+- Usunięto sekcję Wykresy
+- Usunięto sekcję Matematyczne narzędzia
+- Dodano sekcję Matematyka
+  - Dodano podsekcję Wykresy (zawierającą poprzednią sekcję Wykresy) z krótkim opisem
+  - Dodano podsekcję Matematyczne narzędzia (zawierającą poprzednią sekcję Matematyczne narzędzia) z krótkim opisem
+  - Dodano podsekcję Wykresy danych (już wkrótce)
+  - Dodano podsekcję ??? (już wkrótce)
+- Zaktualizowano sekcję Muzyka
+  - Zaktualizowano ogólny opis
+  - Dodano widok albumowy
+    - Dodano Early works (z większością wcześniej wysłanych kompozycji)
+      - Napisano ogólny opis
+    - Dodano MPD
+      - Wysłano 12 nowych kompozycji
+    - Dodano Gon Guon
+      - Wysłano 4 nowych kompozycji
+    - Dodano ???
+      - Dodano 6 wcześniej dostępnych kompozycji (wysłanych w [4.0.0](#release-400-the-creative-update))
+      - Wysłano 4 nowych kompozycji
+- Zaktualizowano sekcję Inne
+  - Zmieniono widok listy na widok siatki z obrazkami i krótkimi opisami każdego projektu
+  - Zaktualizowano Opowiadania
+    - Dodano daty rozpoczęcia i zakończenia w nawiasach obok każdej serii
+    - Wysłano "Spontagun II Nieuchwytny" i opisano serię Spontagunów
+    - Zaktualizowano Cykl Prunda: Dodano "3. ???" (już wkrótce)
+  - Dodano Język Daikova (już wkrótce)
+  - Zaktualizowano Łowcy Niebios: zmieniono narrację z trzecioosobowej na pierwszoosobową
+  - Dodano Danaikor ("Oaza"):
+    - Napisano ogólny opis
+    - Opisano Diabelski Parkour
+    - Opisano Wyspę Spodnią
+    - Opisano Szyb Szperaczy
+    - Opisano Twierdzę
+  - Dodano Samodoskonalenie:
+    - Wysłano projekt TBP w stanie z 22 września 2023
+  - Dodano Mój system organizacji (już wkrótce)
+  - Dodano Gra Czterech Drzwi (już wkrótce)
+  - Zaktualizowano Listę Zmian: (tymczasowo) usunięto linię czasu
+  - Dodano O mnie
+    - Wysłano plan działań z czerwca 2023
+    - Dodano listę określeń
+    - Dodano Fajne statystyki
+    - Dodano akapit "Moja przygoda z muzyką"
+    - Dodano akapit "Dlaczego piszę"
+    - Dodano akapit "Programowanie, projektowanie poziomów, gier planszowych i tego wszystkiego"
+    - Wysłano obrazek nowego systemu w stanie z 19 września 2023
+  - Zaktualizowano Inne Inne
+    - Zaktualizowano Listę przyszłych rzeczy: skrócono listę
+    - Zaktualizowano Inne Inne Inne
+      - Zaktualizowano ???
+- Zaktualizowano lewy pasek
+  - Zaktualizowano link do strony KubaglikoPL
+- Zaktualizowano prawy pasek
+  - Zaktualizowano Wybór języków
+    - Dodano Niedokończone/eksperymentalne
+      - Dodano ukraiński
+      - Przeniesiono Daikovę z reszty języków
+- Przetłumaczono całą nowo dodaną treść na polski, hiszpański i rosyjski
+- Częściowo przetłumaczono stronę na ukraiński
+- Pomniejsze poprawki we wcześniej istniejących tłumaczeniach
+- Zaktualizowano tytuł strony:
+  - Zamieniono "-" na "|"
+  - Przetłumaczono tytułu na wszystkie języki (wcześniej nieprzetłumaczone)
+- Przetłumaczono tytuły indywidualnych stron
+- Pomniejsze poprawki w backendzie i zmiana w porządku assetów
 
 ---
 ### wersja 4.1.1

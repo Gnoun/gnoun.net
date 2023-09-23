@@ -3,8 +3,7 @@ module.exports = {
 		tabs: {
 			home: 'Inicio',
 			sup: 'Qué pasa',
-			graphs: 'Gráficos',
-			math: 'Herramientas de Mates',
+			math: 'Mates',
 			music: 'Música',
 			other: 'Otros',
 		},
@@ -34,34 +33,27 @@ module.exports = {
 		settings: {
 			title: 'Ajustes',
 			languages: {
-				title: 'La selección de idioma'
+				title: 'La selección de idioma',
+				unfinished: 'Incompleto/experimental',
 			},
 			soontm: 'Más ajustes próximamente...',
 		},
-	},
-	other: {
-		backto: 'Volver a',
-		other: 'Otros',
-		otter: 'Otros',
-	},
-	sc: {
-		enter: 'Introduzca la contraseña correcta',
-		check: 'Revisar',
-		tooshort: 'La contraseña es demasiado corta.',
-		loading: 'Cargando...',
-		processing: 'Procesando...',
-		incorrect: 'Contraseña incorrecta. Intente otra vez, por favor.',
-	},
-	error: {
-		error: 'Error 404',
-		oops: '¡Ups',
-		desc1: 'Parece que trataba de llegar a una página inexistente. Puede hacer clic en uno de los marcadores arriba o ',
-		desc2: ' para regresar al sitio... ¿O a lo mejor ',
-		desc3: 'Por cierto, no estoy seguro. ¡Espero que encontre su camino de regreso!',
-		here: 'aquí',
-		scinfo: '... ¿Estabas encontrando el Aposento Secreto? Si es así, ¡siga buscando! Puede ser el único que lo encontrará.',
+		info: 'El sitio de Gnoun'
 	},
 	math: {
+		math: 'Proyectos matemáticos',
+		titles: {
+			graphs: 'Gráficos',
+			tools: 'Herramientas',
+			data_graphs: 'Gráficos de datos',
+			unknown: '???',
+		},
+		desc: {
+			graphs: 'Mis gráficos viejos creados en Calculadora Gráfica Desmos',
+			tools: 'Un conjunto de faciles en uso herramientas de mates (como MCF, MCM, distancia entre rectas, convertidor de forma polar a cartesiana, etc.)',
+			data_graphs: '',
+			unknown: '',
+		},
 		table: {
 			title: 'Índice de Contenidos',
 			group1: 'Números en general',
@@ -143,5 +135,72 @@ module.exports = {
 			also: 'Véase también',
 			return: 'Volver arriba',
 		}
+	},
+	music: {
+		titles: {
+			early_works: 'Early works',
+			mpd: 'MPD',
+			gon_guon: 'Gon Guon',
+			unknown: '???',
+		},
+		desc: {
+			early_works: '2019-2020',
+			mpd: '2021-2022',
+			gon_guon: '2022-2023',
+			unknown: '2022-2023',
+		},
+		chronological: 'Cronológicalmente',
+	},
+	other: {
+		self_improvement: 'Autosuperación',
+		stories: 'Cuentos (PL)',
+		livuluria: 'Livuluria',
+		łowcy_niebios: 'Łowcy Niebios',
+		danaikor: 'Danaikor ("Oasis")',
+		system: 'Mi sistema de organización',
+		daikova: 'El idioma Daikova',
+		fourdoors: 'El juego de Cuatros Puertas',
+		changelog: 'Registro de Cambios',
+		about: 'Sobre mí',
+
+		backto: 'Volver a',
+		other: 'Otros',
+		otter: 'Otros',
+		desc: {
+			self_improvement: 'Mire el panorama general con mis concisas notas de investigación',
+			stories: 'Mis cuentos; actualmente solo en polaco',
+			livuluria: 'Mi poco pero coherente proyecto de worldbuilding',
+			łowcy_niebios: 'Mi juego de mesa enorme hecho en 2021',
+			danaikor: 'Una mapa larga Minecraft Parkour+PvE',
+			system: 'próximamente',
+			daikova: 'próximamente',
+			fourdoors: 'próximamente',
+			changelog: 'Cada poco cambio aquí registrado',
+			about: '¿Quién es Gnoun?',
+		},
+	},
+	about: {
+		start: "Start",
+		year: "1 año",
+		month: "30 días",
+		week: "1 semana",
+		day: "1 día",
+	},
+	sc: {
+		enter: 'Introduzca la contraseña correcta',
+		check: 'Revisar',
+		tooshort: 'La contraseña es demasiado corta.',
+		loading: 'Cargando...',
+		processing: 'Procesando...',
+		incorrect: 'Contraseña incorrecta. Intente otra vez, por favor.',
+	},
+	error: {
+		error: 'Error 404',
+		oops: '¡Ups',
+		desc1: 'Parece que trataba de llegar a una página inexistente. Puede hacer clic en uno de los marcadores arriba o ',
+		desc2: ' para regresar al sitio... ¿O a lo mejor ',
+		desc3: 'Por cierto, no estoy seguro. ¡Espero que encontre su camino de regreso!',
+		here: 'aquí',
+		scinfo: '... ¿Estabas encontrando el Aposento Secreto? Si es así, ¡siga buscando! Puede ser el único que lo encontrará.',
 	},
 }

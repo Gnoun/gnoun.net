@@ -2,11 +2,11 @@
 
 ## Łowcy Niebios
 
-Łowcy Niebios (Heavens Hunters) is a board game created by Gnoun in fall 2021.
+Łowcy Niebios (Heavens Hunters) is a board game I created in fall 2021.
 
 <br>
 
-Currently, no copies of this game exist, and the original (in Polish) resides in Gnoun's room.
+Currently, no copies of this game exist, and the original (in Polish) resides in my room.
 
 <br>
 
@@ -37,21 +37,21 @@ The game is meant for 2-8 players, but according to already performed games, the
 
 #### Influences
 
-Gnoun had three major influences when creating the game: his previous board game "Wyścig po Skarb" ("Race for Treasure") from February 2018, [Blood Rage](https://en.wikipedia.org/wiki/Blood_Rage_(board_game)) and [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)). "Wyścig po Skarb" already featured cards, though less differentiated, as well as two shops, special areas and player boards, but movement was still random. Concepts such as multiple units, clan strength as well as battle cards were largely inspired by Blood Rage. It was also the main inspiration for the battle system. It could also influence the timeline of the game. Although Gnoun lists Monopoly among his major inspirations, it is difficult to state which elements of the game it inspired. Features such as the economy system and the concept of an enemy clan appearing as a player by itself weren't inspired by anything in particular and were developed mostly during production.
+I had three major influences when creating the game: my previous board game "Wyścig po Skarb" ("Race for Treasure") from February 2018, [Blood Rage](https://en.wikipedia.org/wiki/Blood_Rage_(board_game)) and [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)). "Wyścig po Skarb" already featured cards, though less differentiated, as well as two shops, special areas and player boards, but movement was still random. Concepts such as multiple units, clan strength as well as battle cards were largely inspired by Blood Rage. It was also the main inspiration for the battle system. It could also influence the timeline of the game. Although I list Monopoly among my major inspirations, it is difficult to state which elements of the game it inspired. Features such as the economy system and the concept of an enemy clan appearing as a player by itself weren't inspired by anything in particular and were developed mostly during production.
 
 #### Pre-production and production
 
-Gnoun first thought of the game on 1 January 2021 after playing [Brass: Lancashire](https://boardgamegeek.com/boardgame/28720/brass-lancashire) with his family. After that, on 2-3 January 2021, a game of "Wyścig po Skarb" (Gnoun's previous board game) was played but ended up unconcluded. After spotting many mistakes, Gnoun came up with many ideas for the new game and started gathering them. Over time, more ideas appeared, especially in March and April. In April, Gnoun had enough ideas to consider starting the game in July, but production was eventually delayed to September partly because some of the features lacked clarity and also due to an unexpected amount of ongoing projects in July.
+I first thought of the game on 1 January 2021 after playing [Brass: Lancashire](https://boardgamegeek.com/boardgame/28720/brass-lancashire) with my family. After that, on 2-3 January 2021, a game of "Wyścig po Skarb" (my previous board game) was played but ended up unconcluded. After spotting many mistakes, I came up with many ideas for the new game and started gathering them. Over time, more ideas appeared, especially in March and April. In April, I had enough ideas to consider starting the game in July, but production was eventually delayed to September partly because some of the features lacked clarity and also due to an unexpected amount of ongoing projects in July.
 
-Production started on 2 September and concluded on 9 December. In early 2021, Gnoun expected it to last about two weeks, about twice as much as his previous game "Wyścig po Skarb", and by the time the production began he hoped to finish it within September, but the game turned out to be more demanding. The sheer main board took 2 weeks to complete. The instruction turned out to be 20 pages long, 6 of which solely described player actions. The 155 cards also turned out to be more time-consuming as each contained a detailed design and eventually ended up becoming the most demanding part of the game. Both the cards and the instruction were finished only by mid November. The tokens, totalling 271, were started after the cards and took about 2 weeks to complete. Lastly, clan boards and counters representing player units were assembled and the game was decisively finished on 9 December.
+Production started on 2 September and concluded on 9 December. In early 2021, I expected it to last about two weeks, about twice as much as my previous game "Wyścig po Skarb", and by the time the production began I hoped to finish it within September, but the game turned out to be more demanding. The sheer main board took 2 weeks to complete. The instruction turned out to be 20 pages long, 6 of which solely described player actions. The 155 cards also turned out to be more time-consuming as each contained a detailed design and eventually ended up becoming the most demanding part of the game. Both the cards and the instruction were finished only by mid November. The tokens, totalling 271, were started after the cards and took about 2 weeks to complete. Lastly, clan boards and counters representing player units were assembled and the game was decisively finished on 9 December.
 
 #### Post-production and patches
 
-On 11 December, the first test game started, with BeetMacol and Myoko, playing for 4 hours straight almost until midnight. In his "Trivia log", Gnoun noted that the game turned out to be "very balanced, but kind of slow at the beginning (at least for me), possibly because of our lack of clear-cut strategies". The test game concluded on 18 December. Gnoun noted that it took "three times longer than expected", though it's unknown what time exactly had it lasted. Gnoun likely expected the game to take 2-3 hours to conclude.
+On 11 December, the first test game started, with BeetMacol and Myoko, playing for 4 hours straight almost until midnight. (In my "Trivia log", I noted that the game turned out to be "very balanced, but kind of slow at the beginning (at least for me), possibly because of our lack of clear-cut strategies.") The test game concluded on 18 December. I noted that it took "three times longer than expected", though I'm not sure how long exactly had it lasted. I likely expected the game to take 2-3 hours to conclude.
 
-On 9 January 2022, a month after production concluded, the game received a suitable box which allowed Gnoun to finally free space from his desk. Since then, the game resides on his wardrobe.
+On 9 January 2022, a month after production concluded, the game received a suitable box which allowed me to finally free space from my desk. Since then, the game resides on my wardrobe.
 
-Initially, Gnoun left the game mostly unchanged despite some minor features lacking clarity and at least one more game was played in 2022. On 6-7 January 2023, while Florik, a friend from Cracow, arrived to Łomianki for a 3-day stay until 8 January, the first complete 4-player game was played (with Gnoun, BeetMacol, Myoko and Florik participating), and it turned out to be perfectly balanced and lasted about 10 hours. After that game, Gnoun made a list of 15 things to consider in the new patch, which he performed on 26 January.
+Initially, I left the game mostly unchanged despite some minor features lacking clarity and at least one more game was played in 2022. On 6-7 January 2023, while Florik, a friend from Cracow, arrived to Łomianki for a 3-day stay until 8 January, the first complete 4-player game was played (with BeetMacol, Myoko, Florik and me participating), and it turned out to be perfectly balanced and lasted about 10 hours. After that game, I made a list of 15 things to consider in the new patch, which I performed on 26 January.
 
 ### Changelog
 
