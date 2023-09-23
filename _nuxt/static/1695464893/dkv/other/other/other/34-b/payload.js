@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/dkv/other/other/other/34-b", {data:[{}],fetch:{},mutations:[]});

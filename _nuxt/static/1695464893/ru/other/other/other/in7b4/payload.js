@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ru/other/other/other/in7b4", {data:[{}],fetch:{},mutations:[]});

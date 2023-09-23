@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pl/other/other/inse%D1%81ts", {data:[{}],fetch:{},mutations:[["setPageTitle","About"],["setCurrentTab","about"]]});
