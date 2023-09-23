@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1684702546",layout:"default",error:a,state:{pageTitle:"Livuluria",currentTab:"other",i18n:{routeParams:{}}},serverRendered:true,routePath:"\u002Fes\u002Fother\u002Flivuluria",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"1b2dab18"}}}}(null));
