@@ -12,7 +12,8 @@ Here's some terms that can give you an idea of who I am: human, analytic, introv
 
 ## Cool stats
 
-number of compositions:
+number of compositions: 58
+<!-- favorite music scales: -->
 <!-- time spent doing things -->
 
 ### Languages

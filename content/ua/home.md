@@ -46,32 +46,32 @@
 
 Ви незадоволенні **шукаючи покращення і ніколи не почуваючи задоволеним?** Вважайте коротку зустріч в мої примітки з дослідження самоудосконалення. Я намагался з усіх сил скласти разом багато інформацій в стислу структуру, щоб запобігти спусканнюся в кролячи норі, котрі часто виявляються незадовільними і непродуктивними.
 
-The notes here should help improve time management, health, creativity, motivation, confidence, discipline, communication, organization and effectiveness. If you still end up unsatisfied, feel free to give feedback or even help me improve the project.
+Ці примітки повинні допомогти поліпшити управління часом, здоров'я, креативність, мотивацію, впевненість, дисципліну, комунікацію, організацію і результативність. Якщо ви все ще виявляєтесь незадоволенними, заохочуваю вас поділітися думкою або навіть допомогти поліпшити проект.
 
 </div>
 
 </div>
 
-### [Writing](other/writing)
+### [Оповідання](other/writing)
 
 <div class="flex flex-row space-x-1 gap-5">
 
-Another quickly growing part of my website is devoted to writing. **So far, unfortunately, I'm writing only in Polish**, but I hope my growing language skills will soon allow me to make my writing more accessible.
+Інша швидко ростуча частина мого сайта жертвувана письму. **Поки що, на жаль, я пишу тільки польською мовою**, але вірю, що мої ростучі мовні вміння скоро мене дозволять зробити моє письмо більш доступним.
 
 <MdImage img="titles/duck.png" width=300 height=300></MdImage>
 
 </div>
 
-## How did you create this website?
+## Як ти створив цей сайт?
 
-The website is made with an advanced framework called **Nuxt.js** and hosted using **GitHub Pags**. Initially I wrote it in HTML, but my brother [BeetMacol](https://beetmacol.com) rewrote it because he couldn't withstand it. Currently I'm already getting around in the code and I add most of the content myself with much less help.
+Сайт зроблений передовою рамкою названною **Nuxt.js** з хостінгом на **GitHub Pages**. Спочатку я написав його в HTML, але мій брат [BeetMacol](https://beetmacol.com) переписав його тому, що він не міг того витримати. На разі я вже вільно рухаюсь в коді й додаю більшість контенту самостійно, зі значно меншою допомогою.
 
-The website's design is my own original idea.
+Дизайн сайта — моя власна оригінальна ідея.
 
-## Кто Ґноун?
+## Хто Ґноун?
 
-There's an [entire section](other/about) on this, but in short, I'm an individualist with a great appreciation of music, especially electronic and classical. I'm also a decent math enthusiast, so I may be called a "mathemusician", but that's not everything. Since youth I've also been a great language enthusiast which I hope is quite visible by the amount of languages I'm translating this website to, so far all by myself. My interest in designing things got me into programming and recently I created an entire organization system in Python (though with decent help of [BeetMacol](https://beetmacol.com), again). Although I'm highly analytical, I'm not giving up with creative activities, the best example being the music, but I also do [writing](other/writing) (though so far untranslated, in Polish), [worldbuilding](other/livuluria) (though so far I don't know what to do with it), a constructed language (same issue), a board game, a Minecraft map, and a little bit of drawing. I complement my creativity with research on various subjects, and since I've really got into self-improvement over the years, I try to look up almost everything nowadays, with my only limit being time.
+Існує про це [ціла секція](other/about), але коротко, я індивідуаліст з великом цінуванням музики, особливо елекронної і класичної. Я також дуже цікавлюсь математикою, отже мені можно назвати «матемузукантом», але це не все. Від молодісті я також дуже ціквалюсь мовами, що я вірю досить видиме колічеством мов, на які я перекладаю цей сайт, поки що все самостійно. Мій інтерес дизайном спричиняв, що я зацікавився програмуванням і недавно створив цілою систему організації у Пайтоні (хоча з немалою допомогою [BeetMacol](https://beetmacol.com), знову). Хоча я дуже аналітичний, я не відмовляюсь зі креативними діяльністями, чого найкращим прикладом музика, але крім того я також [пишу](other/writing) (хоча досі неперекладнено, польською мовою), [творю світ](other/livuluria) (хоча досі я не знаю що з ним зробити), штучну мову (ця сама проблема), настільну гру, Майнкрафтну карту, і трішки рисую. Я доповняю мою креативність дослідженнями на різні темі, а адже я протягом років дійсно зацікавився самоудосконаленням, я нині намагаюсь перевірити майше усі, а моя єдина межа — час.
 
-### Contact
+### Контакт
 
 - Discord: Gnoun#6012

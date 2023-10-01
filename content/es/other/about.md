@@ -12,7 +12,7 @@ Aquí son unos terminos que pueden darle un idea de quien soy: un humano, analí
 
 ## Estatísticos geniales
 
-número de composiciones:
+número de composiciones: 58
 <!-- time spent doing things -->
 
 ### Idiomas

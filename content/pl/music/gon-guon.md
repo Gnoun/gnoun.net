@@ -1,1 +1,1 @@
-A soundtrack I intended to make for a canceled dungeon game project first intended for my website and later (during the creation of the soundtrack) as a Bitrium game. Had the project not been canceled, the soundtrack would probably be bigger.
+Soundtrack, który zamierzałem stworzyć dla wycofanego projektu gry o lochach, który początkowo był przeznaczony na moją stronę, a potem (podczas tworzenia soundtracku) na grę Bitrium. Nazwy utworów są w moim fikcyjnym języku Daikova. Gdyby projekt nie został anulowany, soundtrack pewnie byłby dłuższy.

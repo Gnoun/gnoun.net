@@ -12,7 +12,7 @@ Oto parę określeń, które mogą wywołać poczucie tego kim jestem: człowiek
 
 ## Fajne statystyki
 
-ilość kompozycji:
+ilość kompozycji: 58
 <!-- time spent doing things -->
 
 ### Języki

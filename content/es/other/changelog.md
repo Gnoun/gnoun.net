@@ -4,6 +4,14 @@
 
 <!-- <MdImage img="changelog-timeline.png" ></MdImage> -->
 
+### lanzamiento 5.0.1
+#### 1 de octubre de 2023
+- Arreglado la sección Música: cambiado todos formatos de músicas a FLAC
+- Arreglado la sección Otros
+  - Arreglado Sobre mí: arreglado el párrafo "Estatisticos geniales"
+- Hecho progreso con la traducción ucraniana
+
+---
 ### lanzamiento 5.0.0 "La Actualización de Información"
 #### 22 de septiembre de 2023
 

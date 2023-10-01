@@ -4,6 +4,14 @@
 
 <!-- <MdImage img="changelog-timeline.png" ></MdImage> -->
 
+### release 5.0.1
+#### October 1st, 2023
+- Patched Music section: changed all music formats to FLAC
+- Patched Other section
+  - Patched About: patched the "Cool stats" paragraph
+- Made progress with the Ukrainian translation
+
+---
 ### release 5.0.0 "The Information Update"
 #### September 22nd, 2023
 
