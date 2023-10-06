@@ -4,6 +4,17 @@
 
 <!-- <MdImage img="changelog-timeline.png" ></MdImage> -->
 
+### wersja 5.0.2
+#### 5 października 2023
+
+- Zaktualizowano sekcję Muzyka
+  - Dodano opisy dla każdego utworu należącego do trzech albumów po Early works
+  - Poprawiono opisy albumów
+  - Wysłano ponownie "Gnurak Skulur" i "Gnurak Chuka" z powodu nieprawidłowego renderu
+- Przetłumaczono całą nowo dodaną treść na polski, rosyjski i hiszpański
+- Przetłumaczono Co nowego na ukraiński
+
+---
 ### wersja 5.0.1
 #### 1 października 2023
 - Poprawiono sekcję Muzyka: zmieniono formaty wszystkich utworów na FLAC

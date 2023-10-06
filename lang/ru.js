@@ -179,7 +179,7 @@ module.exports = {
 		danaikor: 'Данаикор ("Оазис")',
 		system: 'Моя система организации',
 		daikova: 'Язык Даикова',
-		fourdoors: 'Гра Четирёх Дверей',
+		fourdoors: 'Гра Четырёх Дверей',
 		changelog: 'Список Изменений',
 		about: 'Обо мне',
 

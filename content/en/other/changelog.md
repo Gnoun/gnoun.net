@@ -4,8 +4,20 @@
 
 <!-- <MdImage img="changelog-timeline.png" ></MdImage> -->
 
+### release 5.0.2
+#### October 5th, 2023
+
+- Updated Music section
+  - Added descriptions for all music belonging to the three albums after Early works
+  - Patched album descriptions
+  - Reuploaded "Gnurak Skulur" and "Gnurak Chuka" due to bad rendering
+- Translated all newly added content to Polish, Russian and Spanish
+- Translated What's up to Ukrainian
+
+---
 ### release 5.0.1
 #### October 1st, 2023
+
 - Patched Music section: changed all music formats to FLAC
 - Patched Other section
   - Patched About: patched the "Cool stats" paragraph

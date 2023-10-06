@@ -1,6 +1,7 @@
 <template>
     <div>
         <h2>{{ $t('music.titles.gon_guon') }}</h2>
+		<Markdown id="music/gon-guon"></Markdown>
         <div
 			v-for="piece in music"
 			:key="piece.id"
@@ -11,7 +12,6 @@
 			<audio class="my-1 border border-opacity-25" :src="`/music/${piece.file}.mp3`" controls></audio>
 			<nuxt-content :document="piece"></nuxt-content>
 		</div>
-		<hr class="my-2" />
     </div>
 </template>
 

@@ -6,6 +6,4 @@ Oto cała muzyka, jaką stworzyłem w latach 2019-2023. Obrazki w albumach zosta
 
 A, i proszę nie oceniać nazw. Czasami nie mam na nie dobrych pomysłów. 
 
----
-
-## [?] (praca w toku; do zrewidowania)
+## Albumy

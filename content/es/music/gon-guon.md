@@ -1,0 +1,1 @@
+Una banda sonora que había intentado a hacer para un proyecto de juego cancelado de mazxmorras primer destinado a mi sitio y luego (durante la creación de la banda) para un juego de Bitrium. Los nombres de los pedazos son en mi idioma ficticia Daikova. Si el proyecto no había sido cancelado, quizás la banda sonora sería más grande.

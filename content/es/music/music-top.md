@@ -6,6 +6,4 @@ Aquí hay toda la música se creí en 2019-2023. Los imágenes de los albumos fu
 
 Además, por favor no juzgue los nombres. A veces no tengo buenas ideas con ellos.
 
----
-
-## [?] (trabajo en elaboración; estará refinado)
+## Albumes

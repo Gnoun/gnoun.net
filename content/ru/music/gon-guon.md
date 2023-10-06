@@ -1,1 +1,1 @@
-A soundtrack I intended to make for a canceled dungeon game project first intended for my website and later (during the creation of the soundtrack) as a Bitrium game. Had the project not been canceled, the soundtrack would probably be bigger.
+Саундтрек, который я хочел сделать для отмененного проекта игры о темницах, сначала намереванного для моего сайта, а потом (во время созданния саундтрека) в качестве игры Bitrium. Названния пьес в моим искуственным языке Даикова. Если проект не был отменен, может быть саундтрек бы был длиннее.
