@@ -1,9 +1,9 @@
 ---
 id: radian_to_degree
-name: Radian to Degree Converter
-readMore: https://en.wikipedia.org/wiki/Degree_(angle)
+name: Конвертер радіанів на градуси
+readMore: https://uk.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B4%D1%83%D1%81_(%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D1%96%D1%8F)
 seeAlso:
 - degree_to_radian
 ---
 
-Degrees are a unit of measurement in which one full rotation is 360°. To get back from radians to degrees, you just need to do the reverse operation - multiply by 180° and divide by π.
+Градуси — одиниця вимірювання, у якой одне повне обертання — 360°. Щоб повертати з радіанів у градуси, вам просто треба зробити зворотну операцію — помножити на 180° й поділити на π.

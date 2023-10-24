@@ -1,14 +1,14 @@
-## External links
+## Зовнішні посилання
 
-Here's a few great math tools made by different people which I highly recommend.
+Ось декілька чудових математичних інструментів створених іншими людинами, які я дуже рекомендую.
 
 <br/>
 
 [<MdImage img="desmos-icon.png" alt="Desmos"></MdImage>](https://desmos.com/calculator)
 
-### [Desmos Graphing Calculator](https://desmos.com/calculator)
+### [Графічний Калькулятор «Desmos»](https://desmos.com/calculator)
 
-Desmos is a great graphing site which offers graphing functions, equations, inequalities, plotting tables of data, evaluating equations, exploring changes with parameters and more. You can sign up to save and share your graphs. I've been using it for many years and you can see my creations in the [Graphs](/graphs) section.
+«Desmos» — чудовий сайт, який дає можливість робити графіки функцій, рівнянь, нерівностей, таблиці даних, рахувати рівняння, досліджувати зміни з параметрами й більше. Ви можете підписатися, щоб зберігати й ділитися своїми графіками. Я його вжувал багато років і ви можете побачити мої творіння у секції [Графіки](/graphs).
 
 <br/>
 
@@ -16,6 +16,6 @@ Desmos is a great graphing site which offers graphing functions, equations, ineq
 
 ### [WolframAlpha](https://www.wolframalpha.com/)
 
-WolframAlpha is a unique engine for computing answers and providing knowledge, not only about mathematics. Among others, it can solve any equation or plot any function.
+WolframAlpha — винятковий двигун для рахування й достачання знання, не тільки про математику. Серед інших, він може розв'язати кожне рівняння та зробити графік кожної функції.
 
-If you know any other great math tools, you can tell me about them and I'll consider linking them here.
+Якщо ви знаєте будь-які інші великі математичні інструменти, ви можете мені про них сказати, і я вважатиму посилатися на них тут.

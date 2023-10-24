@@ -4,8 +4,20 @@
 
 <!-- <MdImage img="changelog-timeline.png" ></MdImage> -->
 
+### release 5.0.3
+#### October 24th, 2023
+
+- Updated Other section
+  - Patched Self-improvement
+    - Removed (hopefully) all comments
+    - Fixed references
+    - Fixed most links within sections
+- Translated Math to Ukrainian
+- Minor translation patches
+
+---
 ### release 5.0.2
-#### October 5th, 2023
+#### October 6th, 2023
 
 - Updated Music section
   - Added descriptions for all music belonging to the three albums after Early works

@@ -1,3 +1,3 @@
-# Graphs
+# Графіки
 
-Here, I used to send some of my Desmos projects which I found notable. Currently this section of the website is no longer being updated as I've withdrawn from graphing random things due to little interest compared to the amount of time I spent on each project... and also due to lack of good ideas.
+Тут я колись посилав деякі з моїх проектов Demsos, які я вважив вартими показання. На разі ця секція сайта уже не оновлюється, оскільки я перестав робити графіки випадкових речі через мале зацікавлення у порівнянні з колічеством часа, який я проводив на кожний проект... а також через брак добрих ідей.

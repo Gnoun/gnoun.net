@@ -1,6 +1,6 @@
 ## - See also: [References](#references)
 
-[I hope the categories aren't too misleading]
+<!-- [I hope the categories aren't too misleading] -->
 
 <a id=tbp></a>
 
@@ -37,17 +37,17 @@ Undoubtedly, the framework does not include everything a reader who is really in
 
 ## Contents
 
-1. [Eye health](#eye-health)
-2. [Back/spine health](#backspine-health)
-3. [Stomach & eating](#stomach--eating)
-4. [Exercise](#exercise)
-5. [Muscle mass](#muscle-mass)
-6. [Blood pressure](#blood-pressure)
-7. [Other body parts health](#other-body-parts)
+1. [Eye health](#1-eye-health)
+2. [Back/spine health](#2-backspine-health)
+3. [Stomach & eating](#3-stomach--eating)
+4. [Exercise](#4-exercise)
+5. [Muscle mass](#5-muscle-mass16)
+6. [Blood pressure](#6-blood-pressure)
+7. [Other body parts health](#7-other-body-parts)
 
-## Eye health
+## 1. Eye health
 
-### Digital eye strain
+### Digital eye strain<sup>[[1](#references)]</sup><sup>[[2](#references)]</sup>
 
 #### Symptoms
 - Red, dry or irritated eyes;
@@ -58,7 +58,7 @@ Undoubtedly, the framework does not include everything a reader who is really in
 
 <br/>
 
-#### Solutions<sup>[[1](#references)]</sup><sup>[[2](#references)]</sup>
+#### Solutions
 - Keep a **distance** from the screen; a monitor should be kept at least **51 cm** (1.67 ft) – about an arm's length – away from the eyes (TV – 1.5x size of the screen, smartphones – 41-46 cm (1.35-1.5 ft))(<sup>[[1](#references)]</sup>)
 - **20-20-20 rule**: Every 20 minutes, take a 20-second break and look at something 20 feet (6 meters) away. (Even short breaks make a huge difference);
 - **Blink more often** (Looking at a screen decreases the number of times you blink, causing eyes to dry);
@@ -66,7 +66,7 @@ Undoubtedly, the framework does not include everything a reader who is really in
 - Clean your screen;
 - Increase text size whenever possible.
 
-### Glasses tips [improve source?]<sup>[[3](#references)]</sup>
+### Glasses tips<sup>[[3](#references)][improve source?]</sup>
 
 Glasses can get dirty due to:
 - touching the glasses;
@@ -79,7 +79,7 @@ It's recommended to clean glasses **every day**. One of the best ways to clean g
 
 <a id=eating></a>
 
-## Back/spine health
+## 2. Back/spine health
 
 ### [Exercising](#exercise)<sup>[[4](#references)]</sup>
 
@@ -96,9 +96,9 @@ When you have no choice but to sit, try switching the slouch for a straighter sp
 
 <br/>
 
-**Solution**<sup>[[6](#references)]</sup>: consider using a kneeling chair. This type of chair breaks you out from static positions, relieves pressure on the body, and prevents from sitting still for long periods of time.
+**Solution**<sup>[[6](#references)]</sup>: consider using a **kneeling chair**. This type of chair breaks you out from static positions, relieves pressure on the body, and prevents from sitting still for long periods of time.
 
- "The idea behind the design is that one seat is angled forwards to balance the pelvis, and thus the spine, in a poised natural position with an open hip angle. The knee pads on good kneeling chairs are not used all the time, because the legs adopt various positions, but the shin pads can prevent the body slipping forwards. This ‘kneeling’ position encourages your postural muscles to better align your back, shoulders and neck."
+("The idea behind the design is that one seat is angled forwards to balance the pelvis, and thus the spine, in a poised natural position with an open hip angle. The knee pads on good kneeling chairs are not used all the time, because the legs adopt various positions, but the shin pads can prevent the body slipping forwards. This ‘kneeling’ position encourages your postural muscles to better align your back, shoulders and neck.")
 
 ### Put a pillow under your knees when sleeping<sup>[[7](#references)]</sup>
 
@@ -113,19 +113,23 @@ Sleeping on your back with a pillow under your knees has many benefits:
 1.  Lie down with your knees slightly bent toward your chest.
 2.  Put a firm pillow between your knees so that your upper thigh is elevated enough to keep your hip neutral.
 3.  If you’re using a thin pillow, or if you like to sleep with your top leg slightly in front, you may want to use two pillows.
-4.  If there’s a space between your waist and your mattress, you may want to put another small pillow in the gap to keep your spine from bending.""
+4.  If there’s a space between your waist and your mattress, you may want to put another small pillow in the gap to keep your spine from bending."
 
 ### Stop bending your neck when using a phone<sup>[[8](#references)]</sup>
 
 Face-to-phone position gives abt. 27 kg (60 lbs) of pressure on your neck while phone-to-face position gives only 4.5-5.5 kg (10-12 lbs) of pressure.
 
-## Stomach & eating
+## 3. Stomach & eating
 
 ### Healthy eating<sup>[[9](#references)]</sup>
 
 Here's a good summary on healthy eating. You can read more [here](https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/).
 
+<br />
+
 <MdImage img="healthy-eating.png" height=600></MdImage>
+
+<br />
 
 #### What is unhealthy?<sup>[[10](#references)]</sup>
 
@@ -156,7 +160,7 @@ Lay on your left side and rub your stomach in clockwise circles.
 
 You are 47% more likely to live an extra decade if you eat home-cooked meals five times a week.
 
-## Exercise
+## 4. Exercise
 
 ### Benefits of exercising<sup>[[11](#references)]</sup>
 
@@ -166,7 +170,7 @@ You are 47% more likely to live an extra decade if you eat home-cooked meals fiv
 - **Stronger bones & muscles**. This is especially important for older adults who experience reduced [muscle mass](#muscle-mass);
 - Improved performance of everyday activities;
 - Increased chance of living longer;
-- [q] Regular physical activity can help people manage existing chronic conditions and disabilities.
+- Regular physical activity can help people manage existing chronic conditions and disabilities.
 
 ### Exercising myths<sup>[[12](#references)]</sup>
 
@@ -178,11 +182,11 @@ You are 47% more likely to live an extra decade if you eat home-cooked meals fiv
 
 <MdImage img="body-shapes.jpg"></MdImage>
 
-Recommended material: [https://www.pennmedicine.org/updates/blogs/health-and-wellness/2022/march/body-shape]
+Recommended material: [blog post by Penn Medicine](https://www.pennmedicine.org/updates/blogs/health-and-wellness/2022/march/body-shape)
 
 ### List of exercises
 
-*Important: add info about body type*
+<!-- *Important: add info about body type* -->
 
 Recommended material: [A 4-minute video on major muscle groups by Khan Academy](https://www.youtube.com/watch?v=4lXnrckRKPA)
 
@@ -256,18 +260,18 @@ https://www.youtube.com/watch?v=4lXnrckRKPA -->
 [OLD] "Exercising methods"
 
 1. Head, neck & shoulder exercises\
-• Side bend\
-• Neck rotation\
-• Wing span (try to reach one hand with another in the back)
+- Side bend\
+- Neck rotation\
+- Wing span (try to reach one hand with another in the back)
 2. Arm & hand muscles exercises\
-• Rotation exercise\
-• Push-ups (advanced: diamond/triangle push-ups)\
-• Dumbbell exercises *(personal lack of dumbbells, find alternative?)*
+- Rotation exercise\
+- Push-ups (advanced: diamond/triangle push-ups)\
+- Dumbbell exercises *(personal lack of dumbbells, find alternative?)*
 3. Leg muscles exercices\
-• Squats\
-• Bends (standing and sitting)\
-• Lunges\
-• Single-leg deadlift
+- Squats\
+- Bends (standing and sitting)\
+- Lunges\
+- Single-leg deadlift
 <a id=more-discipline></a> -->
 
 ### Push-ups
@@ -275,10 +279,10 @@ https://www.youtube.com/watch?v=4lXnrckRKPA -->
 #### Benefits<sup>[[13](#references)]</sup>
 
 Push-ups:
-- Improve the strength of your triceps, chest and shoulders
-- Increase core stability
-- Improve shoulder health and function
-- Burn fat
+- improve the strength of your triceps, chest and shoulders;
+- increase core stability;
+- improve shoulder health and function;
+- burn fat.
 
 #### Common mistakes<sup>[[14](#references)]</sup>
 
@@ -302,21 +306,21 @@ If so, you can do push-ups every day, but consider taking a day off every week a
 ### Consider taking cold showers
 
 Taking a cold shower is good because it:
-• Improves blood circulation;
-• Helps improve metabolism;
-• Wakes you up;
-• Calms itchy skin;
-• Reduces muscle soreness post-workout;
-• Helps fight off common illnesses.
+- Improves blood circulation;
+- Helps improve metabolism;
+- Wakes you up;
+- Calms itchy skin;
+- Reduces muscle soreness post-workout;
+- Helps fight off common illnesses.
 
 ([*Cold Shower Benefits for Your Health*](https://www.healthline.com/health/cold-shower-benefits) (article), Healthline)
 
-• Lowers blood pressure;
-• Reduces stress.
+- Lowers blood pressure;
+- Reduces stress.
 
 <a href="https://www.medicalnewstoday.com/articles/327461" rel="some text"><img src="cold-vs-hot-showers.png" alt="" /></a> -->
 
-## Muscle mass<sup>[[16](#references)]</sup>
+## 5. Muscle mass<sup>[[16](#references)]</sup>
 
 ### How to build more muscle mass
 1. **Eat breakfast**. Best bets: omelettes, smoothies, cottage cheese.
@@ -335,7 +339,7 @@ Taking a cold shower is good because it:
 7. **Drink water**. Strengh training causes water loss (through sweating) which can impair muscle recovery.
 8. **Eat whole foods 90% of the time**. Examples: fresh meat, fish, poultry, eggs, vegetables, pulses, fruits, rice, oats, quinoa, etc. (On the contary, processed footds usually contain added sugars, trans-fats, nitrates, corn syrup, sodium and more chemicals. Examples: bagels, fruit bars, cereals, pizza, cookies, sausages, frozen meals, supplements.)
 
-## Blood pressure
+## 6. Blood pressure
 
 ### Benefits of low blood pressure<sup>[[17](#references)]</sup>
 
@@ -350,44 +354,44 @@ Low blood pressure reduces risk of stroke and heart diseases/attacks.
 It can damage your heart, brain, kidneys, and eyes.
 
 - decreases oxygen flow, which can cause:
-  - stroke, which can cause:
-    - serious disabilities in speech, movement and other basic activities;
-    - death.
-  - brain problems, such as:
-    - poorer cognitive function;
-    - dementia.
-- decreases blood flow, which can cause:
-  - chest pain;
-  - heart attack;
-  - heart failure.
-- increases risk for chronic kidney disease
+  - **stroke**, which can cause:
+    - serious disabilities in speech, movement and other basic activities
+    - death
+  - **brain problems**, such as:
+    - poorer cognitive function
+    - dementia
+- **decreases blood flow**, which can cause:
+  - chest pain
+  - heart attack
+  - heart failure
+- increases risk for chronic kidney disease.
 
 ### Optimal blood pressure<sup>[[19](#references)]</sup>
 
 Upper boundary: for everyone – 120 over 80 (systolic 120 mm Hg and diastolic 80 mm Hg).
 
-Lower boundary: for people who don't naturally have low blood pressure, if you experience dizziness or lightheadedness – 90 over 60 <sup>[[20](#references)]</sup>; otherwise not big deal <sup>[[21](#references)]</sup>. Higher for older people.
+Lower boundary: for people who don't naturally have low blood pressure, if you experience dizziness or lightheadedness – 90 over 60<sup>[[20](#references)]</sup>; otherwise not big deal<sup>[[21](#references)]</sup>. Higher for older people.
 
 ### How to decrease blood pressure
 
-- get **enough regular physical activity** (recommended: at least 2 hours and 30 minutes of moderate-intensity exercise, e.g. brisk walking or cycling)<sup>[[22](#references)]</sup>;
-- eat a variety of foods rich in potassium, fiber, and protein; (^)
-- avoid foods rich in salt (sodium) and saturated fat; (^)
-- keep yourself at a healthy weight [expand/link]; (^)
-- do not smoke; (^)
-- limit alcohol (men: max 2 alcoholic drinks per day, women: max 1); (^)
-- [get enough sleep](#sleep-strategy); (^)
+- get **enough regular physical activity** (recommended: at least 2 hours and 30 minutes of moderate-intensity exercise, e.g. brisk walking or cycling)
+- eat a variety of foods rich in potassium, fiber, and protein
+- avoid foods rich in salt (sodium) and saturated fat
+- keep yourself at a healthy weight [expand/link]
+- do not smoke
+- limit alcohol (men: max 2 alcoholic drinks per day, women: max 1)
+- [get enough sleep](#sleep-strategy)<sup>[[22](#references)]</sup>
 - don't take hot showers<sup>[[23](#references)]</sup>
 - [meditate](#meditation)<sup>[[24](#references)]</sup>
 
-## Other body parts
+## 7. Other body parts
 
 ### Ear health<sup>[[25](#references)]</sup>
 
 Tips for improving hearing and preventing hearing loss:
 
 - **Avoid loud noises**: turn volume down on devices and consider using earplugs in excessively loud environments;
-- **Keep your ears dry**: *gently* [expand?] dry your ears with a towel after bathing or swimming;
+- **Keep your ears dry**: *gently* dry your ears with a towel after bathing or swimming;
 - **Don't smoke**, as it hampers blood flow and oxygen crucial to maintaining healthy ear cells;
 - **Prevent excess ear wax**, as it can cause mild hearing loss and discomfort;
 - **Be careful with cotton swabs** inside the ear;
@@ -411,7 +415,7 @@ Things you can do to improve dental and oral health:
 - Do not smoke, use tabacco products, or drink alcohol
 - Consider visiting a dentist at least once a year
 
-[more?]
+<!-- [more?] -->
 
 ### Hair health<sup>[[27](#references)]</sup>
 
@@ -437,7 +441,7 @@ Normally it's about 2-3 days, but take these factors into account:
 
 ### Skin health tips<sup>[[31](#references)]</sup>
 
-- Protect yourself from the sun [RESEARCH]
+- Protect yourself from the sun
 - Don't smoke
 - Limit bath time
 - Shave carefully (i.e. in the direction hair grows)
@@ -450,15 +454,15 @@ Normally it's about 2-3 days, but take these factors into account:
 
 # Time management
 
-**Disclaimer**: This section doesn't feature everything that can help improve productivity. For thoughts- and emotions-related issues, head to [Thoughts & emotions](#thoughts--emotions); for effectiveness, discipline and other issues unrelated with time, head to [Organization](#organization).
+**Note**: This section doesn't feature everything that can help improve productivity. For thoughts- and emotions-related issues, head to [Thoughts & emotions](#thoughts--emotions); for effectiveness, discipline and other issues unrelated with time, head to [Organization](#organization).
 
 ### Contents
-1. [Tips for naturally disorganized people](#tips-for-naturally-disorganized-people)
-2. [Planning](#planning)
-  - [Prioritization](#prioritization)
-  - [Strategic planning](#strategic-planning)
-3. [Taking breaks](#taking-breaks)
-4. [Sleep Strategy](#sleep-strategy)
+1. [Tips for naturally disorganized people](#1-tips-for-naturally-disorganized-people32)
+2. [Planning](#2-planning)
+  - [Prioritization](#prioritization36)
+  - [Strategic planning](#strategic-planning37)
+3. [Taking breaks](#3-taking-breaks38)
+4. [Sleep Strategy](#4-sleep-strategy)
 
 <!-- ## Purpose
 
@@ -471,9 +475,9 @@ also consider adding this quote from [https://www.entrepreneur.com/living/5-time
 
 <a id=less-organized></a>
 
-## Tips for naturally disorganized people<sup>[[32](#references)]</sup>
+## 1. Tips for naturally disorganized people<sup>[[32](#references)]</sup>
 
-### Organization REEVALUATE AND ORGANIZE
+### Organization
 
 - [Prioritize](#prioritization) tasks
 - Remove distractions
@@ -486,9 +490,9 @@ also consider adding this quote from [https://www.entrepreneur.com/living/5-time
 - Break time into blocks for breaks and unexpected events
 - Break larger tasks into managable chunks
 
-## Planning
+## 2. Planning
 
-### Planning tips<sup>[[33](#references)]</sup> (ORGANIZE?)
+### Planning tips<sup>[[33](#references)]</sup>
 - Set **time limits**; write deadlines for projects and/or tasks
 - Take **[breaks](#taking-breaks)** between tasks
 - Think **which days** to dedicate to specific tasks
@@ -516,7 +520,7 @@ The **Eisenhower matrix** is one of the best prioritization techniques. It break
 
 <MdImage img="Eisenhower-matrix.png" height=600></MdImage>
 
-[image source https://instagantt.com/eisenhower-matrix-definition-guide-and-examples]
+([image source](https://instagantt.com/eisenhower-matrix-definition-guide-and-examples))
 
 ### Strategic planning<sup>[[37](#references)]</sup>
 
@@ -528,12 +532,12 @@ The **Eisenhower matrix** is one of the best prioritization techniques. It break
 
 1. **Find time** to break away from your schedule and think.
 2. **Clarify your values** to figure out your purpose. (If confused, here's a [list of values](https://stevepavlina.com/blog/2004/11/list-of-values/).)
-- **Create a mission statement** that will hold [r] your purpose;
+- **Create a mission statement** that will carry your purpose;
 - Figure out your **strenghts & weaknesses**, e.g. with SWOT analysis;
 3. **Create goals** that align with your values
 - Under each goal, consider including **specific action steps and a time frame**
 
-## Taking breaks<sup>[[38](#references)]</sup>
+## 3. Taking breaks<sup>[[38](#references)]</sup>
 
 The **top 10%** most productive people work on average for **52 minutes** and then take a break for **17 minutes**.<sup>[[39](#references)]</sup>
 
@@ -566,7 +570,7 @@ For example:
 - Call someone;
 - Doodle.
 
-(Make sure to try all of them - <a href=#variety>variety</a> is important for high dopamine.)
+(Make sure to try all of them — <a href=#variety>variety</a> is important for high dopamine.)
 
 <a id=nap></a>
 
@@ -576,29 +580,29 @@ For example:
 - Lay down and relax (don’t tell yourself you have to fall asleep, that way you won’t, maybe try slowing down your breath).
 - If you like coffee, consider taking a *nappuccino*: before the above, drink a coffee to feel awake after the nap (because of caffeine entering the bloodstream).
 
-## Sleep Strategy
+## 4. Sleep Strategy
 
 ### Planning your sleep<sup>[[40](#references)]</sup>
 
 1. **Stick to a sleep schedule**. Go to bed at the same time every day, including weekends. (Being consistent reinforces your body's sleep-wake cycle.)
 2. **Pay attention to what you eat and drink**. Don't go to bed hungry or stuffed. Avoid heavy or large meals within a couple of hours of bedtime. Other things disrupting sleep are nicotine, caffeine and alcohol. **Water** is fine, but in small amounts, within 2 hours before sleep<sup>[[41](#references)]</sup>.
 3. **Create a restful environment**. Make sure your room is cool, dark and quiet. Avoid over-exposure to light-emitting screens just before bedtime.
-4. **[Limit daytime naps](#nap)**. Long daytime naps can interfere with nighttime sleep. Aim to nap for 10-20 minutes ([source](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/napping/art-20048319)) and avoid napping late in the day.
+4. **[Limit daytime naps](#nap)**. Long daytime naps can interfere with nighttime sleep. Aim to nap for 10-20 minutes<sup>[[42](#references)]</sup> and avoid napping late in the day.
 5. **Include [physical activity](#exercise) in your daily routine**. Regular physical activity can promote better sleep, but avoid being active too close to bedtime.
 6. **[Manage worries](#stress-management)**. Try to resolve worries and concerns before bedtime. Jot down what's on your mind and set it aside for tomorrow.
 
-#### Sleep Length<sup>[[42](#references)]</sup>
+#### Sleep length<sup>[[43](#references)]</sup>
 
 On average, a **sleep cycle** lasts 90 minutes. Adults need at least 7 hours of sleep. Avoid waking up during stage 3 NREM, i.e. between 50% and 75% (the longer the sleep, the sooner) of a cycle, as it may result in an impaired mental performance for 30-60 minutes.
 
 If you awaken spontaneously in the morning, you've most likely been at the last (REM) phase of a sleep cycle.
 
-### Falling asleep [?]
+### Falling asleep
 
 Try these tips if you struggle with falling asleep:
-- Try to stay awake for as long as possible (without access to television, computer, or moving around at all) to get more tired<sup>[[43](#references)]</sup>.
-- Avoid looking at bright screens two to three hours before bed. (If you can't, consider using blue-blocking glasses or installing an app that filters the blue/green wavelength at night)<sup>[[44](#references)]</sup>
-- Put a pillow under your knees to avoid rolling into less ideal positions as well as for more back health<sup>[[45](#references)]</sup>.
+- Try to stay awake for as long as possible (without access to television, computer, or moving around at all) to get more tired<sup>[[44](#references)]</sup>.
+- Avoid looking at bright screens two to three hours before bed. (If you can't, consider using blue-blocking glasses or installing an app that filters the blue/green wavelength at night)<sup>[[45](#references)]</sup>
+- Put a pillow under your knees to avoid rolling into less ideal positions as well as for more back health<sup>[[46](#references)]</sup>.
 - Take deep breaths and count them<sup>[[8](#references)]</sup>.
 
 ---
@@ -609,39 +613,39 @@ Try these tips if you struggle with falling asleep:
 
 ## Contents
 
-0. [Purpose](#purpose1)
-1. [Stress management](#stress-management)
-2. [Emotions & thought management](#emotions--thought-management)
-3. [Emotional stability](#emotional-stability56)
-4. [Stopping bad habits](#stopping-bad-habits57-find-better-source)
-5. [Building confidence & self-esteem](#building-confidence--self-esteem)
-6. [Meditation](#meditation)
+<!-- 0. [Purpose](#purpose1) -->
+1. [Stress management](#1-stress-management)
+2. [Emotions & thoughts management](#2-emotions--thoughts-management)
+3. [Emotional stability](#3-emotional-stability56)
+4. [Stopping bad habits](#4-stopping-bad-habits57improve-source)
+5. [Building confidence & self-esteem](#5-building-confidence--self-esteem)
+6. [Meditation](#6-meditation)
 
-## Purpose
+<!-- ## Purpose
 
 [source: book]
 
-Time management is needed and successful until it becomes difficult to get more time. Too much time management, without mind management [r], may cause you to feel constantly in a rush, tired and anxious. Instead, one also needs to focus on being in the right state of mind to do the work at hand. ["Success can appear out of nowhere"] The point isn't just in doing something quickly; it's just as important to do something in the right state ["think thoughts behind the doing"] Productivity isn't just the speed of production but also the quality of thinking.
+Time management is needed and successful until it becomes difficult to get more time. Too much time management, without mind management [r], may cause you to feel constantly in a rush, tired and anxious. Instead, one also needs to focus on being in the right state of mind to do the work at hand. ["Success can appear out of nowhere"] The point isn't just in doing something quickly; it's just as important to do something in the right state ["think thoughts behind the doing"] Productivity isn't just the speed of production but also the quality of thinking. -->
 
-## Stress management
+## 1. Stress management
 
 ### Short-term solutions. Managing everyday stress
 
-- **Plan and keep track** of your progress<sup>[[46](#references)]</sup>;
-  - Try journaling<sup>[[47](#references)]</sup>;
-- Give your brain **[regular breaks](#taking-breaks)**; 
-  - Take a short walk through nature<sup>[[38](#references)]</sup>;
-  - Spend time with friends & family;
-  - Take some deep breaths<sup>[[46](#references)]</sup> or [meditate](#meditation)<sup>[[50](#references)]</sup>;
-- Get **[enough sleep](#sleep-strategy)**<sup>[[38](#references)]</sup>;
-- [**Exercise**](#exercise)<sup>[[38](#references)]</sup>;
-- **[Eat healthy food](#stomach--eating)** as it affects your mood, energy and stress level<sup>[[38](#references)]</sup>;
-- Don't put away tasks until the last minute; try to use stress to motivate yourself<sup>[[38](#references)]</sup>;
-  - If you're not sure how to deal with a task, consider asking for advice<sup>[[38](#references)]</sup>;
-- **Listen to calm, slow music** (also recommended for [sleep](#sleep-strategy)). Some of the most relaxing music include Native American, Celtic, Indian stringed-instruments, drums, and flutes as well as sounds of nature, especially rain and thunder. Don't force yourself to listen to music that you don't like<sup>[[51](#references)]</sup>;
-- **Know your strengths** (appreciate the things you're good at and other people struggle with); get out of your comfort zone to get feedback to learn more about yourself and the situation and to be more confident<sup>[[52](#references)]</sup>.
+- **Plan and keep track** of your progress<sup>[[47](#references)]</sup>
+  - Try journaling<sup>[[48](#references)]</sup>
+- Give your brain **[regular breaks](#taking-breaks)**
+  - Take a short walk through nature<sup>[[38](#references)]</sup>
+  - Spend time with friends & family
+  - Take some deep breaths<sup>[[46](#references)]</sup> or [meditate](#meditation)<sup>[[49](#references)]</sup>
+- Get **[enough sleep](#sleep-strategy)**<sup>[[38](#references)]</sup>
+- [**Exercise**](#exercise)<sup>[[38](#references)]</sup>
+- **[Eat healthy food](#stomach--eating)** as it affects your mood, energy and stress level<sup>[[38](#references)]</sup>
+- Don't put away tasks until the last minute; try to use stress to motivate yourself<sup>[[38](#references)]</sup>
+  - If you're not sure how to deal with a task, consider asking for advice<sup>[[38](#references)]</sup>
+- **Listen to calm, slow music** (also recommended for [sleep](#sleep-strategy)). Some of the most relaxing music include Native American, Celtic, Indian stringed-instruments, drums, and flutes as well as sounds of nature, especially rain and thunder. Don't force yourself to listen to music that you don't like<sup>[[50](#references)]</sup>
+- **Know your strengths** (appreciate the things you're good at and other people struggle with); get out of your comfort zone to get feedback to learn more about yourself and the situation and to be more confident<sup>[[51](#references)]</sup>
 
-### Long-term solutions. Achieving goals without stress<sup>[[53](#references)]</sup>
+### Long-term solutions. Achieving goals without stress<sup>[[52](#references)]</sup>
 
 1. **Set big goals**, even bordering with unrealistic, so that you have a chance of reaching something at least close to those goals (crappy goals = crappy results);
 2. **Envision the goals**: what are the things you're doing, when are you doing them, where are you; picture everything;
@@ -651,20 +655,20 @@ Time management is needed and successful until it becomes difficult to get more 
 6. **Reduce or eliminate obstacles**, e.g. unhealthy obstacles, things compounding waste of time, distractions, etc.;
 7. Build in the habit through repetition.
 
-## Emotions & thought management
+## 2. Emotions & thoughts management
 
-### Laziness<sup>[[55](#references)]</sup>
+### Laziness<sup>[[53](#references)]</sup>
 
 "The most difficult part of a behavior is getting started. Once you get started, it's easy to continue even if the activity is not enjoyable. Modify your environment in a way that requires extra effort for keeping negative habits and limited effort for developing new positive habits."<sup>[[54](#references)]</sup>
 
-#### Causes of laziness<sup>[[55](#references)]</sup>
+#### Causes of laziness<sup>[[53](#references)]</sup>
 
 1. Lack of self-esteem;
 2. Lack of positive recognition by others;
 3. Lack of discipline (due to low self-confidence);
 4. Lack of interest in the activity itself.
 
-### Boredom
+### Boredom<sup>[[55](#references)]</sup>
 
 Boredom happens when none of the available activities are appealing for you at the moment. A common way to escape boredom is the Internet which absorbs all attention.
 
@@ -687,11 +691,11 @@ Tips to stop overthinking:
 
 (I personally have a separate framework which deals with particular overthinking scenarios, but due to its subjectiveness, unverified sources [r] and focus [r] [a]) -->
 
-### Other
+### Anger<sup>[[8](#references)]</sup>
 
-- When you get an email or text that infuriates you, wait about an hour to respond. You'll be surprised at how much more rational you become<sup>[[8](#references)]</sup>.
+- "When you get an email or text that infuriates you, wait about an hour to respond. You'll be surprised at how much more rational you become."
 
-## Emotional stability<sup>[[56](#references)]</sup>
+## 3. Emotional stability<sup>[[56](#references)]</sup>
 
 ### Benefits of emotional stability
 - enables you to develop an integrated and balanced way of perceiving the problems of life;
@@ -751,7 +755,7 @@ Psychological resilience – time of recovery from negative emotions ("“flexib
 - show vulnerability and stubbornness while looking for sympathy;
 - conceited, quarrelsome, infantile, self-centered, demanding.
 
-## Stopping bad habits<sup>[[57](#references)]</sup> [find better source?]
+## 4. Stopping bad habits<sup>[[57](#references)][improve source?]</sup>
 
 You don't want to look back and regret wasted time.
 
@@ -774,7 +778,7 @@ To find secondary gains, ask yourself:
 - "Insanity is doing the same thing over and over expecting things to change." -->
 <a id=confidence></a>
 
-## Building confidence & self-esteem
+## 5. Building confidence & self-esteem
 
 ### Mindset<sup>[[58](#references)]</sup> (Inside factors)
 
@@ -789,11 +793,11 @@ To find secondary gains, ask yourself:
 
 ### Environment (Outside factors)
 
-- Maintain a good posture <sup>[[59](#references)]</sup>
+- Maintain a good posture<sup>[[59](#references)]</sup>
 - Make eye contact
   - 80/20 rule: spend 20% time looking at something else not to appear too intense
-- Adopt **new routines**, e.g. [exercise](#exercise) or [meditation](#meditation) <sup>[[59](#references)]</sup>
-- Make sure you're not surrounded by demotivating and irritating people. (Crumblyy/<sup>[[59](#references)]</sup>)
+- Adopt **new routines**, e.g. [exercise](#exercise) or [meditation](#meditation)<sup>[[59](#references)]</sup>
+- Make sure you're not surrounded by demotivating/irritating people<sup>[[59](#references)]</sup>
 - Read and collect inspirational quotes
 - Learn more about topics related with your goals
 - Consider learning to play an instrument<sup>[[60](#references)]</sup>
@@ -804,10 +808,10 @@ To find secondary gains, ask yourself:
 
 #### Feeling exhausted?
 
-• Listen to music, especially slow. It should build the right feeling around you to help you regain strength. (*)
-• Take a longer break (45 minutes to 1 hour) to clear your mind (?) -->
+- Listen to music, especially slow. It should build the right feeling around you to help you regain strength. (*)
+- Take a longer break (45 minutes to 1 hour) to clear your mind (?) -->
 
-## Meditation
+## 6. Meditation
 
 <!-- ### Overview
 
@@ -819,15 +823,15 @@ The common assumption (maybe unconscious) is that happiness depends on external 
 (– from a Youtube comment) -->
 
 ### Advantages of meditation
-- boosts immune system<sup>[[62](#references)]</sup>
-- lowers blood pressure<sup>[[62](#references)]</sup>
-- possibly prevents or at least slows down shrinking of control gray matter (figuring things out, remembering things)<sup>[[61](#references)]</sup>; grows gray matter in key areas of your brain (having to do with self-awareness and compassion) and shrinks gray matter in area associated with stress[²](#references) ==> increases focus\
-- grows hippocampus (learning and memory) and temporo-parietal junction (perspectives, empathy and compassion)<sup>[[61](#references)]</sup>
-- reduces stress and fatigue<sup>[[50](#references)]</sup>
-- improves concentration[]
-- helps with relaxation, inner peace, and emotional well-being<sup>[[50](#references)]</sup>
+- boosts immune system<sup>[[61](#references)]</sup>
+- lowers blood pressure<sup>[[61](#references)]</sup>
+- possibly prevents or at least slows down shrinking of control gray matter (figuring things out, remembering things)<sup>[[62](#references)]</sup>; grows gray matter in key areas of your brain (having to do with self-awareness and compassion) and shrinks gray matter in area associated with stress<sup>[[62](#references)]</sup> ==> increases focus
+- grows hippocampus (learning and memory) and temporo-parietal junction (perspectives, empathy and compassion)<sup>[[62](#references)]</sup>
+- reduces stress and fatigue<sup>[[49](#references)]</sup>
+- improves concentration<sup>[[49](#references)]</sup>
+- helps with relaxation, inner peace, and emotional well-being<sup>[[49](#references)]</sup>
 
-### Guided meditation<sup>[[64](#references)]</sup><sup>[[65](#references)]</sup> (from Khan Academy)
+### Guided meditation<sup>[[63](#references)]</sup><sup>[[64](#references)]</sup> (from Khan Academy)
 
 #### Preparation
 - Try to sit with your back upright (posture makes a big difference)
@@ -843,8 +847,7 @@ Remember: there is no perfect way to meditate. This whole exercise is about expl
 If there are random distractions, just accept them. They're just part of the universe.
 
 #### Path to the heart of meditation
-1. Give yourself a good smile, even if you need to force it. Try to keep it the whole time.
-(Keep breathing slower and deeper)
+1. Give yourself a good smile, even if you need to force it. Try to keep it the whole time. (Keep breathing slower and deeper)
 2. Take a pause to appreciate that you're alive, to appreciate who you really are.
 3. Try to become aware of your thoughts. Don't try to fight them, just observe them.
 4. Start to appreciate that you are not your thoughts because you observe them and see them go by. (One often used metaphor is that thoughts are like cars on a highway, and one thing to observe them is to just get out of the highway.)
@@ -857,21 +860,21 @@ If there are random distractions, just accept them. They're just part of the uni
 
 When you're ready, open your eyes. Take that stillness with you for the rest of your day. Thank yourself for taking your time out for doing this. Consider making it a regular practice.
 
-### Developing a meditation habit<sup>[[66](#references)]</sup>
+### Developing a meditation habit<sup>[[65](#references)]</sup>
 
-Starting seriously for large amounts of time [r] won't work. Don't worry about the quality of it in the beginning. You may e.g. establish a 5-minute habit for the first year, then extend it to 15 minutes the 2nd year, then more. Important: give yourself this opportunity regardless of whether you had a good or bad day.
+Starting seriously (i.e. with large sessions) won't work. Don't worry about the quality of at the beginning. You may e.g. establish a 5-minute habit for the first year, then extend it to 15 minutes the 2nd year, then more. Important: give yourself this opportunity regardless of whether you had a good or bad day.
 
 ### Other meditation tips
 
-- If you need to open your eyes for a second because your monkey mind insists it, open them, have your look, then go back. ([Reddit](https://www.reddit.com/r/Meditation/comments/5fh63w/when_do_you_stop_meditating/))
-- In terms of **how often you should meditate**, it's up to you. Some people benefit from sitting once every day, while others prefer a short session in the morning and another in the evening. Sitting more than once a day can help manage overthinking and keep your mind calm and stress-resilient throughout the day. ([*How Long Should You Meditate?*](https://www.verywellmind.com/how-long-should-you-meditate-5208166) (article), Verywell Mind)
+<!-- - If you need to open your eyes for a second because your monkey mind insists it, open them, have your look, then go back. ([Reddit](https://www.reddit.com/r/Meditation/comments/5fh63w/when_do_you_stop_meditating/)) -->
+- In terms of **how often you should meditate**, it's up to you. Some people benefit from sitting once every day, while others prefer a short session in the morning and another in the evening. Sitting more than once a day can help manage overthinking and keep your mind calm and stress-resilient throughout the day.<sup>[[66](#references)]</sup>
 - There is no universally best time to meditate – each time gives different benefits. Read more here: [*When Is the Best Time of Day to Meditate?*](https://mindworks.org/blog/when-is-the-best-time-of-day-to-meditate/)
 
 ---
 
 # Organization
 
-**Disclaimer**: This section is less defined than others and may lack profound [?] sources.
+**Disclaimer**: This section is less defined than others and may lack profound sources.
 
 <a id=dopamine></a>
 
@@ -879,7 +882,7 @@ Starting seriously for large amounts of time [r] won't work. Don't worry about t
 
 purpose of Organization: don't rely only on pure willpower (which is a finite resource) -->
 
-## Methods for increasing dopamine levels / building up productivity<sup>[[67](#references)]</sup>
+## Increasing dopamine levels / building up productivity<sup>[[67](#references)]</sup>
 
 1. **Always have a key objective to work towards** and you'll know what you should be doing. Having a clear goal gives your actions a purpose. Setting smaller goals on the way to a bigger goal is also recommended because achieving each goal will give motivation to achieve more goals.
 2. **Make sure the progress is visible**. If you have the progress towards multiple goals visible, you'll see you're constantly close to completing something, which makes you keep moving on. Therefore, consider tracking your activities and taking notes of all the things you've done that led you towards your goals.
@@ -887,7 +890,7 @@ purpose of Organization: don't rely only on pure willpower (which is a finite re
 4. <a id=variety></a>**Make sure there is variety**. If you want to stick to something long-term, it helps if you can incorporate something new into the activity, especially something you're not fully familiar with that makes the challenge novel. In short, look for a way to make your day slightly different.
 5. **Match the difficulty to your skill level**. Whenever you're able to do so, you'll be more engaged. One way to increase difficulty is to give yourself shorter and shorter time limits to gain more efficiency.
 
-## Methods for increasing energy<sup>[[68](#references)]</sup>
+## Increasing energy<sup>[[68](#references)]</sup>
 
 1. **Decide that you're not tired**. Sometimes being tired is as much of a mental thing as a physical thing – you're gonna act as tired if you identify as tired.
 2. **[Do not oversleep](#sleep-strategy)** – if you start getting up at the same time every day over and over it'll become easier over time
@@ -895,7 +898,7 @@ purpose of Organization: don't rely only on pure willpower (which is a finite re
 4. **[Eat better](#eating)**: 1. dramatically reduce sugar; 2. reduce the amount of carbs (donut, cookie, stuff with sugar), eat complex carbohydrates (brown rice, potatoes, etc.; 3. eat more dark greens (spinach, kale); 4. drink lots of water)
 5. **Perform a mid-day reset**. (1. go for a short walk; 2. [meditate](#meditation); 3. go to the gym) ([click here](#taking-breaks38) for more effective breaks)
 
-## How to absorb textbooks like a sponge<sup>[[92](#references)]</sup>
+## How to absorb textbooks like a sponge<sup>[[69](#references)]</sup>
 1. Flip through each page. Take the beginning of the chapter and turn page by page just to see what's on each page, don't read anything, just look what the pictures are and what the pages look like, to get a sense of how long a chapter is, how much words are there compared to images, are there any graphs, does anything jump out, etc.
 2. Go to the end of the chapter to see if there is any sort of a quiz. Read the questions to know what to look for / what to get out of the chapter.
 3. Go back to the beginning and read the bold print (only) to understand how this stuff fits together.
@@ -905,7 +908,7 @@ purpose of Organization: don't rely only on pure willpower (which is a finite re
 (Repetition is the mother of learning.)
 (Reticular activating system – activate it before you read the chapter to heighten your awareness.)
 
-## More on self-discipline<sup>[[69](#references)][?]</sup>
+## More on self-discipline<sup>[[70](#references)][?]</sup>
 
 - When you wake up, you need to have a routine to keep the rest of your day in a positive way. Wake up with intention and willpower to set things in a positive way. Failing in the beginning makes it harder to succeed later.
 - Try getting up earlier to get more time to change your life and make more impactful decisions.
@@ -915,12 +918,13 @@ purpose of Organization: don't rely only on pure willpower (which is a finite re
 <!-- [CONSIDER: section on focusing] -->
 - Regard every task as an exercise. It will make you stronger, more decisive and more confident<sup>[[8](#references)]</sup>.
 
-## Keys to Creative Collaboration<sup>[[70](#references)]</sup>
+## Keys to Creative Collaboration<sup>[[71](#references)]</sup>
 
 1. **Ownership**. Make members able to solve problems, generate ideas, design systems that lead to success.
 2. **Dependability**. Ensure deadlines and creative endurance are enforced.
 3. **Trust** makes members work interdependently. That way they can assume the best in each other.
-4. **Structure** – loose and flexible, but has to exist. *(Check out design thinking - getting the most out of the entire creative process)*
+4. **Structure** – loose and flexible, but has to exist.
+<!-- *(Check out design thinking - getting the most out of the entire creative process)* -->
 5. **Shared vision**. Make sure there is a shared direction, desire, goal.
 6. **Fun** makes members want to be together and boosts both convergent and divergent thinking.
 7. **Candor**. Groups need to be honest about what's working and what's failing in order to adjust and iterate and ultimately achieve success.
@@ -929,14 +933,13 @@ purpose of Organization: don't rely only on pure willpower (which is a finite re
 
 # Communication
 
-**Disclaimer**: As of now, this section might be missing significant information.
+**Disclaimer**: As of now, this section might be missing significant information, as two sections are being reworked.
 
 ## Contents
 
-[theory, discussion not shown; need rework]
-1. [Styles of communication](#four-styles-of-communication-marstons-disc-model717273)
-2. [Non-verbal communication](#non-verbal-communication75)
-3. [Other](#effective-communication76)
+1. [Styles of communication](#1-styles-of-communication-marstons-disc-model727374)
+2. [Non-verbal communication](#2-non-verbal-communication76)
+3. [Other](#3-effective-communication77)
 
 <!-- 
 *Warning: quite messy*
@@ -948,9 +951,9 @@ Two elements [w?] of statements: logical (the form; derived a priori) and dialec
 
 ### On discussion
 
-• When two thoughts regarding the same topic are **opposing** each other, start from revising your **own** instead of the opponent's. (One may often do otherwise due to human nature) (^)
-• In fair discussions the **goal** should be to get to the truth (instead of aiming for validity which happens due to human nature) (^)
-• To get **better** at discussions, pay attention to the methods of refuting arguments (^)
+- When two thoughts regarding the same topic are **opposing** each other, start from revising your **own** instead of the opponent's. (One may often do otherwise due to human nature) (^)
+- In fair discussions the **goal** should be to get to the truth (instead of aiming for validity which happens due to human nature) (^)
+- To get **better** at discussions, pay attention to the methods of refuting arguments (^)
 
 #### Attitude of discussion
 
@@ -963,35 +966,35 @@ Two elements [w?] of statements: logical (the form; derived a priori) and dialec
 
 #### Framework of discussion
 
-• ad rem: show that the thesis doesn't agree with the universal truth (objective)
-• modus ad hominem / ex concessis: show that it doesn't agree with other given theses (subjective) the opponent agreed on
+- ad rem: show that the thesis doesn't agree with the universal truth (objective)
+- modus ad hominem / ex concessis: show that it doesn't agree with other given theses (subjective) the opponent agreed on
 Paths:
-• direct: attacks a thesis's reasons (a: show that presumptions are incorrect; b: accept presumptions and show that the thesis doesn't result from them)
-• indirect: attacks a thesis's effects (a: consider thesis as correct and connect with another thesis considered universally as true and conclude with contradiction; b: exemplum in contrarium - example of the opposite - if it doesn't work for it, it doesn't work generally)
+- direct: attacks a thesis's reasons (a: show that presumptions are incorrect; b: accept presumptions and show that the thesis doesn't result from them)
+- indirect: attacks a thesis's effects (a: consider thesis as correct and connect with another thesis considered universally as true and conclude with contradiction; b: exemplum in contrarium - example of the opposite - if it doesn't work for it, it doesn't work generally)
 
 (Other) *(a bit messy)*
-• "With those who negate rules, one should not discuss"
-• Socratic (erothematic) method: one who gives a thesis asks questions in order to understand each other as precisely as possible
-• Mix the order of questions
-• fallacia non causae ut causae: using something which is not a cause as a cause and deducing
-• apagogical proof: proof resulting from impossibility [w] of contrary thesis
-• inductio: reasoning from details to general
-• retorsio argumenti: successfully using the opponent's argument against them
-• ad auditores: making the public think in one's favor
-• ad personam: argument of personal nature, i.e. not to the issue but directly to the opponent; arrogant and worst way (basically doesn't have to be countered, because its user is already weaker; it's best to simply ignore and continue the discussion as if it didn't happen)
-• ad verecundiam: to the respect
-• ex hypothesi: in accordance with the hypothesis
-• argumentum ab [w?] utili: (beats anything; isn't always possible) applying to the will, i.e. if someone is trying to prove what would do bad for them, making them realize that will make them abandon their proof
-• ad hominem after ad rem: if the issue is correct yet the proof is incorrect, countering the proof can counter the thesis
+- "With those who negate rules, one should not discuss"
+- Socratic (erothematic) method: one who gives a thesis asks questions in order to understand each other as precisely as possible
+- Mix the order of questions
+- fallacia non causae ut causae: using something which is not a cause as a cause and deducing
+- apagogical proof: proof resulting from impossibility [w] of contrary thesis
+- inductio: reasoning from details to general
+- retorsio argumenti: successfully using the opponent's argument against them
+- ad auditores: making the public think in one's favor
+- ad personam: argument of personal nature, i.e. not to the issue but directly to the opponent; arrogant and worst way (basically doesn't have to be countered, because its user is already weaker; it's best to simply ignore and continue the discussion as if it didn't happen)
+- ad verecundiam: to the respect
+- ex hypothesi: in accordance with the hypothesis
+- argumentum ab [w?] utili: (beats anything; isn't always possible) applying to the will, i.e. if someone is trying to prove what would do bad for them, making them realize that will make them abandon their proof
+- ad hominem after ad rem: if the issue is correct yet the proof is incorrect, countering the proof can counter the thesis
 *Check the term petitio principii*
 
 (^) -->
 
-## Four Styles of Communication (Marston's DISC model)<sup>[[71](#references)]</sup><sup>[[72](#references)]</sup><sup>[[73](#references)]</sup>
+## 1. Styles of communication (Marston's DISC model)<sup>[[72](#references)]</sup><sup>[[73](#references)]</sup><sup>[[74](#references)]</sup>
 
-(median reliability coefficient = .86)<sup>[[72](#references)]</sup>
+(median reliability coefficient = .86)<sup>[[73](#references)]</sup>
 
-### Overview<sup>[[71](#references)]</sup>
+### Overview<sup>[[72](#references)]</sup>
 
 The model is based on two dimensions:
 1. Sense of self (whether a person views their environment as favorable or unfavorable)
@@ -1008,7 +1011,7 @@ See also: Tony Robbins's four personality needs (certainty vs. variety, signific
 
 <!-- ### Four Planes of Communication [studies] -->
 
-### Styles<sup>[[73](#references)]</sup><sup>[[74](#references)]</sup>
+### Styles<sup>[[73](#references)]</sup><sup>[[75](#references)]</sup>
 
 - **Compliance**: logical, analytical, formal, detail-focused
   - Likes written communication, factsheets, etc. (dislikes analytical topics)
@@ -1023,39 +1026,32 @@ See also: Tony Robbins's four personality needs (certainty vs. variety, signific
   - Likes action, goals, tasks, decisions
   - Motivated by challenge, action, freedom, and rivalry
 
-### Improvement tips<sup>[[73](#references)]</sup>
+### Improvement tips<sup>[[74](#references)]</sup>
 
 - **Compliance**: speak more (but less on facts & numbers), be expressive & inspiring, spend more time on open-ended conversations
 - **Steadiness**: speak more and faster, be more expressive, contol your emotions, don't focus on details, be more result-oriented
 - **Influence**: listen more than speak, slow down, be more direct, focus on facts & details, don't get overly emotional, try to stick to the topic
 - **Dominance**: listen more than speak, slow down, be more patient, focus on feelings & emotions, try not to dominate the conversation
 
-## Non-verbal communication<sup>[[75](#references)]</sup>
+## 2. Non-verbal communication<sup>[[76](#references)]</sup>
 
-### Some facts (messy)
+### Some facts<sup>[messy]</sup>
 
-The majority of communication is done non-verbally. Non-verbal communication is about negotiating interpersonal relations.
-
-Women are innately better at recognizing non-verbal cues than men.
-
-[Before you think you suck at body language, realize there are many universal gestures, such as smiling, frowning, nodding/shaking your head, baring teeth, shoulder shrug]
-
-Gestures can often appear in clusters and, as such, often have to be examined together.
-
-It's important to consider what effect a person’s physical restrictions or disabilities may have on his or her body movement.
-
-"as an individual gets older, many of his gestures become sophisticated and less obvious"
-
-It is generally considered impossible to fake body language, especially for longer periods of time, due to likely lack of congruence between main gestures, microsignals and spoken words.
-
-[idk where: indicators of lying: facialmuscular twitching, expansion and contraction of pupils, sweating at the brow, flushing of the cheeks, increased rate of eye blinking, etc.]
+- The majority of communication is done non-verbally. Non-verbal communication is about negotiating interpersonal relations.
+- Women are innately better at recognizing non-verbal cues than men.
+- Before you think you suck at body language, realize there are many universal gestures, such as smiling, frowning, nodding/shaking your head, baring teeth, shoulder shrug
+- Gestures can often appear in clusters and, as such, often have to be examined together.
+- It's important to consider what effect a person’s physical restrictions or disabilities may have on his or her body movement.
+- "as an individual gets older, many of his gestures become sophisticated and less obvious"
+- It is generally considered impossible to fake body language, especially for longer periods of time, due to likely lack of congruence between main gestures, microsignals and spoken words.
+- Indicators of lying: facialmuscular twitching, expansion and contraction of pupils, sweating at the brow, flushing of the cheeks, increased rate of eye blinking, etc.
 
 ### Zones
 
-- Intimate Zone: 15-45 cm (6-18 inches) – only for emotionally close people
-- Personal Zone: 46-122 cm (18-48 inches) – distance during social functions and friendly gatherings
-- Social Zone: 1.22-3.6 m (4-12 feet) – for strangers and people we don't know very well
-- Public Zone: over 3.6 m (12 feet) – for adressing a large group of people
+- **Intimate Zone**: 15-45 cm (6-18 inches) – only for emotionally close people
+- **Personal Zone**: 46-122 cm (18-48 inches) – distance during social functions and friendly gatherings
+- **Social Zone**: 1.22-3.6 m (4-12 feet) – for strangers and people we don't know very well
+- **Public Zone**: over 3.6 m (12 feet) – for adressing a large group of people
 
 The denser the space you grew in, the smaller the zones.
 
@@ -1074,11 +1070,8 @@ Claiming another person's territory may cause negative results.
 #### Territorial gestures
 
 - leaning against newly acquainted property, putting foot or arm around it = pride of ownership
-  - leaning against, sitting upon or using another person's property are subtle intimidation techniques [r]
-
-#### Ownership gestures [merge?]
-
-- leg-overchair = signifies ownership and implies relaxation to others
+  - leaning against, sitting upon or using another person's property are subtle intimidation techniques
+  - leg-overchair signifies ownership and implies relaxation to others
 
 <!-- ### Hands
 
@@ -1088,21 +1081,22 @@ The brain pays significant attention to the hands and fingers compared to the re
 
 Hiding hands during conversation may be perceived as less open and honest. -->
 
-#### Palm gestures
+### Palm gestures
 
 open palms = honesty (hiding palms in pockets or in the back suggests dishonesty)
 
-**Palm command gestures**
+#### Palm command gestures
 - palm facing up = submissive
 - palm facing down = dominant (acceptable when you have authority, otherwise may be seen as antagonistic)
 - palm closed with finger pointed = irritating, aggressive, non-relaxing
 
-**Handshakes**
+#### Handshakes
 - palm facing down = dominant
 - palm facing up = submissive (avoid)
 - vertical palm grip is a sign of respect as both sides try to be dominant
 
-Technique for disarming dominant shaker: (aka. step-to-the-right technique?)
+Technique for disarming dominant shaker:
+<!-- (aka. step-to-the-right technique?) -->
 1. step forward with left foot as you reach to shake hands
 2. bring the right leg forward, moving left in front of the person
 3. bring your left leg across to your right leg to complete the manoeuvre, then shake the person’s hand
@@ -1111,7 +1105,7 @@ Initiate handshake when: (you aren't unannounced nor uninvited)
 - you are welcome
 - the person is glad to meet you
 
-**Handshake styles**
+#### Handshake styles
 
 - palm-down thrust: most aggressive handshake style. Methods to counter:
   - (see above)
@@ -1175,7 +1169,7 @@ It's easy to misinterpret these gestures if they appear isolated.
 - index finger vertically on cheek and thumb supporting chin = negative/critical thoughts
 - chin stroking = making a decision (observe other gestures to know attitude)
   - putting an item (e.g. glasses frame, pipe) in one's mouth = unsure
-- combined gesture: [p. 55] evaluation moved to chin, hand stroking chin
+- combined gesture: evaluation moved to chin, hand stroking chin
   - thumb supporting head = less interest
 
 ### Arms gestures
@@ -1190,13 +1184,14 @@ It's easy to misinterpret these gestures if they appear isolated.
 ### Leg gestures
 
 - crossed legs = negative or defensive attitude (though less than arms)
-  - standard: () = nervous, reserved or defensive (often supportive, don't interpret in isolation!)
+  - standard: nervous, reserved or defensive (often supportive, don't interpret in isolation!)
+  <!-- - standard: () = nervous, reserved or defensive (often supportive, don't interpret in isolation!) -->
     - combined with arms = withdrawn from conversation
   - hand clamp on legs = tough-minded, stubborn
 - standing leg cross (often at a greater distance) = stranger defensive
 - ankle lock = same; "holding a valuable concession"
 - foot lock (top of one foot locking around the other leg; often used by women) = very defensive
-- leg log [v] (one leg on another) = superior, likely wants to argue
+- leg lock (one leg on another) = superior, likely wants to argue
 
 ### Head gestures
 
@@ -1212,7 +1207,7 @@ It's easy to misinterpret these gestures if they appear isolated.
 
 ### Eye signals
 
-(Consider cultural circumstances)
+(Have cultural circumstances in mind)
 - dilated pupils (up to 4 times than normal) = excited
   - babies dilate pupils to receive attention
 - constricted pupils ("snake eyes") = angry, negative
@@ -1277,7 +1272,7 @@ posture and the person appeared to become more youthful in appearance"
 ### Cigars, cigarettes, pipes gestures
 
 - smoking = inner turmoil or tension
-  - non-smoking people instead do [w] grooming, nail biting, finger and foot tapping, cufflink adjusting, head scratching, taking a ring off and putting it back on, playing with a tie
+  - non-smoking people instead do grooming, nail biting, finger and foot tapping, cufflink adjusting, head scratching, taking a ring off and putting it back on, playing with a tie
 - pipe smokers may perform a cleaning, lighting, tapping, filling, packing and puffing ritual to relieve tension
 - cigarette smokers may perform tapping, twisting, flicking, waving and other mini-gestures
 - blowing smoke upwards = positive, superior or confident; down = negative/secretive (unless blown through nostrils) (faster blowing = more)
@@ -1290,10 +1285,8 @@ posture and the person appeared to become more youthful in appearance"
 - folding glasses and putting away = intent to terminate conversation ([on the contrary] putting them back on = wanting to "see" the facts again)
 - peering over glasses = critical, judgmental
 
-### Body [categorize]
+<!-- ### Body -->
 
-- lowering the height of one's body in front of another person = establishing superior/subordinate relations
-- tall people command more authority (but can be detrimental when wanting to "talk on the same level")
 
 <!--
 #### Signs of confidence
@@ -1310,7 +1303,7 @@ posture and the person appeared to become more youthful in appearance"
 full touch = more affectionate
 fingers only = less affectionate
 <!--  -->
-#### Uncategorized
+### Uncategorized
 
 - leaning forward = interested
 - standing/sitting behind an object (e.g. chair) = protected, dominant, aggressive
@@ -1322,6 +1315,8 @@ fingers only = less affectionate
 - both hands on knees (or gripping chair) + leaning forward = desire to end conversation
 - thumbs tucked on the belt or tops of pockets (often accompanied by expanded pupils and foot pointing) = sexually aggressive attitude
 - copying another person's gestures = in agreement (effective for disarming "superior" types who try to take control; forces them to change position)
+- lowering the height of one's body in front of another person = establishing superior/subordinate relations
+- tall people command more authority (but can be detrimental when wanting to "talk on the same level")
 
 #### Feet pointing
 - Body (feet, torso) pointing elsewhere than you even if head doesn't = mind doesn't want to be there
@@ -1349,7 +1344,7 @@ fingers only = less affectionate
 
 - taller back = higher status
 - swivel chairs give more status than fixed chairs
-- arm rests = higher status [r3]
+- arm rests = higher status
 - chair adjusted higher
 - social or public zone = more status
 
@@ -1370,7 +1365,7 @@ fingers only = less affectionate
 
 [p. 13] -->
 
-## Effective communication<sup>[[76](#references)]</sup>
+## 3. Effective communication<sup>[[77](#references)]</sup>
 
 Common barriers to effective communication include:
 - [Stress](#stress-management)
@@ -1378,15 +1373,13 @@ Common barriers to effective communication include:
 - Lack of engaged listening
 - Inconsistent or negative [body language](#body-language)
 
-[can be expanded – see site]
-
-## Other Tips [unorganized]
+## Other Tips<sup>[unorganized]</sup>
 <!-- 
 ### Messing up words
 
 (>) You might be thinking faster than speaking. Solution:
-• slow down your speech (you may even allow for breaks, even a few seconds of silence is powerful);
-• lower your voice a bit (that will take away focus and calm down both you and the listener). ([Quora](https://www.quora.com/Sometimes-when-Im-talking-to-people-I-mix-up-my-words-and-dont-make-sense-because-Im-thinking-about-everything-Im-saying-I-end-up-sounding-dumb-How-can-I-correct-this-and-does-this-happen-to-other-people)) -->
+- slow down your speech (you may even allow for breaks, even a few seconds of silence is powerful);
+- lower your voice a bit (that will take away focus and calm down both you and the listener). ([Quora](https://www.quora.com/Sometimes-when-Im-talking-to-people-I-mix-up-my-words-and-dont-make-sense-because-Im-thinking-about-everything-Im-saying-I-end-up-sounding-dumb-How-can-I-correct-this-and-does-this-happen-to-other-people)) -->
 <!-- 
 ### Struggling to communicate ideas
 
@@ -1405,15 +1398,15 @@ Common barriers to effective communication include:
 
 ([video](https://www.youtube.com/watch?v=ZBU_H9QnVxQ) by Matt Sherman) -->
 
-### Discussion tips
+### Discussion tips<sup>[[8](#references)]</sup>
 
-• While arguing, stand next to the concerned person to effectively make your point clear. (Crumblyy)
-• The most powerful way to win an argument is by asking questions. (^)
+- While arguing, stand next to the concerned person to effectively make your point clear.
+- The most powerful way to win an argument is by asking questions.
 
-### Other
+### Other<sup>[[8](#references)]</sup>
 
-• When meeting someone for the 1st time, ask them what they **like** to do, rather than what they do. It'll get them excited and spark conversation. (Crumblyy)
-• If you want to check if the other person is listening, just cross your arms. (^)
+- When meeting someone for the 1st time, ask them what they **like** to do, rather than what they do. It'll get them excited and spark conversation.
+- If you want to check if the other person is listening, just cross your arms.
 
 ---
 
@@ -1428,10 +1421,10 @@ Common barriers to effective communication include:
 
 ## Contents
 
-1. [The Two Thinking Modes](#the-two-thinking-modes77)
-2. [The Four Stages of Creativity](#the-four-stages-of-creativity-g-wallas77)
-3. [The Seven Mental States](#the-seven-mental-states-d-kadavy77)
-4. [Environment setup](#environment-setup77)
+1. [The Two Thinking Modes](#1-the-two-thinking-modes78)
+2. [The Four Stages of Creativity](#2-the-four-stages-of-creativity-g-wallas78)
+3. [The Seven Mental States](#3-the-seven-mental-states-d-kadavy78)
+4. [Environment setup](#4-environment-setup78)
 
 <!-- ## Purpose
 
@@ -1439,14 +1432,14 @@ Common barriers to effective communication include:
 
 Most of the stuff you will create will be awful, but it is needed to create something good. It's still valuable because it's practice. -->
 
-## The Two Thinking Modes<sup>[[77](#references)]</sup>
+## 1. The Two Thinking Modes<sup>[[78](#references)]</sup>
 
 - **Convergent** (Focused): narrows things down to a single solution
 - **Divergent** (Diffuse): connects a wide variety of things to generate new ideas
 
 Both are needed for creativity. The challenge is to balance them.
 
-## The Four Stages of Creativity (G. Wallas)<sup>[[77](#references)]</sup>
+## 2. The Four Stages of Creativity (G. Wallas)<sup>[[78](#references)]</sup>
 
 Purpose: lessen fatigue and prevent creative burnout.
 
@@ -1471,7 +1464,7 @@ Incubation is important to **forget** about bad ideas and fixations. Otherwise y
 
 "Alternating incubation method" – two similar creative projects intersecting
 
-## The Seven Mental States (D. Kadavy)<sup>[[77](#references)]</sup>
+## 3. The Seven Mental States (D. Kadavy)<sup>[[78](#references)]</sup>
 
 Purpose: approaching your work in the wrong mental state can create a creative block
 
@@ -1493,7 +1486,7 @@ Switching states too often can cause a block (creates an excuse for distractions
 
 Different stuff work for different people.
 
-Chain a cue with other cues to design a routine (which can be anything) to get in a state. [r?]
+Chain a cue with other cues to design a routine (which can be anything) to get in a state.
 
 ### Match your mood to your work
 
@@ -1503,7 +1496,7 @@ Three questions:
 2. What mood do you need to be in to do that work?
 3. When was the last time you felt that way?
 
-## Environment setup<sup>[[77](#references)]</sup>
+## 4. Environment setup<sup>[[78](#references)]</sup>
 
 - creative = open space
 - analytical = closed space (less than 3m height)
@@ -1512,7 +1505,7 @@ Three questions:
 - also reclining is good for creative work
 - getting physical (walks, [exercise](#exercise)) is also good for creative work
 
-### Building creative endurance<sup>[[78](#references)]</sup>
+### Building creative endurance<sup>[[79](#references)]</sup>
 
 **List what you do in a day** to find time for creative activities. Look for activities that don't add value to your life such that you'd want to reduce or eliminate and consider scheduling a creative activity (10 minutes per day Is a minimum to build creative endurance). Once it's stable, set a goal.
 
@@ -1524,18 +1517,18 @@ Three questions:
 
 ## Contents
 
-1. [Music](#music)
-2. [Writing](#writing)
-3. TODO Worldbuilding
-4. More?
+1. [Music](#1-music)
+2. [Writing](#2-writing)
+3. Worldbuilding (coming soon)
+4. (More?)
 
-## Music
+## 1. Music
 
 <!-- ## Composition
 
 *Horizontal and vertical composition?* -->
 
-### Orchestral tips<sup>[[79](#references)]</sup><sup>[[80](#references)]</sup><sup>[[81](#references)]</sup>
+### Orchestral tips<sup>[[80](#references)]</sup><sup>[[81](#references)]</sup><sup>[[82](#references)]</sup>
 
 - Different types of instruments play different melodies, and when one type takes over the melody, other move to the background;
 - If one instrument is doing something, other instruments from that type are going to do that too;
@@ -1577,23 +1570,31 @@ When composing for violin or cello:
 - Focus on a sound section by section
 - Take advantage of the gaps to add strings for sweetiness
 
-### Mixing<sup>[[82](#references)]</sup><sup>[[83](#references)]</sup><sup>[[84](#references)]</sup>
+### Mixing<sup>[[83](#references)]</sup><sup>[[84](#references)]</sup><sup>[[85](#references)]</sup>
 
 Rules of mixing loud:
 1. Manage the dynamic range of each element
 2. Have enough high-mid frequencies
 
+<br />
+
 <!-- 82 end -->
 
 Types of volume:
-Peak volume - the loudest part that a signal gets
-RNS volume - average level of the signal over the past half a second or so
+- Peak volume - the loudest part that a signal gets
+- RNS volume - average level of the signal over the past half a second or so
+
 The further they are from each other, the larger the dynamic range is.
 
+<br />
+
 **Compression** is making the dynamic range smaller. To compress, you set a threshold, and whenever a signal tries to get over the threshold, you push it down towards it, or vice versa. (Downward and upward compression)
+
 **Expansion** is making the dynamic range larger. To expand, you push the signal up further away from the threshold (upward expansion), or down further away from it (downward expansion or gating).
 
 Consider mastering downward compression first.
+
+<br />
 
 #### Compression
 
@@ -1621,24 +1622,24 @@ To compress using a limiter, use the threshold, and then turn up the volume to g
 <!-- 
 ### Some theory behind catchy music *(messy)*
 
-• Add variation to repetition
-• Periodicity and syncopation *(check terms)* may greatly account for catchiness
-• For good orchestral music, make sure the melodies are listenable separately (from a [tutorial](https://www.youtube.com/watch?v=e36Av9nkScQ) by Alex Moukala)
+- Add variation to repetition
+- Periodicity and syncopation *(check terms)* may greatly account for catchiness
+- For good orchestral music, make sure the melodies are listenable separately (from a [tutorial](https://www.youtube.com/watch?v=e36Av9nkScQ) by Alex Moukala)
 
 ### Additional tips for better music composition
 
-• change the instrumentation; make guitar play keys or vice versa; it will change the way you look at the piece and help you come up with new ideas; ([Quora](<https://www.quora.com/How-long-does-it-take-to-compose-music>))
-• also, experience with dynamics; (#)
-• Transient - initial phase when e.g. the drumstick hit the surface; ([*Crispy claps*](https://youtu.be/HcNMPuQfABE), Underdog Electronic Music School)
-• Claps have a lot of peaks followed by the body instead of one peak and body like other percussion sounds do; (^)
-• Repetition makes it easier to develop and work with your ideas. Changing your ideas too fast makes it feel less developing and/or difficult to follow. (Ryan Leach?) -->
+- change the instrumentation; make guitar play keys or vice versa; it will change the way you look at the piece and help you come up with new ideas; ([Quora](<https://www.quora.com/How-long-does-it-take-to-compose-music>))
+- also, experience with dynamics; (#)
+- Transient - initial phase when e.g. the drumstick hit the surface; ([*Crispy claps*](https://youtu.be/HcNMPuQfABE), Underdog Electronic Music School)
+- Claps have a lot of peaks followed by the body instead of one peak and body like other percussion sounds do; (^)
+- Repetition makes it easier to develop and work with your ideas. Changing your ideas too fast makes it feel less developing and/or difficult to follow. (Ryan Leach?) -->
 
-### Tips for staying productive<sup>[[85](#references)]</sup>
+### Tips for staying productive<sup>[[86](#references)]</sup>
 
 1. Release yourself from pressure. Have a goal, but set your mind free from restrictions.
 2. Take consistent breaks and remove distractions.
 
-### Tips for staying inspired<sup>[[86](#references)]</sup>
+### Tips for staying inspired<sup>[[87](#references)]</sup>
 
 1. Make composing physical
 2. Stay inspired to be inspired. Listen to music that inspires you, dive into it
@@ -1656,7 +1657,7 @@ To compress using a limiter, use the threshold, and then turn up the volume to g
 2. Start on a different beat
 3. Start in a different direction
 
-## Music as a job<sup>[[87](#references)]</sup>
+### Music as a job<sup>[[88](#references)]</sup>
 
 {Warning: lots of questions.}
 
@@ -1682,17 +1683,17 @@ To compress using a limiter, use the threshold, and then turn up the volume to g
 - Never think you know everything; expose yourself to people in the same industry. Always learn something new, try new things to keep it interesting.
 6. **Life**. Where do you sit in life in terms of your obligations? Do you have people that depend on you? Look at the bigger picture, the long-term plan. What are your aspirations beyond music? Consider what sacrifices are you willing to make to achieve what you want.
 
-## Writing
+## 2. Writing
 
 ### Essential story requirements
 
-#### Exurb1a's criteria for stories<sup>[[88](#references)]</sup>
+#### Exurb1a's criteria for stories<sup>[[89](#references)]</sup>
 Stories have to be:
 1. About some**one** we understand;
 2. Set some**where** vaguely interesting;
 3. Propose some**thing**, anything even remotely new that we haven't thought about too much before.
 
-#### Six essential questions<sup>[[89](#references)]</sup><sup>[unnecessary?]</sup>
+#### Six essential questions<sup>[[90](#references)]</sup><sup>[unnecessary?]</sup>
 
 1. Who is it about?
 2. What did they want?
@@ -1701,7 +1702,7 @@ Stories have to be:
 5. Why doesn't that work?
 6. How does it end?
 
-### Style<sup>[[90](#references)]</sup>
+### Style<sup>[[91](#references)]</sup>
 
 #### Showing vs. telling
 
@@ -1739,9 +1740,9 @@ Good writing invites the reader to visualize the scene and experience the emotio
 
 When giving information, avoid "solving the problems" for the reader and instead give them the equation itself. Well-organized absence of information is what draws in. Imply the meaning rather than pointing it out to provide a way to discover.
 
-### Writing strategies<sup>[expand?]</sup>
+### Writing strategies<sup>[needs expansion]</sup>
 
-- "The secret to writing is getting started, and the secret to getting started is by writing."<sup>[[91](#references)]</sup>
+- "The secret to writing is getting started, and the secret to getting started is by writing."<sup>[[92](#references)]</sup>
 - The work is always accomplished one word at a time. (Stephen King)
 
 #### Comments in writing<sup>[no source]</sup>
@@ -1774,12 +1775,12 @@ My comment system:
 ([*9 tactics to build a stronger mind | Lisa Genova*](https://youtu.be/Fcx3WEhodBw), Big Think)
 
 ## Reduced risk for Alzheimer's:
-• physical activity
-• a heart-healthy diet
-• learning a second language later in life
-• being social; frequently interacting with people
-• protecting your head
-• intellectual activities (puzzles, instrument, reading, board games, education)
+- physical activity
+- a heart-healthy diet
+- learning a second language later in life
+- being social; frequently interacting with people
+- protecting your head
+- intellectual activities (puzzles, instrument, reading, board games, education)
 ([*Alzheimer's and the Brain*](https://youtu.be/dWcdBOYy_bU), Vsauce)
 
 For eating less, switch to smaller plates. ([source](https://youtu.be/zDGaXoMRLTU))
@@ -1857,66 +1858,69 @@ Top 5 Skill Trees (by Matt Sherman aka. Geek Psychology)
 39. Gifford, J., & Gifford, J. (2023). *Secret of the most productive people - Breaking | DeskTime blog*. DeskTime Insights. https://desktime.com/blog/17-52-ratio-most-productive-people
 40. *Sleep tips: 6 steps to better sleep*. (2022, May 7). Mayo Clinic. https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/sleep/art-20048379
 41. *Is It Healthy To Drink Water Before Bed?* (2023, April 24). Cleveland Clinic. https://health.clevelandclinic.org/drink-water-before-bed/
-42. Patel, A. K. (2022, September 7). *Physiology, sleep stages*. StatPearls - NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK526132/
-43. In59seconds. (2015, March 10). *How to fall asleep* [Video]. YouTube. https://www.youtube.com/watch?v=ZXt3brOQwKw
-44. Harvard Health. (2020a, July 7). *Blue light has a dark side*. https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side
-45. Yetman, D. (2021b, April 15). *The Benefits of Sleeping with a Pillow Between Your Legs*. Healthline. https://www.healthline.com/health/sleeping-with-pillow-between-legs
+42. *Napping: Do’s and don’ts for healthy adults*. (2022, November 9). Mayo Clinic. https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/napping/art-20048319
+43. Patel, A. K. (2022, September 7). *Physiology, sleep stages*. StatPearls - NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK526132/
+44. In59seconds. (2015, March 10). *How to fall asleep* [Video]. YouTube. https://www.youtube.com/watch?v=ZXt3brOQwKw
+45. Harvard Health. (2020a, July 7). *Blue light has a dark side*. https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side
+46. Yetman, D. (2021b, April 15). *The Benefits of Sleeping with a Pillow Between Your Legs*. Healthline. https://www.healthline.com/health/sleeping-with-pillow-between-legs
 
 ## Thoughts & emotions
 
-46. *10 Ways to Manage Everyday Stress*. Nemours TeensHealth. https://kidshealth.org/en/teens/stress-tips.html
-47. Rd, J. K. M. (2023, July 12). *16 simple ways to relieve stress*. Healthline. https://www.healthline.com/nutrition/16-ways-relieve-stress-anxiety#5.-Try-journaling
-50. *Meditation*. Mayo Clinic. (2022, May 5). https://www.mayoclinic.org/tests-procedures/meditation/about/pac-20385120
-51. *Releasing Stress through the power of Music | Counseling Services*. (n.d.). University of Nevada, Reno. https://www.unr.edu/counseling/virtual-relaxation-room/releasing-stress-through-the-power-of-music
-52. Matt Sherman - Geek Psychology. (2020, July 17). *How To Stay Positive In Times Of Stress* [Video]. YouTube. https://www.youtube.com/watch?v=KELFT_wd1wg
-53. Matt Sherman - Geek Psychology. (2020a, April 20). *Achieve your goals in 7 steps without stress* [Video]. YouTube. https://www.youtube.com/watch?v=qcUMFmssUOU
+47. *10 Ways to Manage Everyday Stress*. Nemours TeensHealth. https://kidshealth.org/en/teens/stress-tips.html
+48. Rd, J. K. M. (2023, July 12). *16 simple ways to relieve stress*. Healthline. https://www.healthline.com/nutrition/16-ways-relieve-stress-anxiety#5.-Try-journaling
+49. *Meditation*. Mayo Clinic. (2022, May 5). https://www.mayoclinic.org/tests-procedures/meditation/about/pac-20385120
+50. *Releasing Stress through the power of Music | Counseling Services*. (n.d.). University of Nevada, Reno. https://www.unr.edu/counseling/virtual-relaxation-room/releasing-stress-through-the-power-of-music
+51. Matt Sherman - Geek Psychology. (2020, July 17). *How To Stay Positive In Times Of Stress* [Video]. YouTube. https://www.youtube.com/watch?v=KELFT_wd1wg
+52. Matt Sherman - Geek Psychology. (2020a, April 20). *Achieve your goals in 7 steps without stress* [Video]. YouTube. https://www.youtube.com/watch?v=qcUMFmssUOU
 54. Better Than Yesterday. (2020, September 30). *Use Laziness To Your Advantage - The 20 Second Rule* [Video]. YouTube. https://www.youtube.com/watch?v=lj5SzG4XHJo
-55. Wikipedia contributors. (2023b). *Laziness*. Wikipedia. https://en.wikipedia.org/wiki/Laziness
+53. Wikipedia contributors. (2023b). *Laziness*. Wikipedia. https://en.wikipedia.org/wiki/Laziness
+55. Wikipedia contributors. (2023, August 21). Boredom. Wikipedia. https://en.wikipedia.org/wiki/Boredom
 56. Chaturvedi, M., & Rai, R. C. (2010). *Development of emotional stability scale*. Industrial Psychiatry Journal, 19(1), 37. https://doi.org/10.4103/0972-6748.77634
 57. Matt Sherman - Geek Psychology. (2022, February 2). *Build Better Habits By Stopping Relapse* [Video]. YouTube. https://www.youtube.com/watch?v=WN3dSEwNn7s
 58. Matt Sherman - Geek Psychology. (2020c, July 31). *Tips For Building Self Confidence* [Video]. YouTube. https://www.youtube.com/watch?v=d7hnPJMIZxQ
 59. *18 Ways on How to be More Confident | Tony Robbins*. (2023, June 23). tonyrobbins.com. https://www.tonyrobbins.com/building-confidence/how-to-be-confident/
 60. Shayan, N., AhmadiGatab, T., Jeloudar, J. G., & Ahangar, K. S. (2011). *The effect of playing music on the confidence level*. Procedia - Social and Behavioral Sciences, 30, 2061–2063. https://doi.org/10.1016/j.sbspro.2011.10.400
-61. TEDx Talks. (2012, January 24). *How meditation can Reshape our brains: Sara Lazar at TEDxCambridge 2011* [Video]. YouTube. https://www.youtube.com/watch?v=m8rRzTtP7Tc
-62. Big Think. (2014b, August 19). *Dan Harris: Hack Your Brain’s Default Mode with Meditation | Big Think* [Video]. YouTube. https://www.youtube.com/watch?v=FAcTIrA2Qhk
-64. Khan Academy. (2020, February 29). *Guided meditation for students* [Video]. YouTube. https://www.youtube.com/watch?v=K4YoQHjaziI
-65. Khan Academy. (2020b, February 29). *Guided meditation to help you stop procrastinating* [Video]. YouTube. https://www.youtube.com/watch?v=SXMBkHlL2Dc
-66. Nick Keomahavong. (2022, March 21). *How to develop a meditation habit* [Video]. YouTube. https://www.youtube.com/watch?v=a_c6U-MbM8k
+62. TEDx Talks. (2012, January 24). *How meditation can Reshape our brains: Sara Lazar at TEDxCambridge 2011* [Video]. YouTube. https://www.youtube.com/watch?v=m8rRzTtP7Tc
+61. Big Think. (2014b, August 19). *Dan Harris: Hack Your Brain’s Default Mode with Meditation | Big Think* [Video]. YouTube. https://www.youtube.com/watch?v=FAcTIrA2Qhk
+63. Khan Academy. (2020, February 29). *Guided meditation for students* [Video]. YouTube. https://www.youtube.com/watch?v=K4YoQHjaziI
+64. Khan Academy. (2020b, February 29). *Guided meditation to help you stop procrastinating* [Video]. YouTube. https://www.youtube.com/watch?v=SXMBkHlL2Dc
+65. Nick Keomahavong. (2022, March 21). *How to develop a meditation habit* [Video]. YouTube. https://www.youtube.com/watch?v=a_c6U-MbM8k
+66. Cuncic, A., MA. (2021, December 1). *How long should you meditate?* Verywell Mind. https://www.verywellmind.com/how-long-should-you-meditate-5208166
 
 ## Organization
 
 67. Better Than Yesterday. (2020b, November 30). *I Increased My Productivity 10x - By Turning My Life Into a Game* [Video]. YouTube. https://www.youtube.com/watch?v=s6tLGo9yij0
 68. Better Ideas. (2018, July 17). *5 Ways To Have 10x More Energy Throughout The Day* [Video]. YouTube. https://www.youtube.com/watch?v=C67MSxr_Sds
-92. Matt DiMaio. (2015, July 21). *How To ABSORB TEXTBOOKS Like A Sponge* [Video]. YouTube. https://www.youtube.com/watch?v=nqYmmZKY4sA
-69. Matt Sherman - Geek Psychology. (2021, April 30). *How To Stay Disciplined And Focused* [Video]. YouTube. https://www.youtube.com/watch?v=_1ddJeJ0sUE
-70. John Spencer. (2017, September 17). *The 7 Keys to Creative Collaboration* [Video]. YouTube. https://www.youtube.com/watch?v=2DmFFS0dqQc
+69. Matt DiMaio. (2015, July 21). *How To ABSORB TEXTBOOKS Like A Sponge* [Video]. YouTube. https://www.youtube.com/watch?v=nqYmmZKY4sA
+70. Matt Sherman - Geek Psychology. (2021, April 30). *How To Stay Disciplined And Focused* [Video]. YouTube. https://www.youtube.com/watch?v=_1ddJeJ0sUE
+71. John Spencer. (2017, September 17). *The 7 Keys to Creative Collaboration* [Video]. YouTube. https://www.youtube.com/watch?v=2DmFFS0dqQc
 
 ## Communication
 
-71. Wikipedia contributors. (2023a). *DISC assessment*. Wikipedia. https://en.wikipedia.org/wiki/DISC_assessment
-72. *Science behind DiSC®*. (n.d.). Discprofile.com. https://www.discprofile.com/what-is-disc/research-reliability-and-validity
-73. Personal notes from lectures at Łazarski University.
-74. *What is the DiSC assessment?* (n.d.). Discprofile.com. https://www.discprofile.com/what-is-disc
-75. Pease, A. (1981). *Body language: How to read others’ thoughts by their gestures*.
-76. Robinson, L. (2023). *Effective communication*. HelpGuide.org. https://www.helpguide.org/articles/relationships-communication/effective-communication.htm
+72. Wikipedia contributors. (2023a). *DISC assessment*. Wikipedia. https://en.wikipedia.org/wiki/DISC_assessment
+73. *Science behind DiSC®*. (n.d.). Discprofile.com. https://www.discprofile.com/what-is-disc/research-reliability-and-validity
+74. Personal notes from lectures at Łazarski University.
+75. *What is the DiSC assessment?* (n.d.). Discprofile.com. https://www.discprofile.com/what-is-disc
+76. Pease, A. (1981). *Body language: How to read others’ thoughts by their gestures*.
+77. Robinson, L. (2023). *Effective communication*. HelpGuide.org. https://www.helpguide.org/articles/relationships-communication/effective-communication.htm
 
 ## Creativity
 
-77. Kadavy, D. (2020). *Mind management, not time management: Productivity When Creativity Matters*. Kadavy, Inc.
-78. Bolander, J. (2019). *6 steps to building your creative endurance*. Mark McGuinness | Creative Coach. https://lateralaction.com/articles/creative-endurance/?cn-reloaded=1
+78. Kadavy, D. (2020). *Mind management, not time management: Productivity When Creativity Matters*. Kadavy, Inc.
+79. Bolander, J. (2019). *6 steps to building your creative endurance*. Mark McGuinness | Creative Coach. https://lateralaction.com/articles/creative-endurance/?cn-reloaded=1
 
 ## Creative activities
 
-79. Ryan Leach. (2022, March 16). *How to train your brass section* [Video]. YouTube. https://www.youtube.com/watch?v=A9nbWehBOfc
-80. Spitfire Audio. (2018, October 21). *Orchestral programming: Day One* [Video]. YouTube. https://www.youtube.com/watch?v=wtwQMlB1Gus
-81. Ryan Leach. (2021, February 26). *WRITING FOR VIOLIN & CELLO: Beginner-Intermediate advice for arranging strings and orchestration* [Video]. YouTube. https://www.youtube.com/watch?v=GWkK3IcVsIE
-82. Underdog Electronic Music School. (2022, March 14). *Why your mixes sound thin and weak (probably) [Video]. YouTube*. https://www.youtube.com/watch?v=2P_Opp4a6iY
-83. In The Mix. (2019, October 19). *The RIGHT way to use Compression - Detailed Mixing Tutorial* [Video]. YouTube. https://www.youtube.com/watch?v=yi0J9JsRdI4
-84. Underdog Electronic Music School. (2021, April 26). *Mixing loud: Managing your dynamic range using limiters* [Video]. YouTube. https://www.youtube.com/watch?v=x6suaLQaTXk
-85. Tom Schipper. (2020, June 5). *Staying productive when composing - 2 changes that got me out of a rut* [Video]. YouTube. https://www.youtube.com/watch?v=bOikTXvP-EE
-86. Tom Schipper. (2020a, March 24). *Staying inspired - 7 tips on how to compose when you’re feeling uninspired or not motivated to do so* [Video]. YouTube. https://www.youtube.com/watch?v=R1kt9vXOTCY
-87. Venus Theory. (2020, June 1). *I Quit My Job For Music Full Time | 6 Things I Learned* [Video]. YouTube. https://www.youtube.com/watch?v=TMbW3UoK8Xo
-88. exurb1a. (2018, February 25). *Feelings, Pictures, and Ideas: A very simple theory of why good stories are good* [Video]. YouTube. https://www.youtube.com/watch?v=k4P0YKeB_pM
-89. Film Courage. (2021, June 23). *If You Can’t Answer These 6 Questions You Don’t Have A Story - Glenn Gers* [Video]. YouTube. https://www.youtube.com/watch?v=uL0atQFZzL8
-90. Diane Callahan - Quotidian Writer. (2020, October 2). *How to Show, Not Tell: The complete writing guide* [Video]. YouTube. https://www.youtube.com/watch?v=YAKcbvioxFk
-91. GreySkull. (2022, March 20). *When you have writer’s block* [Video]. YouTube. https://www.youtube.com/watch?v=XuO0QX2DA_M
+80. Ryan Leach. (2022, March 16). *How to train your brass section* [Video]. YouTube. https://www.youtube.com/watch?v=A9nbWehBOfc
+81. Spitfire Audio. (2018, October 21). *Orchestral programming: Day One* [Video]. YouTube. https://www.youtube.com/watch?v=wtwQMlB1Gus
+82. Ryan Leach. (2021, February 26). *WRITING FOR VIOLIN & CELLO: Beginner-Intermediate advice for arranging strings and orchestration* [Video]. YouTube. https://www.youtube.com/watch?v=GWkK3IcVsIE
+83. Underdog Electronic Music School. (2022, March 14). *Why your mixes sound thin and weak (probably) [Video]. YouTube*. https://www.youtube.com/watch?v=2P_Opp4a6iY
+84. In The Mix. (2019, October 19). *The RIGHT way to use Compression - Detailed Mixing Tutorial* [Video]. YouTube. https://www.youtube.com/watch?v=yi0J9JsRdI4
+85. Underdog Electronic Music School. (2021, April 26). *Mixing loud: Managing your dynamic range using limiters* [Video]. YouTube. https://www.youtube.com/watch?v=x6suaLQaTXk
+86. Tom Schipper. (2020, June 5). *Staying productive when composing - 2 changes that got me out of a rut* [Video]. YouTube. https://www.youtube.com/watch?v=bOikTXvP-EE
+87. Tom Schipper. (2020a, March 24). *Staying inspired - 7 tips on how to compose when you’re feeling uninspired or not motivated to do so* [Video]. YouTube. https://www.youtube.com/watch?v=R1kt9vXOTCY
+88. Venus Theory. (2020, June 1). *I Quit My Job For Music Full Time | 6 Things I Learned* [Video]. YouTube. https://www.youtube.com/watch?v=TMbW3UoK8Xo
+89. exurb1a. (2018, February 25). *Feelings, Pictures, and Ideas: A very simple theory of why good stories are good* [Video]. YouTube. https://www.youtube.com/watch?v=k4P0YKeB_pM
+90. Film Courage. (2021, June 23). *If You Can’t Answer These 6 Questions You Don’t Have A Story - Glenn Gers* [Video]. YouTube. https://www.youtube.com/watch?v=uL0atQFZzL8
+91. Diane Callahan - Quotidian Writer. (2020, October 2). *How to Show, Not Tell: The complete writing guide* [Video]. YouTube. https://www.youtube.com/watch?v=YAKcbvioxFk
+92. GreySkull. (2022, March 20). *When you have writer’s block* [Video]. YouTube. https://www.youtube.com/watch?v=XuO0QX2DA_M

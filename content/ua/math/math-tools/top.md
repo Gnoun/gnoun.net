@@ -1,11 +1,11 @@
-# Mathematical Tools
+# Математичні Інструменти
 
-Here's a set of useful mathematical tools which you may find helpful in various situations.  
-A few comments regarding the tools:
+Ось набір корисних математичних інструментів, котрі вам можуть допомогти у багатьох ситуаціах.
+Декілька приміток щодо інструментів:
 
 <div class="indent-8">
 
-- If you encounter the expression "NaN", it is the abbreviation for "Not a Number"; in most cases, this means you haven't filled all the necessary boxes. Otherwise, it means your result indeed isn't a number.
-- Sometimes javascript fails to precisely approximate decimal expansions in the results, so it is recommended to trust up to 8-10 digits after the decimal point. If you know a solution to this, please contact me.
+- Якщо ви найдете вираз «NaN», це абревіатура від «Not a Number»; у більшісті випадків, це озаначає, що ви не заповнили усіх вимаганіх пустих мість. Інашке це означає, що ваш результат — дійсно не число.
+- Інколи javascript не вдається точно приблизити десяткові розширення у результатів, отже рекомендовано довіряти до 8-10 цифр після десяткової коми. Якщо ви знаєте рішення для цього, будь ласка зв'яжиться зі мною.
 
 </div>

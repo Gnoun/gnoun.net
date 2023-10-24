@@ -4,8 +4,20 @@
 
 <!-- <MdImage img="changelog-timeline.png" ></MdImage> -->
 
+### wersja 5.0.3
+#### 24 października 2023
+
+- Zaktualizowano sekcję Inne
+  - Poprawiono Samodoskonalenie
+    - Usunięto (mam nadzieję) wszystkie komentarze
+    - Naprawiono referencje
+    - Naprawiono większość linków wewnątrz sekcji
+- Przetłumaczono Matematykę na ukraiński
+- Pomniejsze poprawki w tłumaczeniach
+
+---
 ### wersja 5.0.2
-#### 5 października 2023
+#### 6 października 2023
 
 - Zaktualizowano sekcję Muzyka
   - Dodano opisy dla każdego utworu należącego do trzech albumów po Early works

@@ -1,1 +1,1 @@
-Every tool has an explanation below it with more information linked. You can always return to the top by clicking on the small "return to top" button under each tool.
+У кожного інструменту є пояснення нижче та більш інформацій у посиланні. Ви завжди можете повертати наверх клацаючи малий ґудзик «повертати наверх» під кожним інструментом.

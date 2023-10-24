@@ -1,7 +1,7 @@
 ---
 id: complex_division_polar
-name: Complex Division (polar form)
-readMore: https://proofwiki.org/wiki/Division_of_Complex_Numbers_in_Polar_Form
+name: Комплексне ділення (тригонометрична форма)
+readMore: https://studfile.net/preview/8972999/page:4/
 ---
 
-Dividing complex numbers in polar form is a bit easier than in rectangular form. The magnitudes can be divided separately from the rest of the number. The arguments of the cosine and sine functions can be subtracted from one another (click on the link below to see why).
+Ділення комплексних чисел у тригонометричної формі трохи простіше ниж у алгебраїчної. Модулі можно поділити окремо від решті  числа. Арнументи функцій синус і косинус можно віднімати один від другого (клацайте посилання нижче, щоб зрозуміти чому).

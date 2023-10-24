@@ -1,8 +1,8 @@
 ---
 id: distance_between_line_and_point
-name: Distance Between a Line and a Point
+name: Відстань від точки до прямої
 graph: elfgscenrs
-readMore: https://www.toppr.com/guides/maths/straight-lines/distance-of-point-from-a-line/#:~:text=This%20line%20is%20represented%20by,and%20%E2%88%92C%2FB%20respectively.&text=NM%20%3D%20d%20%3D%20%7CAx1,2%20%2B%20B2)%C2%BD.
+readMore: https://www.miyklas.com.ua/p/matematika-nush-serednya-shkola/6-klas/ratcionalni-chisla-15932/perpendikuliarnist-priamikh-vidstan-vid-tochki-do-priamoyi-seredinnii-per_-15967/re-03371d56-25bf-4ea0-8808-fb3fdc76e1b3
 ---
 
-To get the formula for the distance between a point and a line, we need to use the properties of a triangle where the height is the distance between the line and the point and the other two vertices are the points of intersections of the line with X and Y axes.
+Щоб отримати формулу для відстані від точки до прямої, нам треба використати властивості трикутника, де висота — відстань від точки до прямої, а точка й інші дві вершини — точки перехрестя прямої з осями X і Y.

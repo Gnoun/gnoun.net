@@ -1,9 +1,9 @@
 ---
 id: magnitude
-name: Vector Length (magnitude)
-readMore: https://en.wikipedia.org/wiki/Magnitude_(mathematics)#Normed_vector_spaces
+name: Довжина вектора
+readMore: https://www.miyklas.com.ua/p/geometria/9-klas/vektori-na-ploshchini-15442/zastosuvannia-vektoriv-do-rozv-iazannia-zadach-15449/re-7eaccf79-9c31-4b04-9248-eeca57df2c23
 seeAlso:
 - distance_between_points
 ---
 
-To find the magnitude of the vector, think of x and y coordinates as the lengths of legs of a right triangle, where the hypotenuse is the vector length itself. Apply the Pythagorean theorem to evaluate the magnitude.
+Щоб найти довжину вектора, подумайте про координатах x та y як довжинах катет прямокутного трикутника, де гіпотенуза — саме довжина вектора. Використайте теорему Пітагора, щоб розрахувати довжину.

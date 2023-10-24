@@ -4,8 +4,20 @@
 
 <!-- <MdImage img="changelog-timeline.png" ></MdImage> -->
 
+### lanzamiento 5.0.3
+#### 24 de octubre de 2023
+
+- Actualizado la sección Otros
+  - Arreglado la Autosuperación
+    - Eliminado (esperamente) todos los comentarios
+    - Arreglado las referencias
+    - Arreglado la mayoría de los enlaces entre secciones
+- Traducido Mates a ucraniano
+- Menores parches de traducción
+
+---
 ### lanzamiento 5.0.2
-#### 5 de octubre de 2023
+#### 6 de octubre de 2023
 
 - Actualizado la sección Música
   - Añadido descripciones para toda la música perteneciendo a los tres albumos después de Early works

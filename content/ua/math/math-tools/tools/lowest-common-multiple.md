@@ -1,10 +1,9 @@
 ---
 id: lcm
-name: Lowest Common Multiple
-readMore: https://en.wikipedia.org/wiki/Least_common_multiple
+name: Найменше спільне кратне
+readMore: https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B9%D0%BC%D0%B5%D0%BD%D1%88%D0%B5_%D1%81%D0%BF%D1%96%D0%BB%D1%8C%D0%BD%D0%B5_%D0%BA%D1%80%D0%B0%D1%82%D0%BD%D0%B5
 seeAlso:
 - gcf
 ---
 
-For two numbers A and B, a common multiple of A and B is a number C such that both C/A and C/B are natural numbers. The Lowest (or Least, or Smallest) Common Multiple
- is the smallest C.
+Для двох чисел А й Б, спільне кратне А й Б — це таке число В, що і В/А і В/Б — натуральні числа. Найменше спільне кратне — найменше В.

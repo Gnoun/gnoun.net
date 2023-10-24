@@ -1,9 +1,8 @@
 ---
 id: midpoint
-name: Midpoint
+name: Середня точка
 graph: jvgveg6azu
-readMore: https://en.wikipedia.org/wiki/Midpoint
+readMore: https://uk.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D1%8F_%D1%82%D0%BE%D1%87%D0%BA%D0%B0
 ---
 
-In order to find the coordinates of a point between two points - the midpoint - we take the mean of the X coordinates of both points and Y coordinates of both points separately.
-      
+Щоб найти координати точку між двома точками — середньої точки — ми рахуємо середню координатів X обох точок та координатів Y обох точок окремо.

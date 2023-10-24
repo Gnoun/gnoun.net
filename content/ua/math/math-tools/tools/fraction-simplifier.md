@@ -1,7 +1,7 @@
 ---
 id: fractions
-name: Fraction Simplifier
-readMore: https://en.wikipedia.org/wiki/Fraction#Simplifying_(reducing)_fractions
+name: Спрощувач дробів
+readMore: https://uk.wikipedia.org/wiki/%D0%94%D1%80%D1%96%D0%B1#%D0%A1%D0%BF%D1%80%D0%BE%D1%89%D0%B5%D0%BD%D0%BD%D1%8F
 ---
 
-To simplify a fraction, you need to divide both the numerator and the denominator by their [greatest common factor](gcf).
+Щоб спрощути дріб, вам треба поділити як чисельник, так і знаменник на їхню [найбільший спільний дільник](gcf).

@@ -182,7 +182,7 @@ module.exports = {
 	tbp: {
 		general: 'About the project',
 		health: 'Health',
-		time_management: 'Time Management',
+		time_management: 'Time management',
 		thoughts_emotions: 'Thoughts & emotions',
 		organization: 'Organization',
 		communication: 'Communication',

@@ -1,8 +1,8 @@
 ---
 id: distance_between_lines
-name: Distance Between (two parallel) Lines
+name: Відстань між (двома паралельними) прямими
 graph: 522m6qr82m
-readMore: https://en.wikipedia.org/wiki/Distance_between_two_parallel_lines
+readMore: https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%B4%D1%81%D1%82%D0%B0%D0%BD%D1%8C_%D0%BC%D1%96%D0%B6_%D0%BF%D1%80%D1%8F%D0%BC%D0%B8%D0%BC%D0%B8
 ---
 
-The shortest segment which is a distance between two parallel lines is part of a line perpendicular to the two. We use this fact to find the general formula for coordinates of two points, where each of the points belongs to one of the parallel lines and the same perpendicular line. After that, we apply the [distance between points](distance_between_points) formula to find and apply the formula for distance between the two lines.
+Найкоротший відрізок, який відстанню між двома паралельними прямими — частина прямої, яка до них прямовисна. Ми вживаємо цей факт, щоб знайти генеральну формулу для координатів двох точок, де кожна з точок належить до одної з паралельних прямих і тієї же самої прямовисної прямої. Після того, ми використуємо формулу для [відстані між точками](distance_between_points), щою знайти й використати формулу для відстані між двома прямими.

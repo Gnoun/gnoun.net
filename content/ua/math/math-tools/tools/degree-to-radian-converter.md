@@ -1,9 +1,9 @@
 ---
 id: degree_to_radian
-name: Degree to Radian Converter
-readMore: https://en.wikipedia.org/wiki/Radian
+name: Конвертер градусів на радіани
+readMore: https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D1%96%D0%B0%D0%BD
 seeAlso:
 - radian_to_degree
 ---
 
-Radians are a different way to measure angles based on the circle's perimeter - 360 degrees are equal to 2π radians. To convert degrees to radians, all you have to do is multiply by π and divide by 180°.
+Радіани — інший спосіб, щоб міряти кути, на основі периметра кола — 360 градусів дорівнюється 2π радіанів. Щоб конвертувати градуси на радіани, все, що вам треба зробити — помножити на π і поділити на 180°.
