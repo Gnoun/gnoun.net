@@ -1,1 +1,0 @@
-This album comprises most of my finished compositions from 2022-2023, the other belonging to other albums. Initially I planned to create at least two albums (calm piano, electric pieces) but the caesura formed in summer 2023 (lots of research on theory & sound as well as several other events) caused me to put it together into one album of loosely composed works.

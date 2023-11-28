@@ -1,5 +1,6 @@
 <template>
 	<div>
+		<BackToMath></BackToMath>
 		<Markdown id="math/math-tools/top" />
 		<br />
 		<div class="border-2 table mb-2">
@@ -8,11 +9,11 @@
 				<div>
 					1. <b>{{ $t('math.table.group1') }}</b>
 					<div class="indent-4">
-						<div>a. <GnounLink to="/math#fractions">{{ $t('math.table.tool1a') }}</GnounLink></div>
-						<div>b. <GnounLink to="/math#gcf" >{{ $t('math.table.tool1b') }}</GnounLink></div>
-						<div>c. <GnounLink to="/math#lcm" >{{ $t('math.table.tool1c') }}</GnounLink></div>
-						<div>d. <GnounLink to="/math#degree_to_radian" >{{ $t('math.table.tool1d') }}</GnounLink></div>
-						<div>e. <GnounLink to="/math#radian_to_degree" >{{ $t('math.table.tool1e') }}</GnounLink></div>
+						<div>a. <GnounLink to="/math/tools#fractions">{{ $t('math.table.tool1a') }}</GnounLink></div>
+						<div>b. <GnounLink to="/math/tools#gcf" >{{ $t('math.table.tool1b') }}</GnounLink></div>
+						<div>c. <GnounLink to="/math/tools#lcm" >{{ $t('math.table.tool1c') }}</GnounLink></div>
+						<div>d. <GnounLink to="/math/tools#degree_to_radian" >{{ $t('math.table.tool1d') }}</GnounLink></div>
+						<div>e. <GnounLink to="/math/tools#radian_to_degree" >{{ $t('math.table.tool1e') }}</GnounLink></div>
 					</div>
 				</div>
 				<div>
@@ -21,18 +22,18 @@
 						<div>
 							A. {{ $t('math.table.group2A') }}
 							<div class="indent-8">
-								<div>a. <GnounLink to="/math#magnitude" >{{ $t('math.table.tool2Aa') }}</GnounLink></div>
-								<div>b. <GnounLink to="/math#vector_cartesian_to_polar" >{{ $t('math.table.tool2Ab') }}</GnounLink></div>
-								<div>c. <GnounLink to="/math#vector_polar_to_cartesian" >{{ $t('math.table.tool2Ac') }}</GnounLink></div>
+								<div>a. <GnounLink to="/math/tools#magnitude" >{{ $t('math.table.tool2Aa') }}</GnounLink></div>
+								<div>b. <GnounLink to="/math/tools#vector_cartesian_to_polar" >{{ $t('math.table.tool2Ab') }}</GnounLink></div>
+								<div>c. <GnounLink to="/math/tools#vector_polar_to_cartesian" >{{ $t('math.table.tool2Ac') }}</GnounLink></div>
 							</div>
 						</div>
 						<div>
 							B. {{ $t('math.table.group2B') }}
 							<div class="indent-8">
-								<div>a. <GnounLink to="/math#distance_between_points" >{{ $t('math.table.tool2Ba') }}</GnounLink></div>
-								<div>b. <GnounLink to="/math#midpoint" >{{ $t('math.table.tool2Bb') }}</GnounLink></div>
-								<div>c. <GnounLink to="/math#distance_between_lines" >{{ $t('math.table.tool2Bc') }}</GnounLink></div>
-								<div>d. <GnounLink to="/math#distance_between_line_and_point" >{{ $t('math.table.tool2Bd') }}</GnounLink></div>
+								<div>a. <GnounLink to="/math/tools#distance_between_points" >{{ $t('math.table.tool2Ba') }}</GnounLink></div>
+								<div>b. <GnounLink to="/math/tools#midpoint" >{{ $t('math.table.tool2Bb') }}</GnounLink></div>
+								<div>c. <GnounLink to="/math/tools#distance_between_lines" >{{ $t('math.table.tool2Bc') }}</GnounLink></div>
+								<div>d. <GnounLink to="/math/tools#distance_between_line_and_point" >{{ $t('math.table.tool2Bd') }}</GnounLink></div>
 							</div>
 						</div>
 					</div>
@@ -40,13 +41,13 @@
 				<div>
 					3. <b>{{ $t('math.table.group3') }}</b>
 					<div class="indent-4">
-						<div>a. <GnounLink to="/math#complex_division" >{{ $t('math.table.tool3a') }}</GnounLink></div>
-						<div>b. <GnounLink to="/math#complex_division_polar" >{{ $t('math.table.tool3b') }}</GnounLink></div>
-						<div>c. <GnounLink to="/math#complex_rectangular_to_polar" >{{ $t('math.table.tool3c') }}</GnounLink></div>
-						<div>d. <GnounLink to="/math#complex_polar_to_rectangular" >{{ $t('math.table.tool3d') }}</GnounLink></div>
+						<div>a. <GnounLink to="/math/tools#complex_division" >{{ $t('math.table.tool3a') }}</GnounLink></div>
+						<div>b. <GnounLink to="/math/tools#complex_division_polar" >{{ $t('math.table.tool3b') }}</GnounLink></div>
+						<div>c. <GnounLink to="/math/tools#complex_rectangular_to_polar" >{{ $t('math.table.tool3c') }}</GnounLink></div>
+						<div>d. <GnounLink to="/math/tools#complex_polar_to_rectangular" >{{ $t('math.table.tool3d') }}</GnounLink></div>
 					</div>
 				</div>
-				<div>4. <GnounLink to="/math#external-links" >{{ $t('math.table.ext') }}</GnounLink></div>
+				<div>4. <GnounLink to="/math/tools#external-links" >{{ $t('math.table.ext') }}</GnounLink></div>
 			</div>
 		</div>
 		<Markdown id="math/math-tools/after-table-of-contents" />

@@ -41,7 +41,7 @@ module.exports = {
 		info: 'Сайт Ґноуна'
 	},
 	math: {
-		math: 'Математичні проекти',
+		math: 'Математика',
 		titles: {
 			graphs: 'Графіки',
 			tools: 'Інструменти',
@@ -137,17 +137,18 @@ module.exports = {
 		}
 	},
 	music: {
+		music: 'Музика',
 		titles: {
 			early_works: 'Early works',
 			mpd: 'MPD',
 			gon_guon: 'Gon Guon',
-			unknown: '???',
+			faceoff: 'A Faceoff with the Past',
 		},
 		desc: {
 			early_works: '2019-2020',
 			mpd: '2021-2022',
 			gon_guon: '2022-2023',
-			unknown: '2022-2023',
+			faceoff: '2022-2023',
 		},
 		chronological: 'Хронологічно',
 	},

@@ -1,0 +1,1 @@
+Ten album zawiera większość moich ukończonych kompozycji z 2022-2023; reszta należy do innych albumów. Z początku planowałem stworzyć conajmniej dwa albumy (spokojne pianino, elektryczne utwory), lecz cezura powstała latem 2023 (dużo researchu o teorii i dźwięku, a także kilka innych wydarzeń) sprawiły, że połączyłem je w jeden album luźnie stworzonych dzieł.

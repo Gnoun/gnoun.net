@@ -1,5 +1,3 @@
-<!-- <GnounLink :to="../music" class="z-40">{{ $t('other.backto') }}<span> {{ $t('other.other') }}</span></GnounLink> -->
-
 This album comprises most of my early compositions made in 2019-2020. It doesn't include some of my earliest compositions which can be found in the [chronological list](../music).
 
 It can be divided into several sub-albums:

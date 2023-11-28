@@ -58,7 +58,7 @@ module.exports = {
 		scinfo: '... Czy poszukiwałeś/aś Tajemnej Komnaty? Jeśli tak, szukaj dalej! Możesz okazać się jedyną osobą, która ją znajdzie.',
 	},
 	math: {
-		math: 'Matematyczne projekty',
+		math: 'Matematyka',
 		titles: {
 			graphs: 'Wykresy',
 			tools: 'Narzędzia',
@@ -154,17 +154,18 @@ module.exports = {
 		},
 	},
 	music: {
+		music: 'Muzyka',
 		titles: {
 			early_works: 'Early works',
 			mpd: 'MPD',
 			gon_guon: 'Gon Guon',
-			unknown: '???',
+			faceoff: 'A Faceoff with the Past',
 		},
 		desc: {
 			early_works: '2019-2020',
 			mpd: '2021-2022',
 			gon_guon: '2022-2023',
-			unknown: '2022-2023',
+			faceoff: '2022-2023',
 		},
 		chronological: 'Chronologicznie',
 	},

@@ -3,7 +3,7 @@
 		<Markdown id="music/music-top" />
 		<div class="grid grid-cols-4 gap-2 mt-2 mb-4 ml-5 mr-5">
 			<div
-				class="border-2 flex p-2"
+				class="border-2 p-2"
 				v-for="item in [
 					{
 						name: $t('music.titles.early_works'),
@@ -13,29 +13,29 @@
 					},
 					{
 						name: $t('music.titles.mpd'),
-						src: 'question.png',
+						src: 'titles/mpd.png',
 						link: 'music/mpd',
 						desc: $t('music.desc.mpd'),
 					},
 					{
 						name: $t('music.titles.gon_guon'),
-						src: 'question.png',
+						src: 'titles/gon-guon.png',
 						link: 'music/gon_guon',
 						desc: $t('music.desc.gon_guon'),
 					},
 					{
-						name: $t('music.titles.unknown'),
+						name: $t('music.titles.faceoff'),
 						src: 'question.png',
-						link: 'music/unknown',
-						desc: $t('music.desc.unknown'),
+						link: 'music/faceoff',
+						desc: $t('music.desc.faceoff'),
 					},
 				]"
 				:key="item.id"
 			>
-				<NuxtLink class="mx-auto text-center text-main" :to=item.link>
+				<NuxtLink class="flex flex-col mx-auto text-center items-center text-main" :to=item.link>
 					<img :src="require(`~/assets/images/${item.src}`)" :alt="item.name" style="width: 150px; height: 150px" class="border mx-1 mb-3" />
 					<div class="font-bold">{{ item.name }}</div>
-					<div class="font-normal">{{ item.desc }}</div>
+					<div>{{ item.desc }}</div>
 				</NuxtLink>
 			</div>
 		</div>

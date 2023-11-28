@@ -1,5 +1,6 @@
 <template>
 	<div>
+		<BackToMath></BackToMath>
 		<Markdown id="math/graphs-top" class="mb-5" />
 		<div
 			v-for="graph in graphs"

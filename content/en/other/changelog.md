@@ -4,6 +4,24 @@
 
 <!-- <MdImage img="changelog-timeline.png" ></MdImage> -->
 
+### release 5.0.4
+#### November 28th, 2023
+
+TODO fix Home configuration
+- Patched Math section
+  - Added "Back to Math" link at the beginning of each subsection
+  - Patched Math tools: Fixed links to each tool in the table of contents
+- Patched Music section
+  - Added "Back to Music" link at the beginning of each album subsection
+  - Added MPD icon
+  - Added Gon Guon icon
+  - Renamed "???" to "A Faceoff with the Past"
+  - Re-uploaded 5 pieces ("Steady Transiting", "Path of the Chaotic", "Temple Strider", "The Spirit of Adventure", "Boiling Flames")
+  - Patched album subpages
+    - The music now plays in album subpages
+    - Changed music files order from latest-earliest to earliest-latest
+
+---
 ### release 5.0.3
 #### October 24th, 2023
 

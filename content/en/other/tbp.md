@@ -780,7 +780,7 @@ To find secondary gains, ask yourself:
 
 ## 5. Building confidence & self-esteem
 
-### Mindset<sup>[[58](#references)]</sup> (Inside factors)
+### Mindset<sup>[[58](#references)]</sup>
 
 - Confidence is taking an action with the mindset of "I'm going to learn about/from this". (See failures as opportunities, not obstacles<sup>[[59](#references)]</sup>)
   - Give yourself the permission to make mistakes?
@@ -791,7 +791,7 @@ To find secondary gains, ask yourself:
   - Assess your needs & values<sup>[[59](#references)]</sup>
   - Learn what limiting beliefs decrease your confidence
 
-### Environment (Outside factors)
+### Environment
 
 - Maintain a good posture<sup>[[59](#references)]</sup>
 - Make eye contact
