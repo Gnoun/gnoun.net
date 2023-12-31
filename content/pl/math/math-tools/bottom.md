@@ -4,7 +4,7 @@ Oto kilka świetnych narzędzi matematycznych stworzonych przez innych ludzi, kt
 
 <br/>
 
-[<MdImage img="desmos-icon.png" alt="Desmos"></MdImage>](https://desmos.com/calculator)
+[<MdImage img="math/tools/desmos-icon.png" alt="Desmos"></MdImage>](https://desmos.com/calculator)
 
 ### [Kalkulator Graficzny Desmos](https://desmos.com/calculator)
 
@@ -12,7 +12,7 @@ Desmos jest świetnym narzędziem dającym możliwość rysowania wykresów funk
 
 <br/>
 
-[<MdImage img="wolframalpha-icon.png" alt="Desmos" width="256" height="125"></MdImage>](https://www.wolframalpha.com/)
+[<MdImage img="math/tools/wolframalpha-icon.png" alt="Desmos" width="256" height="125"></MdImage>](https://www.wolframalpha.com/)
 
 ### [WolframAlpha](https://www.wolframalpha.com/)
 

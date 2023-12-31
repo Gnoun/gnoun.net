@@ -1,5 +1,6 @@
 <div class="text-2xl">
 
-- [Other Other](/other/other)
+- [Реєстр Змін](/other/changelog)
+- [Iнше Iнше](/other/other)
 
 </div>

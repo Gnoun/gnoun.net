@@ -10,7 +10,7 @@ Obecnie gra nie posiada żadnych kopii, a oryginał przebywa w moim pokoju.
 
 <br>
 
-<MdImage img="łowcy-niebios/0.jpg" height="400"></MdImage>
+<MdImage img="other/łowcy-niebios/0.jpg" height="400"></MdImage>
 *Typowa rozgrywka Łowców Niebios.*
 
 ### Opis gry
@@ -79,87 +79,87 @@ Możesz otworzyć obraz w nowej karcie dla większych szczegółów.
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/1.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/1.jpg" height="300"></MdImage>
 *Wszystkie elementy gry na jednym zdjęciu. (Zeszyty nie są częścią gry.)*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/17.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/17.jpg" height="300"></MdImage>
 *Rozgrywka z punktu widzenia gracza*.
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/2.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/2.jpg" height="300"></MdImage>
 *Zbliżenie mapy w trakcie rozgrywki pokazujące rozwinięte miasto.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/3.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/3.jpg" height="300"></MdImage>
 *Zdjęcie tej samej rozgrywki w późniejszej fazie.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/4.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/4.jpg" height="300"></MdImage>
 *Gra przebywająca w swoim pudełku.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/5.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/5.jpg" height="300"></MdImage>
 *Okładka instrukcji.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/6.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/6.jpg" height="300"></MdImage>
 *Pierwsze dwie strony Intrsukcji: Spis Treści oraz Wprowadzenie.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/7.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/7.jpg" height="300"></MdImage>
 *Plansza główna (zakończona, 15 września).*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/8.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/8.jpg" height="300"></MdImage>
 *Stan głównej planszy na dzień 3 września z zakończonymi przygotowaniami do produkcji.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/9.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/9.jpg" height="300"></MdImage>
 *Wielki stos nieukończonych żetonów.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/10.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/10.jpg" height="300"></MdImage>
 *Żetony, kiedy były kolorowane.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/11.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/11.jpg" height="300"></MdImage>
 *Plansza klanu.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/12.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/12.jpg" height="300"></MdImage>
 *Plansza klanu podczas rozgrywki.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/13.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/13.jpg" height="300"></MdImage>
 *Niektóre z kart.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/14.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/14.jpg" height="300"></MdImage>
 *Stan gry na dzień 28 września 2021.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/15.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/15.jpg" height="300"></MdImage>
 *Przykładowa bitwa z fazy produkcji.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/16.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/16.jpg" height="300"></MdImage>
 *Karta "Tajemniczy Kuferek".*
 
 <br /><br />

@@ -10,7 +10,7 @@ The main (most developed) continent in Livuluria is called Omakea.
 
 <br />
 
-<MdImage img="Omakea.png"></MdImage>
+<MdImage img="other/livuluria/omakea.png"></MdImage>
 
 <br />
 
@@ -30,7 +30,7 @@ I spent approximately 144 hours working on this map. It was created by hand with
 
 <br />
 
-<MdImage img="Omakea-ridges.png"></MdImage>
+<MdImage img="other/livuluria/omakea-ridges.png"></MdImage>
 
 <br />
 

@@ -4,6 +4,39 @@
 
 <!-- <MdImage img="changelog-timeline.png" ></MdImage> -->
 
+### lanzamiento 5.0.5
+#### 31 de diciembre de 2023
+
+- Mejorado el backend del sitio
+  - Añadido Git LFS
+  - Reordernaba todos los assets
+- Actualizado la sección Otros
+  - Movido El Registro de Cambios desde la vista de cuadrícula a la lista debajo
+  - Añadido El dibujar (próximamente) en lugar del Registro de Cambios
+  - Parchado El Registro de Cambios:
+    - Añadido la perdida descipción de TBP en [5.0](#release-500-the-information-update)
+    - Parchado el formato de las fechas (en íngles)
+- Menores parchas de traducción
+- Actualizado el copyright
+
+---
+### lanzamiento 5.0.4
+#### 28 de noviembre de 2023
+
+- Parchado la sección Mates
+  - Añadido el enlace "Volver a Matemática" en el inicio de cada subsección
+  - Parchado Las herramientas de Mates: Parchado los enlaces a cada herramienta en el Índice de Contenidos
+- Parchado la sección Música
+  - Añadido el enclace "Volver a Música" en el inicio de cada subsección de albumo
+  - Añadido el icono de MPD
+  - Añadido el icono de Gon Guon
+  - Renombrado "???" to "A Faceoff with the Past"
+  - Re-cargado 5 piezos ("Steady Transiting", "Path of the Chaotic", "Temple Strider", "The Spirit of Adventure", "Boiling Flames")
+  - Parchado las subpaginas de los albumes
+    - Ahora la música está jugando en las subpaginas de albumes
+    - Cambiado los archivos de la música desde más últimos-más prontos a más prontos-más ultimos
+
+---
 ### lanzamiento 5.0.3
 #### 24 de octubre de 2023
 
@@ -84,8 +117,53 @@
     - Describido la Isla Baja
     - Describido el Pozo de los Perforadores
     - Describido la Fortaleza
-  - Añadido Autosuperación:
-    - Cargado el proyecto de TBP en su estado de 22 de septiembre de 2023
+  - Añadido Autosuperación (TBP):
+    - Escribido la descripción general
+    - Describido el proyectp
+      - Described el propósito del proyecto
+      - Described la estructura del proyecto
+      - Described la credibilidad del proyecto
+      - Añadido información sobre la contribución
+    - Añadido la sección La salud
+      - Añadido La salud de los ojos
+      - Añadido La salud de la espalda/espina
+      - Añadido El estómago y el comer
+      - Añadido Los ejercicios
+      - Añadido La masa muscular
+      - Añadido La presión arterial
+      - Añadido La salud de los otros partes del cuerpo
+    - Añadido la sección La gestión del tiempo
+      - Añadido Los consejos para gente naturalmente desorganizada
+      - Añadido El planear
+      - Añadido El tomar de los descansos
+      - Añadido La estrategia del dormir
+    - Añadido Los pensamientos y las emociones
+      - Añadido La gestión del estrés
+      - Añadido La gestión de las emociones y de los pensamientos
+      - Añadido La estabilidad emocional
+      - Añadido El parar de los costumbres males
+      - Añadido La construcción de la confianza y la autoestima
+      - Añadido La meditación
+    - Añadido la sección Organización
+      - Añadido El aumentar de la dopamina / la construcción de la productividad
+      - Añadido El aumentar de la energía
+      - Añadido Como absorbar los libros de texto como una esponja
+      - Añadido Más sobre la disciplina
+      - Añadido Los llaves para la colaboración creativa
+    - Añadido la sección Comunicación
+      - Añadido Los estiles de la comunicación
+      - Añadido La comunicación no verbal
+      - Añadido Otros
+    - Añadido la sección Creatividad
+      - Añadido Los Dos Modos de Pensamiento
+      - Añadido Los Cuatro Etapas de la Creatividad
+      - Añadido Los Siete Estados Mentales
+      - Añadido El organización del medioambiente
+    - Añadido la sección Los actividades creativas
+      - Añadido La música
+      - Añadido El escribir
+      - Añadido El Worldbuilding (próximamente)
+    - Añadido 92 referencias
   - Añadido Mi sistema de organización (próximamente)
   - Añadido El juego de Cuatras Puertas (próximamente)
   - Actualizado Registro de Cambios: (temporalmente) eliminado la cronologia de cambios

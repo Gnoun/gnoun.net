@@ -181,7 +181,7 @@ module.exports = {
 		system: 'Моя система организации',
 		daikova: 'Язык Даикова',
 		fourdoors: 'Гра Четырёх Дверей',
-		changelog: 'Список Изменений',
+		drawing: 'Рисунки',
 		about: 'Обо мне',
 
 		desc: {
@@ -193,7 +193,7 @@ module.exports = {
 			system: 'Вскоре',
 			daikova: 'Вскоре',
 			fourdoors: 'Вскоре',
-			changelog: 'Каждая маленькая измена тут написана',
+			drawing: 'Вскоре',
 			about: 'Кто Гноун?',
 		},
 		backto: 'Возврат в',

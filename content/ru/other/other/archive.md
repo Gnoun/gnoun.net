@@ -16,4 +16,4 @@
 
 <br />
 
-<MdImage img="old-website-faq.png" class="border"></MdImage>
+<MdImage img="other/other/archive/old-website-faq.png" class="border"></MdImage>

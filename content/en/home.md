@@ -8,7 +8,7 @@ Nice to see you here! On this website, everything is made from scratch by [Gnoun
 
 <div class="flex flex-row space-x-1 gap-5">
 
-<MdImage img="titles/music.png" width=300 height=300></MdImage>
+<MdImage img="music.png" width=300 height=300></MdImage>
 
 <div>
 
@@ -40,7 +40,7 @@ I also created a set of **[math tools](math/tools)** which are **comfortable and
 
 <div class="flex flex-row space-x-1 gap-5">
 
-<MdImage img="titles/self-improvement.png" width=300 height=300></MdImage>
+<MdImage img="other/self-improvement.png" width=300 height=300></MdImage>
 
 <div>
 
@@ -58,7 +58,7 @@ The notes here should help improve time management, health, creativity, motivati
 
 Another quickly growing part of my website is devoted to writing. **So far, unfortunately, I'm writing only in Polish**, but I hope my growing language skills will soon allow me to make my writing more accessible.
 
-<MdImage img="titles/duck.png" width=300 height=300></MdImage>
+<MdImage img="other/stories.png" width=300 height=300></MdImage>
 
 </div>
 

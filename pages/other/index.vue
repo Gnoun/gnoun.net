@@ -7,13 +7,13 @@
 				v-for="item in [
 					{
 						name: $t('other.stories'),
-						src: 'titles/duck.png',
+						src: 'other/stories.png',
 						link: 'other/stories',
 						desc: $t('other.desc.stories'),
 					},
 					{
 						name: $t('other.livuluria'),
-						src: 'titles/omakea.png',
+						src: 'other/omakea.png',
 						link: 'other/livuluria',
 						desc: $t('other.desc.livuluria'),
 					},
@@ -25,19 +25,19 @@
 					},
 					{
 						name: $t('other.łowcy_niebios'),
-						src: 'titles/łowcy-niebios.jpg',
+						src: 'other/łowcy-niebios.jpg',
 						link: 'other/łowcy-niebios',
 						desc: $t('other.desc.łowcy_niebios'),
 					},
 					{
 						name: $t('other.danaikor'),
-						src: 'titles/Danaikor.png',
+						src: 'other/danaikor.png',
 						link: 'other/danaikor',
 						desc: $t('other.desc.danaikor'),
 					},
 					{
 						name: $t('other.self_improvement'),
-						src: 'titles/self-improvement.png',
+						src: 'other/self-improvement.png',
 						link: 'other/tbp',
 						desc: $t('other.desc.self_improvement'),
 					},
@@ -54,10 +54,10 @@
 						desc: $t('other.desc.fourdoors'),
 					},
 					{
-						name: $t('other.changelog'),
-						src: 'changelog-timeline.png',
-						link: 'other/changelog',
-						desc: $t('other.desc.changelog'),
+						name: $t('other.drawing'),
+						src: 'question.png',
+						link: 'other/drawing',
+						desc: $t('other.desc.drawing'),
 					},
 					{
 						name: $t('other.about'),

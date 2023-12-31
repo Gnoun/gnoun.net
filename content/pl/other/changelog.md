@@ -4,6 +4,39 @@
 
 <!-- <MdImage img="changelog-timeline.png" ></MdImage> -->
 
+### wersja 5.0.5
+#### 31 grudnia 2023
+
+- Naprawiono backend strony
+  - Dodano Git LFS
+  - Zrerganizowano wszystkie assety
+- Zaktualizowano sekcję Inne
+  - Przeniesiono Listę Zmian z widoku siatki do listy poniżej
+  - Dodano Rysunki (wkrótce) w miejscu Listy Zmian
+  - Naprawiono Listę Zmian:
+    - Dodano brakujący opis TBP w [5.0](#release-500-the-information-update)
+    - Naprawiono format dat (po angielsku)
+- Pomniejsze poprawki w tłumaczeniach
+- Zaktualizowano prawa autorskie
+
+---
+### wersja 5.0.4
+#### 28 listopada 2023
+
+- Naprawiono sekcję Matematyka
+  - Dodano link "Powrót do Matematyka" na początku każdej podsekcji
+  - Naprawiono Matematyczne narzędzia: Naprawiono linki do każdego narzędzia w spisie treści
+- Naprawiono sekcję Muzyka
+  - Dodano link "Powrót do Muzyka" na początku podesekcji każdego albumu
+  - Dodano ikonę MPD
+  - Dodano ikonę Gon Guonu
+  - Zmieniono nazwę "???" na "A Faceoff with the Past"
+  - Wysłano ponownie 5 utworów ("Steady Transiting", "Path of the Chaotic", "Temple Strider", "The Spirit of Adventure", "Boiling Flames")
+  - Naprawiono podstrony albumów
+    - Muzyka teraz gra w podstronach albumów
+    - Zmieniono układ plików muzyki z najnowsze-najstarsze do najstarsze-najnowsze
+
+---
 ### wersja 5.0.3
 #### 24 października 2023
 
@@ -84,8 +117,53 @@
     - Opisano Wyspę Spodnią
     - Opisano Szyb Szperaczy
     - Opisano Twierdzę
-  - Dodano Samodoskonalenie:
-    - Wysłano projekt TBP w stanie z 22 września 2023
+  - Dodano Samodoskonalenie (TBP):
+    - Napisano ogólny opis
+    - Opisano projekt
+      - Opisano cel projektu
+      - Opisano strukturę projektu
+      - Opisano wiarygodność projektu
+      - Dodano informacje o możliwym wkładzie
+    - Dodano sekcję Zdrowie
+      - Dodano Zdrowie oczu
+      - Dodano Zdrowie plecow/kręgosłupa
+      - Dodano Brzuch i jedzenie
+      - Dodano Ćwiczenia
+      - Dodano Masa mięśniowa
+      - Dodano Ciśnienie krwi
+      - Dodano Zdrowie innych części ciała
+    - Dodano sekcję Zarządzanie czasem
+      - Dodano Rady dla naturalnie niezorganizowanych ludzi
+      - Dodano Planowanie
+      - Dodano Robienie przerw
+      - Dodano Strategia snu
+    - Dodano sekcję Myśli i emocje
+      - Dodano Zarządzanie stresem
+      - Dodano Zarządzanie emocjami i myślami
+      - Dodano Stabilność emocjonalna
+      - Dodano Powstrzymywanie złych nawyków
+      - Dodano Budowanie pewności siebie i poczucia własnej wartości
+      - Dodano Medytacja
+    - Dodano sekcję Organizacja
+      - Dodano Zwiększanie poziomu dopaminy /  budowanie produktywności
+      - Dodano Zwiększanie energii
+      - Dodano Jak absorbować podręczniki jak gąbkę
+      - Dodano Więcej o samodyscyplinie
+      - Dodano Klucze do kreatywnej kolaboracji
+    - Dodano sekcję Komunikacja
+      - Dodano Style komunikacji
+      - Dodano Komunikacja niewerbalna
+      - Dodano Inne
+    - Dodano sekcję Kreatywność
+      - Dodano Dwa Tryby Myślenia
+      - Dodano Cztery Etapy Kreatywności
+      - Dodano Siedem Stanów Umysłu
+      - Dodano Organizacja otoczenia
+    - Dodano Kreatywne zajęcia
+      - Dodano Muzyka
+      - Dodano Pisanie
+      - Dodano Worldbuilding (wkrótce)
+    - Dodano 92 referencji
   - Dodano Mój system organizacji (już wkrótce)
   - Dodano Gra Czterech Drzwi (już wkrótce)
   - Zaktualizowano Listę Zmian: (tymczasowo) usunięto linię czasu

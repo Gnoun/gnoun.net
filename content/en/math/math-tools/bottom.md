@@ -4,7 +4,7 @@ Here's a few great math tools made by different people which I highly recommend.
 
 <br/>
 
-[<MdImage img="desmos-icon.png" alt="Desmos"></MdImage>](https://desmos.com/calculator)
+[<MdImage img="math/tools/desmos-icon.png" alt="Desmos"></MdImage>](https://desmos.com/calculator)
 
 ### [Desmos Graphing Calculator](https://desmos.com/calculator)
 
@@ -12,7 +12,7 @@ Desmos is a great graphing site which offers graphing functions, equations, ineq
 
 <br/>
 
-[<MdImage img="wolframalpha-icon.png" alt="Desmos" width="256" height="125"></MdImage>](https://www.wolframalpha.com/)
+[<MdImage img="math/tools/wolframalpha-icon.png" alt="Desmos" width="256" height="125"></MdImage>](https://www.wolframalpha.com/)
 
 ### [WolframAlpha](https://www.wolframalpha.com/)
 

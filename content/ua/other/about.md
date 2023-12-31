@@ -4,7 +4,7 @@ I really like writing about myself so get ready for some boredom
 
 In this section I briefly explain who I am and the purpose and origin of what I do.
 
-<MdImage img="about3.png" alt="Plan of Actions – June 2023"></MdImage>
+<MdImage img="other/about/about3.png" alt="Plan of Actions – June 2023"></MdImage>
 
 *A plan of actions I made in June 2023.*
 

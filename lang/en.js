@@ -161,7 +161,7 @@ module.exports = {
 		system: 'My organization system',
 		daikova: 'The Daikova language',
 		fourdoors: 'The Four Doors game',
-		changelog: 'Changelog',
+		drawing: 'Drawing',
 		about: 'About',
 
 		backto: 'Back to',
@@ -176,7 +176,7 @@ module.exports = {
 			system: 'Coming soon',
 			daikova: 'Coming soon',
 			fourdoors: 'Coming soon',
-			changelog: 'Every little change is listed here',
+			drawing: 'Coming soon',
 			about: 'Who is Gnoun?',
 		},
 	},

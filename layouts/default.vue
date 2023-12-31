@@ -119,7 +119,7 @@
 					</div>
 				</div>
 				<h3>{{ $t('common.settings.soontm') }}</h3>
-				<div class="absolute bottom-2">Copyright © 2020-2023 by Gnoun</div>
+				<div class="absolute bottom-2">Copyright © 2020-2024 by Gnoun</div>
 			</div>
 		</div>
 	</div>

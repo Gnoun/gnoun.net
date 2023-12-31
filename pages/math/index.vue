@@ -7,13 +7,13 @@
 				v-for="item in [
 					{
 						name: $t('math.titles.graphs'),
-						src: 'titles/graphs.png',
+						src: 'math/graphs.png',
 						link: 'math/graphs',
 						desc: $t('math.desc.graphs'),
 					},
 					{
 						name: $t('math.titles.tools'),
-						src: 'titles/math-tools.png',
+						src: 'math/tools.png',
 						link: 'math/tools',
 						desc: $t('math.desc.tools'),
 					},

@@ -8,7 +8,7 @@
 
 <div class="flex flex-row space-x-1 gap-5">
 
-<MdImage img="titles/music.png" width=300 height=300></MdImage>
+<MdImage img="music.png" width=300 height=300></MdImage>
 
 <div>
 
@@ -40,7 +40,7 @@ También creí un juego de **[herramientas de mates](math/tools)** que estan **c
 
 <div class="flex flex-row space-x-1 gap-5">
 
-<MdImage img="titles/early-works.png" width=300 height=300></MdImage>
+<MdImage img="other/self-improvement.png" width=300 height=300></MdImage>
 
 <div>
 
@@ -57,7 +57,7 @@ Las notas aquí deberíán ayudar mejorar la gestión del tiempo, la salud, la c
 
 Una otra parte del sitio que crece rápido se dedica a la escritura de cuentos. **Hasta ahora, desafortunadamente, escribo solo en polaco**, pero creo que mis habilidades de idiomas creciendos pronto me permitirán a hacer mi escritura más accesible.
 
-<MdImage img="titles/duck.png" width=300 height=300></MdImage>
+<MdImage img="other/stories.png" width=300 height=300></MdImage>
 
 </div>
 
@@ -73,4 +73,4 @@ Hay una [sección entera](other/about) sobre eso, pero en pocas palabras, soy un
 
 ### El contacto
 
-- Discord: Gnoun
+- Discord: gnoun

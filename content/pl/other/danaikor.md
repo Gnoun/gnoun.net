@@ -6,7 +6,7 @@ Danaikor (z Daikovy "Oaza") to Minecraftowa mapa na adventure mode, jaką zbudo
 
 <br />
 
-<MdImage img="Danaikor.png"></MdImage>
+<MdImage img="other/danaikor/Danaikor.png"></MdImage>
 
 <br />
 
@@ -14,7 +14,7 @@ Zbudowałem tę mapę głównie po to, żeby trenować budowanie, lecz nie oznac
 
 ### Diabelski Parkour
 
-<MdImage img="Parkour.png" width=500></MdImage>
+<MdImage img="other/danaikor/Parkour.png" width=500></MdImage>
 
 <br />
 
@@ -22,7 +22,7 @@ Zwykły parkour poziom po poziomie podzielony na kilka większych obszarów. Mim
 
 ### Wyspa Spodnia
 
-<MdImage img="Island.png" width=500></MdImage>
+<MdImage img="other/danaikor/Island.png" width=500></MdImage>
 
 <br />
 
@@ -32,7 +32,7 @@ Zwykły parkour poziom po poziomie podzielony na kilka większych obszarów. Mim
 
 ### Szyb Szperaczy
 
-<MdImage img="Shaft.png" width=500></MdImage>
+<MdImage img="other/danaikor/Shaft.png" width=500></MdImage>
 
 <br />
 
@@ -42,8 +42,8 @@ Istnieje powód, dla którego wejście do tego poziomego szybu jest oznaczone ta
 
 <div class="flex flex-row space-x-1">
 
-<MdImage img="Fort.png" width=500></MdImage>
-<MdImage img="Fort2.png" width=500></MdImage>
+<MdImage img="other/danaikor/Fort.png" width=500></MdImage>
+<MdImage img="other/danaikor/Fort2.png" width=500></MdImage>
 
 </div>
 

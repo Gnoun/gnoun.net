@@ -127,7 +127,7 @@ Here's a good summary on healthy eating. You can read more [here](https://www.hs
 
 <br />
 
-<MdImage img="healthy-eating.png" height=600></MdImage>
+<MdImage img="other/tbp/healthy-eating.png" height=600></MdImage>
 
 <br />
 
@@ -180,7 +180,7 @@ You are 47% more likely to live an extra decade if you eat home-cooked meals fiv
 
 ### Does body type impact exercise?
 
-<MdImage img="body-shapes.jpg"></MdImage>
+<MdImage img="other/tbp/body-shapes.jpg"></MdImage>
 
 Recommended material: [blog post by Penn Medicine](https://www.pennmedicine.org/updates/blogs/health-and-wellness/2022/march/body-shape)
 
@@ -518,7 +518,7 @@ The ideal activity schedule:
 
 The **Eisenhower matrix** is one of the best prioritization techniques. It breaks all tasks into four categories:
 
-<MdImage img="Eisenhower-matrix.png" height=600></MdImage>
+<MdImage img="other/tbp/Eisenhower-matrix.png" height=600></MdImage>
 
 ([image source](https://instagantt.com/eisenhower-matrix-definition-guide-and-examples))
 

@@ -8,7 +8,7 @@
 
 <div class="flex flex-row space-x-1 gap-5">
 
-<MdImage img="titles/music.png" width=300 height=300></MdImage>
+<MdImage img="music.png" width=300 height=300></MdImage>
 
 <div>
 
@@ -40,7 +40,7 @@
 
 <div class="flex flex-row space-x-1 gap-5">
 
-<MdImage img="titles/self-improvement.png" width=300 height=300></MdImage>
+<MdImage img="other/self-improvement.png" width=300 height=300></MdImage>
 
 <div>
 
@@ -58,7 +58,7 @@
 
 Другая быстро растущая часть моего сайта посвящена писанию рассказов. **До сих пор, к сожалению, я пишу только по-польски**, но я верю, что мои растующи языкови навыки вскоре мне позволять сделать мои рассказы более доступными.
 
-<MdImage img="titles/duck.png" width=300 height=300></MdImage>
+<MdImage img="other/stories.png" width=300 height=300></MdImage>
 
 </div>
 
@@ -74,4 +74,4 @@
 
 ### Контакт
 
-- Discord: Gnoun#6012
+- Discord: gnoun

@@ -2,7 +2,7 @@
 
 # Sobre mí
 
-<MdImage img="about3.png" alt="Plan of Actions – June 2023"></MdImage>
+<MdImage img="other/about/about3.png" alt="Plan of Actions – June 2023"></MdImage>
 
 *Un plan de acciones que hice en junio de 2023.*
 
@@ -100,4 +100,4 @@ Mi ansia a diseñar parece quedarse constante. Empezando en 2022, he diseñado [
 
 <br />
 
-<MdImage img="NGVHQ.png" height=500></MdImage>
+<MdImage img="other/about/NGVHQ.png" height=500></MdImage>

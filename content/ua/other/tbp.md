@@ -125,7 +125,7 @@ Face-to-phone position gives abt. 27 kg (60 lbs) of pressure on your neck while 
 
 Here's a good summary on healthy eating. You can read more [here](https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/).
 
-<MdImage img="healthy-eating.png" height=600></MdImage>
+<MdImage img="other/tbp/healthy-eating.png" height=600></MdImage>
 
 #### What is unhealthy?[[10](#references)]
 
@@ -176,7 +176,7 @@ You are 47% more likely to live an extra decade if you eat home-cooked meals fiv
 
 ### Does body type impact exercise?
 
-<MdImage img="body-shapes.jpg"></MdImage>
+<MdImage img="other/tbp/body-shapes.jpg"></MdImage>
 
 Recommended material: [https://www.pennmedicine.org/updates/blogs/health-and-wellness/2022/march/body-shape]
 
@@ -514,7 +514,7 @@ The ideal activity schedule:
 
 The **Eisenhower matrix** is one of the best prioritization techniques. It breaks all tasks into four categories:
 
-<MdImage img="Eisenhower-matrix.png" height=600></MdImage>
+<MdImage img="other/tbp/Eisenhower-matrix.png" height=600></MdImage>
 
 [image source https://instagantt.com/eisenhower-matrix-definition-guide-and-examples]
 

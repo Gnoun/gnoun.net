@@ -7,19 +7,19 @@
 				v-for="item in [
 					{
 						name: $t('music.titles.early_works'),
-						src: 'titles/early-works.png',
+						src: 'music/early-works.png',
 						link: 'music/early_works',
 						desc: $t('music.desc.early_works'),
 					},
 					{
 						name: $t('music.titles.mpd'),
-						src: 'titles/mpd.png',
+						src: 'music/mpd.png',
 						link: 'music/mpd',
 						desc: $t('music.desc.mpd'),
 					},
 					{
 						name: $t('music.titles.gon_guon'),
-						src: 'titles/gon-guon.png',
+						src: 'music/gon-guon.png',
 						link: 'music/gon_guon',
 						desc: $t('music.desc.gon_guon'),
 					},

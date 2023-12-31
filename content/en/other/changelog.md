@@ -4,10 +4,25 @@
 
 <!-- <MdImage img="changelog-timeline.png" ></MdImage> -->
 
-### release 5.0.4
-#### November 28th, 2023
+### release 5.0.5
+#### 31 December 2023
 
-TODO fix Home configuration
+- Improved website backend
+  - Added Git LFS
+  - Reordered all assets
+- Updated Other section
+  - Moved Changelog from the grid view to the list below
+  - Added Drawing (coming soon) in place of Changelog
+  - Patched Changelog:
+    - Added the missing TBP description in [5.0](#release-500-the-information-update)
+    - Fixed the date format
+- Minor translation patches
+- Updated copyright
+
+---
+### release 5.0.4
+#### 28 November 2023
+
 - Patched Math section
   - Added "Back to Math" link at the beginning of each subsection
   - Patched Math tools: Fixed links to each tool in the table of contents
@@ -23,7 +38,7 @@ TODO fix Home configuration
 
 ---
 ### release 5.0.3
-#### October 24th, 2023
+#### 24 October 2023
 
 - Updated Other section
   - Patched Self-improvement
@@ -35,7 +50,7 @@ TODO fix Home configuration
 
 ---
 ### release 5.0.2
-#### October 6th, 2023
+#### 6 October 2023
 
 - Updated Music section
   - Added descriptions for all music belonging to the three albums after Early works
@@ -46,7 +61,7 @@ TODO fix Home configuration
 
 ---
 ### release 5.0.1
-#### October 1st, 2023
+#### 1 October 2023
 
 - Patched Music section: changed all music formats to FLAC
 - Patched Other section
@@ -55,7 +70,7 @@ TODO fix Home configuration
 
 ---
 ### release 5.0.0 "The Information Update"
-#### September 22nd, 2023
+#### 22 September 2023
 
 - Updated Home
   - Removed half of the welcome paragraph to rewrite below
@@ -103,8 +118,53 @@ TODO fix Home configuration
     - Described the Nether Island
     - Described the Burrowers' Shaft
     - Described the Fort
-  - Added Self-improvement:
-    - Uploaded the TBP project in its state as of 22 September 2023
+  - Added Self-improvement (TBP):
+    - Wrote the general description
+    - Described the project
+      - Described the project's purpose
+      - Described the project's structure
+      - Described the project's credibility
+      - Added information on contributing
+    - Added Health section
+      - Added Eye health
+      - Added Back/spine health
+      - Added Stomach & eating
+      - Added Exercise
+      - Added Muscle mass
+      - Added Blood pressure
+      - Added Other body parts health
+    - Added Time management section
+      - Added Tips for naturally disorganized people
+      - Added Planning
+      - Added Taking breaks
+      - Added Sleep Strategy
+    - Added Thoughts & emotions section
+      - Added Stress management
+      - Added Emotions & thoughts management
+      - Added Emotional stability
+      - Added Stopping bad habits
+      - Added Building confidence & self-esteem
+      - Added Meditation
+    - Added Organization section
+      - Added Increasing dopamine levels / building up productivity
+      - Added Increasing energy
+      - Added How to absorb textbooks like a sponge
+      - Added More on self-discipline
+      - Added Keys to Creative Collaboration
+    - Added Communication section
+      - Added Styles of communication
+      - Added Non-verbal communication
+      - Added Other
+    - Added Creativity section
+      - Added The Two Thinking Modes
+      - Added The Four Stages of Creativity
+      - Added The Seven Mental States
+      - Added Environment setup
+    - Added Creative activities
+      - Added Music
+      - Added Writing
+      - Added Worldbuilding (coming soon)
+    - Added 92 references
   - Added My organization system (coming soon)
   - Added The Four Doors game (coming soon)
   - Updated Changelog: (temporarily) removed the timeline
@@ -148,7 +208,7 @@ TODO fix Home configuration
 
 ---
 ### release 4.1.0 "The Worldbuilding Update"
-#### May 5th, 2023
+#### 5 May 2023
 
 - Updated Other section
   - Updated the Livuluria universe:
@@ -165,7 +225,7 @@ TODO fix Home configuration
 
 ---
 ### release 4.0.0 "The Creative Update"
-#### February 1st, 2023
+#### 1 February 2023
 
 <br />
 
@@ -201,7 +261,7 @@ TODO fix Home configuration
 
 ---
 ### release 3.0.4
-#### February 5th, 2022
+#### 5 February 2022
 
 <br />
 
@@ -210,7 +270,7 @@ TODO fix Home configuration
 
 ---
 ### release 3.0.3 "Sidebar Icons Patch"
-#### November 11th, 2021
+#### 11 November 2021
 
 <br />
 
@@ -219,7 +279,7 @@ TODO fix Home configuration
 
 ---
 ### release 3.0.2 "Icon Patch"
-#### October 15th, 2021
+#### 15 October 2021
 
 <br />
 
@@ -227,7 +287,7 @@ TODO fix Home configuration
 
 ---
 ### release 3.0.1 "Insect Patch"
-#### October 9th, 2021
+#### 9 October 2021
 
 <br />
 
@@ -237,7 +297,7 @@ TODO fix Home configuration
 
 ---
 ### release 3.0.0 "Other Update"
-#### August 18th, 2021
+#### 18 August 2021
 
 <br />
   
@@ -289,7 +349,7 @@ TODO fix Home configuration
 ---
 
 ### release 2.0.2
-#### April 1st, 2021
+#### 1 April 2021
 
 <br />
   
@@ -299,7 +359,7 @@ TODO fix Home configuration
 ---
 
 ### release 2.0.1
-#### March 31st, 2021
+#### 31 March 2021
 
 <br />
   
@@ -309,7 +369,7 @@ TODO fix Home configuration
 ---
 
 ### release 2.0.0 "Music Update"
-#### March 29th, 2021
+#### 29 March 2021
 
 <br />
   
@@ -355,7 +415,7 @@ TODO fix Home configuration
 ---
 
 ### release 1.0.2
-#### January 12th, 2021
+#### 12 January 2021
 
 <br />
   
@@ -368,7 +428,7 @@ TODO fix Home configuration
 ---
 
 ### release 1.0.1
-#### December 14th, 2020
+#### 14 December 2020
 
 <br />
   
@@ -379,7 +439,7 @@ TODO fix Home configuration
 ---
 
 ### release 1.0.0 "Math Update" or "Public Update"
-#### December 12th, 2020
+#### 12 December 2020
 
 <br />
 
@@ -423,7 +483,7 @@ TODO fix Home configuration
 ---
 
 ### beta 1.1
-#### April 1st, 2020
+#### 1 April 2020
 
 <br />
   
@@ -434,7 +494,7 @@ TODO fix Home configuration
 ---
 
 ### beta 1.0
-#### March 10th, 2020
+#### 10 March 2020
 
 <br />
   

@@ -10,7 +10,7 @@
 
 <br>
 
-<MdImage img="łowcy-niebios/0.jpg" height="400"></MdImage>
+<MdImage img="other/łowcy-niebios/0.jpg" height="400"></MdImage>
 *Типичная партия игры «Łowcy Niebios».*
 
 ### Описание игры
@@ -77,87 +77,87 @@
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/1.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/1.jpg" height="300"></MdImage>
 *Все элементы игры в одном фото. (Тетради нет частью игры.)*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/17.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/17.jpg" height="300"></MdImage>
 *Игра с точки зрения игрока.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/2.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/2.jpg" height="300"></MdImage>
 *Увеличение карты в течении партии показывающие развитый город.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/3.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/3.jpg" height="300"></MdImage>
 *Образ той же самой партии в её позднейшей фазе.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/4.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/4.jpg" height="300"></MdImage>
 *Игра пребывающая в своей коробке.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/5.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/5.jpg" height="300"></MdImage>
 *Обложка Инструкцей.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/6.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/6.jpg" height="300"></MdImage>
 *Два первые страницы Инструкции: Оглавление и Вступление.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/7.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/7.jpg" height="300"></MdImage>
 *Главная доска (как закончена 15 сентября).*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/8.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/8.jpg" height="300"></MdImage>
 *Главная доска по состоянию на 3 сентября с законченой подготовкой к производствю.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/9.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/9.jpg" height="300"></MdImage>
 *Гигантская куча незаконченных жетонов.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/10.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/10.jpg" height="300"></MdImage>
 *Жетоны в течении раскрашения.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/11.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/11.jpg" height="300"></MdImage>
 *Доска клана.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/12.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/12.jpg" height="300"></MdImage>
 *Доска клана во время партии.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/13.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/13.jpg" height="300"></MdImage>
 *Некоторые из карт.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/14.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/14.jpg" height="300"></MdImage>
 *Игра по состоянию на 28 сентября 2021.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/15.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/15.jpg" height="300"></MdImage>
 *Примерная битва из фазы производствия.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/16.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/16.jpg" height="300"></MdImage>
 *Карта «Секретный Сундук».*
 
 <br /><br />

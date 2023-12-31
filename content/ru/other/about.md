@@ -2,7 +2,7 @@
 
 # Обо мне
 
-<MdImage img="about3.png" alt="Plan of Actions – June 2023"></MdImage>
+<MdImage img="other/about/about3.png" alt="Plan of Actions – June 2023"></MdImage>
 
 *План действий, который я сделал в июне 2023 г.*
 
@@ -100,4 +100,4 @@
 
 <br />
 
-<MdImage img="NGVHQ.png" height=500></MdImage>
+<MdImage img="other/about/NGVHQ.png" height=500></MdImage>

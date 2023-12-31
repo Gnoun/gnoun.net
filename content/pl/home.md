@@ -8,7 +8,7 @@ Miło Cię tu widzieć! Wszystko na tej stronie powstaje od zera, a tworzy to [G
 
 <div class="flex flex-row space-x-1 gap-5">
 
-<MdImage img="titles/music.png" width=300 height=300></MdImage>
+<MdImage img="music.png" width=300 height=300></MdImage>
 
 <div>
 
@@ -40,7 +40,7 @@ Stworzyłem również zestaw **[matematycznych narzędzi](math/tools)**, które 
 
 <div class="flex flex-row space-x-1 gap-5">
 
-<MdImage img="titles/self-improvement.png" width=300 height=300></MdImage>
+<MdImage img="other/self-improvement.png" width=300 height=300></MdImage>
 
 <div>
 
@@ -58,7 +58,7 @@ Notatki te powinny pomóc poprawić zarządzanie czasem, zdrowie, kreatywność,
 
 Następna szybko rozwijająca się część mojej strony jest poświęcona pisaniu. Jak dotąd niestety piszę tylko po polsku, lecz liczę na to, że moje rosnące umiejętności językowe wkrótce pozwolą mi sprawić, aby moje dzieła były bardziej dostępne.
 
-<MdImage img="titles/duck.png" width=300 height=300></MdImage>
+<MdImage img="other/stories.png" width=300 height=300></MdImage>
 
 </div>
 

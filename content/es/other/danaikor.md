@@ -6,7 +6,7 @@ Danaikor (en Daikova, "Oasis") es un mapa Minecraft para adventure mode, que con
 
 <br />
 
-<MdImage img="Danaikor.png"></MdImage>
+<MdImage img="other/danaikor/Danaikor.png"></MdImage>
 
 <br />
 
@@ -14,7 +14,7 @@ El principal propósito de construir este mapa era para practicar la construcci�
 
 ### El Parkour Diabólico
 
-<MdImage img="Parkour.png" width=500></MdImage>
+<MdImage img="other/danaikor/Parkour.png" width=500></MdImage>
 
 <br />
 
@@ -22,7 +22,7 @@ Un parkour regular etapa por etapa dividido en varios areas más largas. Aunque 
 
 ### La Isla Baja
 
-<MdImage img="Island.png" width=500></MdImage>
+<MdImage img="other/danaikor/Island.png" width=500></MdImage>
 
 <br />
 
@@ -30,7 +30,7 @@ Un parkour regular etapa por etapa dividido en varios areas más largas. Aunque 
 
 ### El Pozo de los Perforadores
 
-<MdImage img="Shaft.png" width=500></MdImage>
+<MdImage img="other/danaikor/Shaft.png" width=500></MdImage>
 
 <br />
 
@@ -40,8 +40,8 @@ Hay un porque para este pozo horizontal a tener su entrada marcado con una seña
 
 <div class="flex flex-row space-x-1">
 
-<MdImage img="Fort.png" width=500></MdImage>
-<MdImage img="Fort2.png" width=500></MdImage>
+<MdImage img="other/danaikor/Fort.png" width=500></MdImage>
+<MdImage img="other/danaikor/Fort2.png" width=500></MdImage>
 
 </div>
 

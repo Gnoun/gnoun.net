@@ -8,7 +8,7 @@
 
 <div class="flex flex-row space-x-1 gap-5">
 
-<MdImage img="titles/music.png" width=300 height=300></MdImage>
+<MdImage img="music.png" width=300 height=300></MdImage>
 
 <div>
 
@@ -40,7 +40,7 @@
 
 <div class="flex flex-row space-x-1 gap-5">
 
-<MdImage img="titles/early-works.png" width=300 height=300></MdImage>
+<MdImage img="other/self-improvement.png" width=300 height=300></MdImage>
 
 <div>
 
@@ -58,7 +58,7 @@
 
 Інша швидко ростуча частина мого сайта жертвувана письму. **Поки що, на жаль, я пишу тільки польською мовою**, але вірю, що мої ростучі мовні вміння скоро мене дозволять зробити моє письмо більш доступним.
 
-<MdImage img="titles/duck.png" width=300 height=300></MdImage>
+<MdImage img="other/stories.png" width=300 height=300></MdImage>
 
 </div>
 

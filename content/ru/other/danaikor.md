@@ -6,7 +6,7 @@
 
 <br />
 
-<MdImage img="Danaikor.png"></MdImage>
+<MdImage img="other/danaikor/Danaikor.png"></MdImage>
 
 <br />
 
@@ -14,7 +14,7 @@
 
 ### Дьявольский Паркур
 
-<MdImage img="Parkour.png" width=500></MdImage>
+<MdImage img="other/danaikor/Parkour.png" width=500></MdImage>
 
 <br />
 
@@ -22,7 +22,7 @@
 
 ### Нижний остров
 
-<MdImage img="Island.png" width=500></MdImage>
+<MdImage img="other/danaikor/Island.png" width=500></MdImage>
 
 <br />
 
@@ -30,7 +30,7 @@
 
 ### Шахта Роющих
 
-<MdImage img="Shaft.png" width=500></MdImage>
+<MdImage img="other/danaikor/Shaft.png" width=500></MdImage>
 
 <br />
 
@@ -40,8 +40,8 @@
 
 <div class="flex flex-row space-x-1">
 
-<MdImage img="Fort.png" width=500></MdImage>
-<MdImage img="Fort2.png" width=500></MdImage>
+<MdImage img="other/danaikor/Fort.png" width=500></MdImage>
+<MdImage img="other/danaikor/Fort2.png" width=500></MdImage>
 
 </div>
 

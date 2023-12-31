@@ -178,7 +178,7 @@ module.exports = {
 		system: 'Mój system organizacji',
 		daikova: 'Język Daikova',
 		fourdoors: 'Gra Czterech Drzwi',
-		changelog: 'Lista Zmian',
+		drawing: 'Rysunki',
 		about: 'O mnie',
 
 		backto: 'Powrót do',
@@ -193,7 +193,7 @@ module.exports = {
 			system: 'Już wkrótce',
 			daikova: 'Już wkrótce',
 			fourdoors: 'Już wkrótce',
-			changelog: 'Każda mała zmiana jest tu spisana',
+			drawing: 'Już wkrótce',
 			about: 'Kim jest Gnoun?',
 		},
 	},

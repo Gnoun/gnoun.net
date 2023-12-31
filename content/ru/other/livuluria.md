@@ -10,7 +10,7 @@
 
 <br />
 
-<MdImage img="Omakea.png"></MdImage>
+<MdImage img="other/livuluria/omakea.png"></MdImage>
 
 <br />
 
@@ -30,7 +30,7 @@
 
 <br />
 
-<MdImage img="Omakea-ridges.png"></MdImage>
+<MdImage img="other/livuluria/omakea-ridges.png"></MdImage>
 
 <br />
 

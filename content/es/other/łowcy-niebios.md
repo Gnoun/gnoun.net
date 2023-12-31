@@ -10,7 +10,7 @@ Actualmente no copias de este juego existen y el original (en polaco) está qued
 
 <br>
 
-<MdImage img="łowcy-niebios/0.jpg" height="400"></MdImage>
+<MdImage img="other/łowcy-niebios/0.jpg" height="400"></MdImage>
 *Una partida típica de Łowcy Niebios.*
 
 ### La descripción del juego
@@ -79,87 +79,87 @@ Puede abrir los imagenes en una pestaña nueva para más detalles.
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/1.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/1.jpg" height="300"></MdImage>
 *Todos los elementos del juego en una foto. (Los cuadernos no son parte del juego.)*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/17.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/17.jpg" height="300"></MdImage>
 *La partida desde el punto de vista de un jugador.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/2.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/2.jpg" height="300"></MdImage>
 *Un zumbido del mapa durante una partida mostrando una ciudad desarrollada.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/3.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/3.jpg" height="300"></MdImage>
 *Un imagen de la misma partida en su fase más tarde.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/4.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/4.jpg" height="300"></MdImage>
 *El juego quedándose en su caja.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/5.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/5.jpg" height="300"></MdImage>
 *La cubierta de la Instrucción.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/6.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/6.jpg" height="300"></MdImage>
 *Las primeras dos páginas de la Instrucción: el Índice de Contenidos y la Introducción.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/7.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/7.jpg" height="300"></MdImage>
 *El tablero principal (como terminado el 15 de septiembre).*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/8.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/8.jpg" height="300"></MdImage>
 *El tablero principal a partir del 3 de septiembre con preparaciones para producción completas.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/9.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/9.jpg" height="300"></MdImage>
 *Una pila gigante de fichas incompletas.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/10.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/10.jpg" height="300"></MdImage>
 *Las fichas como se estaban coloreando.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/11.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/11.jpg" height="300"></MdImage>
 *Un tablero del clan.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/12.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/12.jpg" height="300"></MdImage>
 *Un tablero del clan durante una partida.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/13.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/13.jpg" height="300"></MdImage>
 *Algunos de las cartas.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/14.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/14.jpg" height="300"></MdImage>
 *El juego a partir del 28 de septiembre de 2021.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/15.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/15.jpg" height="300"></MdImage>
 *Un ejemplo de batalla de la fase de producción.*
 
 <br /><br />
 
-<MdImage img="łowcy-niebios/16.jpg" height="300"></MdImage>
+<MdImage img="other/łowcy-niebios/16.jpg" height="300"></MdImage>
 *Una carta "Cofre Secreto".*
 
 <br /><br />

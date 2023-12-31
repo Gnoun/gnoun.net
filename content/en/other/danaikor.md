@@ -6,7 +6,7 @@ Danaikor (Daikova for "Oasis") is a Minecraft adventure mode map I built in 2022
 
 <br />
 
-<MdImage img="Danaikor.png"></MdImage>
+<MdImage img="other/danaikor/Danaikor.png"></MdImage>
 
 <br />
 
@@ -14,7 +14,7 @@ The main purpose I built this map for was building training, but that doesn't me
 
 ### The Devilish Parkour
 
-<MdImage img="Parkour.png" width=500></MdImage>
+<MdImage img="other/danaikor/Parkour.png" width=500></MdImage>
 
 <br />
 
@@ -22,7 +22,7 @@ A regular stage-by-stage parkour divided into several larger areas. Although the
 
 ### The Nether Island
 
-<MdImage img="Island.png" width=500></MdImage>
+<MdImage img="other/danaikor/Island.png" width=500></MdImage>
 
 <br />
 
@@ -30,7 +30,7 @@ A regular stage-by-stage parkour divided into several larger areas. Although the
 
 ### The Burrowers' Shaft
 
-<MdImage img="Shaft.png" width=500></MdImage>
+<MdImage img="other/danaikor/Shaft.png" width=500></MdImage>
 
 <br />
 
@@ -40,8 +40,8 @@ There is a purpose for this horizontal shaft's entrance to be marked with a "do 
 
 <div class="flex flex-row space-x-1">
 
-<MdImage img="Fort.png" width=500></MdImage>
-<MdImage img="Fort2.png" width=500></MdImage>
+<MdImage img="other/danaikor/Fort.png" width=500></MdImage>
+<MdImage img="other/danaikor/Fort2.png" width=500></MdImage>
 
 </div>
 
